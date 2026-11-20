@@ -1,0 +1,69 @@
+<template>
+<style>
+:root{--bg:#14172d;--bg2:#1d2142;--y:#ffd21f;--y2:#ffb800;--coral:#ff6b5b;--mint:#3ddc97;--sky:#7cc4ff;--ivory:#f5f1e8;--muted:#9aa0c3}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1920px;height:1080px;overflow:hidden;background:var(--bg)}
+#root-unused{width:100%;height:100%;position:relative;font-family:'Manrope',sans-serif;color:var(--ivory)}
+.frame{position:absolute;inset:0;overflow:hidden;background:var(--bg)}
+/* one-colour studio: same hue, light only */
+.stage{position:absolute;inset:0;background:
+ radial-gradient(ellipse 60% 70% at var(--lx,70%) 38%, rgba(98,110,200,.42), transparent 70%),
+ linear-gradient(180deg, transparent 0 66%, rgba(0,0,0,.28) 66.2%, rgba(0,0,0,.05) 100%)}
+.floor{position:absolute;left:-10%;right:-10%;top:66%;bottom:-20%;transform:perspective(900px) rotateX(62deg);transform-origin:top;
+ background-image:linear-gradient(rgba(140,150,255,.10) 2px,transparent 2px),linear-gradient(90deg,rgba(140,150,255,.10) 2px,transparent 2px);background-size:120px 120px;
+ -webkit-mask-image:linear-gradient(#000,transparent 75%)}
+.vig{position:absolute;inset:0;background:radial-gradient(ellipse 85% 80% at 50% 45%,transparent 55%,rgba(0,0,0,.55));pointer-events:none}
+.pool{position:absolute;border-radius:50%;background:radial-gradient(ellipse at center,rgba(255,210,31,.28),rgba(255,210,31,0) 70%)}
+.cshadow{position:absolute;border-radius:50%;background:radial-gradient(ellipse at center,rgba(0,0,0,.65),rgba(0,0,0,0) 70%)}
+.char{position:absolute;filter:drop-shadow(0 30px 40px rgba(0,0,0,.45))}
+.h{font-family:'Unbounded',sans-serif;font-weight:900;letter-spacing:-.02em;line-height:1.05}
+.x3d{color:var(--y);text-shadow:0 1px 0 #f0bf00,0 2px 0 #e3b200,0 3px 0 #d6a600,0 4px 0 #c99a00,0 5px 0 #bb8e00,0 6px 0 #ad8200,0 8px 2px rgba(0,0,0,.35),0 24px 40px rgba(0,0,0,.55)}
+.w3d{color:#fff;text-shadow:0 1px 0 #d9dcf0,0 2px 0 #c3c7e3,0 3px 0 #aeb3d6,0 4px 0 #989ec9,0 5px 0 #8389bb,0 8px 2px rgba(0,0,0,.35),0 24px 40px rgba(0,0,0,.55)}
+.glass{position:absolute;background:linear-gradient(145deg,rgba(255,255,255,.14),rgba(255,255,255,.04));border:1.5px solid rgba(255,255,255,.18);border-radius:32px;
+ box-shadow:inset 0 1px 0 rgba(255,255,255,.25),0 40px 80px rgba(0,0,0,.45);backdrop-filter:blur(18px)}
+.chip{display:inline-flex;align-items:center;gap:14px;padding:14px 28px;border-radius:999px;font-weight:800;font-size:30px;letter-spacing:.06em;text-transform:uppercase;
+ background:linear-gradient(180deg,#ffe066,#ffc800);color:#1a1a1a;box-shadow:inset 0 2px 0 rgba(255,255,255,.6),inset 0 -4px 0 rgba(0,0,0,.18),0 18px 30px rgba(0,0,0,.4)}
+.chip.dark{background:linear-gradient(180deg,#2b3060,#1f2347);color:var(--ivory);box-shadow:inset 0 1px 0 rgba(255,255,255,.2),0 18px 30px rgba(0,0,0,.4)}
+.cap{position:absolute;left:120px;bottom:110px}
+.cap .k{font-size:28px;font-weight:800;letter-spacing:.18em;color:var(--muted);text-transform:uppercase;margin-bottom:18px}
+/* 3D phone */
+.p3d{position:absolute;perspective:2200px}
+.phone{width:500px;height:1000px;border-radius:70px;padding:18px;background:linear-gradient(135deg,#3b4170,#14172d 40%,#2a2f58);
+ box-shadow:inset 0 0 0 3px rgba(255,255,255,.18),18px 0 0 #0b0d1c,0 60px 120px rgba(0,0,0,.6),0 0 160px rgba(124,196,255,.25)}
+.scr{width:100%;height:100%;border-radius:54px;overflow:hidden;position:relative;background:#f4f5fb}
+.scr::after{content:'';position:absolute;inset:0;background:linear-gradient(115deg,rgba(255,255,255,.35),rgba(255,255,255,0) 35%);pointer-events:none}
+.notch{position:absolute;left:50%;top:16px;width:130px;height:36px;margin-left:-65px;background:#0b0d1c;border-radius:20px;z-index:3}
+.post{margin:16px;border-radius:26px;background:#fff;box-shadow:0 10px 24px rgba(20,23,45,.12);overflow:hidden;color:#151830}
+.post .top{display:flex;align-items:center;gap:14px;padding:14px 18px;font-weight:800;font-size:24px}
+.av{width:46px;height:46px;border-radius:50%;box-shadow:0 0 0 3px #fff,0 0 0 6px #ff6b5b}
+.pic{position:relative;overflow:hidden;container-type:inline-size}
+.post .cp{padding:12px 18px 18px;font-size:23px;font-weight:700}
+.heart{color:#ff4d6d}
+.badge{position:absolute;padding:16px 26px;border-radius:24px;font-weight:800;font-size:34px;background:#fff;color:#151830;box-shadow:0 24px 50px rgba(0,0,0,.45)}
+.coin{position:absolute;border-radius:50%;background:radial-gradient(circle at 35% 30%,#fff4b0,#ffd21f 35%,#d99a00 75%,#a26f00);box-shadow:0 10px 0 #8a5d00,0 30px 40px rgba(0,0,0,.45);
+ display:flex;align-items:center;justify-content:center;font-family:Unbounded;font-weight:900;color:#9a6a00}
+.q{position:absolute;font-family:Unbounded;font-weight:900}
+.L{position:absolute;inset:0}.cam{position:absolute;inset:0}#root{position:absolute;inset:0;font-family:Manrope,sans-serif;color:var(--ivory);background:var(--bg);overflow:hidden}</style>
+<div id="root" data-composition-id="s099" data-width="1920" data-height="1080">
+<div id="s099-frame" class="clip frame" data-start="0" data-duration="4.28" data-track-index="0"><div class="cam"><div class="L" data-a="s"><div class="stage" style="--lx:72%"></div></div><div class="L" data-a="s"><div class="floor"></div></div><div class="L" data-a="f"><div class="pool" style="left:1114px;top:950px;width:734px;height:160px"></div></div><div class="L" data-a="f"><div class="cshadow" style="left:1284px;top:1000px;width:393px;height:50px"></div></div><div class="L" data-a="c"><img class="char" src="assets/char/rdiag.png" style="left:1350px;top:300px;height:730px;opacity:1;"/></div><div class="L" data-a="u"><div style="position:absolute;left:130px;top:300px;font-size:28px;font-weight:800;letter-spacing:.2em;color:var(--muted);text-transform:uppercase">Өйткені</div></div><div class="L" data-a="u"><div class="h w3d" style="position:absolute;left:130px;top:360px;font-size:96px;width:1150px;">Адам әлемді<br/><span class="x3d">түсінгісі</span> келеді.</div></div></div><div class="vig"></div></div>
+</div>
+<!-- Өйткені адам өзін және айналасындағы әлемді түсінуге тырысады. -->
+<script>
+const FR = [["s099-frame", 0, 4.28]];
+
+const tl = gsap.timeline({ paused: true });
+FR.forEach(([id, s, d]) => {
+  tl.fromTo('#' + id + ' .cam', { scale: 1 }, { scale: 1.035, duration: d, ease: 'none' }, s);
+  let k = 0;
+  document.querySelectorAll('#' + id + ' .L').forEach((el) => {
+    const t = el.dataset.a; if (t === 's') return;
+    const at = s + 0.06 + k * 0.1; k++;
+    if (t === 'c') tl.fromTo(el, { opacity: 0, y: 90 }, { opacity: 1, y: 0, duration: 0.75, ease: 'back.out(1.5)' }, at);
+    else if (t === 'p') tl.fromTo(el, { opacity: 0, y: 50, scale: 0.94 }, { opacity: 1, y: 0, scale: 1, duration: 0.7, ease: 'power3.out' }, at);
+    else if (t === 'f') tl.fromTo(el, { opacity: 0 }, { opacity: 1, duration: 0.6, ease: 'none' }, at);
+    else tl.fromTo(el, { opacity: 0, y: 40 }, { opacity: 1, y: 0, duration: 0.6, ease: 'power3.out' }, at);
+  });
+});
+window.__timelines["s099"] = tl;
+</script>
+</template>
