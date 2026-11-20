@@ -372,7 +372,16 @@ def layers(html):
     return "".join(out)
 
 def words(t): return len(re.findall(r"[\wӘәҒғҚқҢңӨөҰұҮүҺһІі]+", t))
-def dur(t): return round(max(2.4, words(t) / 2.3 + 0.8), 2)
+import subprocess
+VO_LEAD, VO_TAIL = 0.15, 0.45
+def vo_len(sid):
+    f = f"assets/voice/{sid}.mp3"
+    if not os.path.exists(f): return None
+    return float(subprocess.check_output(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", f]).decode().strip())
+def dur(t, sid=None):
+    v = vo_len(sid) if sid else None
+    if v: return round(max(2.0, VO_LEAD + v + VO_TAIL), 2)
+    return round(max(2.4, words(t) / 2.3 + 0.8), 2)
 
 SCENE_CSS = ".L{position:absolute;inset:0}.cam{position:absolute;inset:0}"
 TL_JS = """
@@ -395,7 +404,7 @@ shutil.rmtree("compositions", ignore_errors=True); os.makedirs("compositions/sce
 hosts, t0, n, plan = "", 0.0, 0, []
 for name, frames in ACTS:
     for sent, html in frames:
-        n += 1; d = dur(sent); sid = f"s{n:03d}"
+        n += 1; sid = f"s{n:03d}"; d = dur(sent, sid)
         open(f"compositions/scenes/{sid}.html", "w").write(
             f'<template>\n<style>{CSS.replace("#root{", "#root-unused{")}{SCENE_CSS}#root{{position:absolute;inset:0;font-family:Manrope,sans-serif;color:var(--ivory);background:var(--bg);overflow:hidden}}</style>\n'
             f'<div id="root" data-composition-id="{sid}" data-width="1920" data-height="1080">\n'
@@ -403,7 +412,11 @@ for name, frames in ACTS:
             f'<!-- {sent} -->\n<script>\nconst FR = {json.dumps([[sid + "-frame", 0, d]])};\n{TL_JS}window.__timelines["{sid}"] = tl;\n</script>\n</template>\n')
         hosts += (f'<div id="{sid}" data-composition-id="{sid}" data-composition-src="compositions/scenes/{sid}.html" data-start="{t0:.2f}" data-duration="{d}" '
                   f'data-track-index="1" data-track-kind="graphics" data-width="1920" data-height="1080"></div>\n')
-        plan.append({"n": n, "id": sid, "act": name, "start": round(t0, 2), "dur": d, "text": sent})
+        v = vo_len(sid)
+        if v:
+            hosts += (f'<audio id="vo-{sid}" class="clip" src="assets/voice/{sid}.mp3" data-start="{t0 + VO_LEAD:.2f}" data-duration="{v:.2f}" '
+                      f'data-track-index="2" data-volume="1"></audio>\n')
+        plan.append({"n": n, "id": sid, "act": name, "start": round(t0, 2), "dur": d, "text": sent, "voice": v})
         t0 = round(t0 + d, 2)
 
 open("index.html", "w").write(f'''<!doctype html>
