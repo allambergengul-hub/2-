@@ -39,7 +39,7 @@ html,body{width:1920px;height:1080px;overflow:hidden;background:var(--bg)}
 .post{margin:16px;border-radius:26px;background:#fff;box-shadow:0 10px 24px rgba(20,23,45,.12);overflow:hidden;color:#151830}
 .post .top{display:flex;align-items:center;gap:14px;padding:14px 18px;font-weight:800;font-size:24px}
 .av{width:46px;height:46px;border-radius:50%;box-shadow:0 0 0 3px #fff,0 0 0 6px #ff6b5b}
-.pic{position:relative;overflow:hidden}
+.pic{position:relative;overflow:hidden;container-type:inline-size}
 .post .cp{padding:12px 18px 18px;font-size:23px;font-weight:700}
 .heart{color:#ff4d6d}
 .badge{position:absolute;padding:16px 26px;border-radius:24px;font-weight:800;font-size:34px;background:#fff;color:#151830;box-shadow:0 24px 50px rgba(0,0,0,.45)}
@@ -79,6 +79,26 @@ HOUSE = """<svg viewBox="0 0 600 300" width="100%" height="100%"><defs>
 <polygon points="130,145 300,60 310,95 150,150" fill="#3b4170"/><polygon points="300,60 470,145 450,150 300,95" fill="#262a52"/>
 <rect x="190" y="160" width="60" height="50" rx="4" fill="#ffd77a"/><rect x="340" y="160" width="60" height="50" rx="4" fill="#e9b94f"/>
 <rect x="265" y="185" width="34" height="60" fill="#8a5a2b"/></svg>"""
+
+
+# ---- serious, photographic-UI replacements (no cartoon drawings) ----
+CAR = """<div style="width:100%;height:100%;position:relative;background:linear-gradient(160deg,#2b2f3a,#0e1015 60%,#1c1f27);color:#fff;font-family:Manrope;overflow:hidden">
+<div style="position:absolute;inset:0;background:radial-gradient(ellipse 70% 40% at 50% 100%,rgba(255,255,255,.18),transparent 70%)"></div>
+<div style="position:absolute;left:8%;right:8%;top:58%;height:2px;background:linear-gradient(90deg,transparent,rgba(255,255,255,.6),transparent)"></div>
+<div style="position:absolute;left:7%;top:10%;font-size:clamp(14px,4.2cqw,30px);letter-spacing:.3em;color:#c9ced8;font-weight:800">MERCEDES-BENZ</div>
+<div style="position:absolute;left:7%;top:22%;font-family:Unbounded;font-weight:700;font-size:clamp(26px,9cqw,64px)">E 200</div>
+<div style="position:absolute;left:7%;bottom:10%;display:flex;gap:6%;width:86%;font-size:clamp(12px,3.4cqw,22px);color:#aab"><div><b style="color:#fff;display:block;font-size:1.5em">2025</b>жыл</div><div><b style="color:#fff;display:block;font-size:1.5em">204</b>а.к.</div><div><b style="color:#ffd21f;display:block;font-size:1.5em">32,5 млн ₸</b>бағасы</div></div></div>"""
+BEACH = """<div style="width:100%;height:100%;position:relative;background:linear-gradient(135deg,#0d6b8f,#0a3d5c);color:#fff;font-family:Manrope;padding:7%;overflow:hidden">
+<div style="position:absolute;right:-10%;top:-30%;width:70%;height:120%;border-radius:50%;background:radial-gradient(circle,rgba(255,255,255,.18),transparent 65%)"></div>
+<div style="font-size:clamp(12px,3.4cqw,22px);letter-spacing:.25em;color:#bfe6f5;font-weight:800">BOARDING PASS · BUSINESS</div>
+<div style="display:flex;justify-content:space-between;align-items:center;margin-top:6%"><div><div style="font-family:Unbounded;font-weight:900;font-size:clamp(30px,11cqw,76px)">ALA</div><div style="font-size:clamp(11px,3cqw,20px);color:#bfe6f5">Алматы</div></div>
+<div style="font-size:clamp(20px,6cqw,40px)">✈</div><div style="text-align:right"><div style="font-family:Unbounded;font-weight:900;font-size:clamp(30px,11cqw,76px)">MLE</div><div style="font-size:clamp(11px,3cqw,20px);color:#bfe6f5">Мальдив</div></div></div>
+<div style="position:absolute;left:7%;right:7%;bottom:9%;display:flex;justify-content:space-between;font-size:clamp(11px,3cqw,20px);color:#bfe6f5;border-top:2px dashed rgba(255,255,255,.35);padding-top:4%"><div>РЕЙС<b style="display:block;color:#fff">KC 963</b></div><div>ОРЫН<b style="display:block;color:#fff">2A</b></div><div>КҮНІ<b style="display:block;color:#fff">14 ҚАР</b></div></div></div>"""
+HOUSE = """<div style="width:100%;height:100%;position:relative;background:linear-gradient(160deg,#f3efe7,#e2dccf);color:#14172d;font-family:Manrope;padding:7%;overflow:hidden">
+<div style="display:inline-block;background:#14172d;color:#ffd21f;font-weight:800;font-size:clamp(11px,3cqw,20px);letter-spacing:.2em;padding:1.5% 4%;border-radius:8px">САТЫЛДЫ</div>
+<div style="font-family:Unbounded;font-weight:700;font-size:clamp(20px,7cqw,46px);margin-top:5%">Жеке үй · 240 м²</div>
+<div style="font-size:clamp(12px,3.4cqw,22px);color:#666;margin-top:2%">Алматы, Медеу ауданы</div>
+<div style="position:absolute;left:7%;right:7%;bottom:9%;display:flex;justify-content:space-between;font-size:clamp(11px,3cqw,20px);color:#666;border-top:2px solid rgba(0,0,0,.12);padding-top:4%"><div>БӨЛМЕ<b style="display:block;color:#14172d;font-size:1.4em">5</b></div><div>ЖЕР<b style="display:block;color:#14172d;font-size:1.4em">8 сотық</b></div><div>БАҒАСЫ<b style="display:block;color:#14172d;font-size:1.4em">185 млн ₸</b></div></div></div>"""
 
 def stage(lx="70%", grid=True):
     return f'<div class="stage" style="--lx:{lx}"></div>' + ('<div class="floor"></div>' if grid else '')
@@ -137,16 +157,16 @@ def feedframe(title_html, kicker, user, color, pic, caption, likes, badges, lx="
 F.append(("Бірінші адамның жаңа көлік алғанын көресіз.", feedframe('Жаңа<br/><span class="x3d">көлік.</span>', "1-пост", "arman_auto", "#ff6b5b", CAR, "Арман орындалды!", "2 450",
   '<div class="badge" style="left:720px;top:620px;transform:rotate(6deg)"><span class="heart">♥</span> +2 450</div>')))
 F.append(("Екіншісі шетелде демалып жүр.", feedframe('Шетелде<br/><span class="x3d">демалыс.</span>', "2-пост", "aru.travels", "#7cc4ff", BEACH, "Мальдив, 7-күн", "5 120",
-  '<div class="badge" style="left:700px;top:170px;transform:rotate(-6deg)">✈ Мальдив</div>')))
+  '<div class="badge" style="left:700px;top:170px;transform:rotate(-6deg)">Бизнес-класс</div>')))
 F.append(("Үшіншісі әдемі үй сатып алған.", feedframe('Әдемі<br/><span class="x3d">үй.</span>', "3-пост", "dana.home", "#3ddc97", HOUSE, "Өз үйіміз!", "8 900",
-  '<div class="badge" style="left:730px;top:640px;transform:rotate(5deg)">🔑 Кілт</div>'.replace('🔑 ',''))))
-coins = ''.join(f'<div class="coin" style="left:{x}px;top:{y}px;width:{s}px;height:{s}px;font-size:{s//3}px;transform:rotate({r}deg)">₸</div>' for x,y,s,r in [(820,180,150,-14),(880,700,120,12),(1700,180,110,8),(1740,760,170,-10),(1480,860,90,20)])
+  '<div class="badge" style="left:730px;top:640px;transform:rotate(5deg)">✓ Сатып алынды</div>')))
+coins = '<div style="position:absolute;left:760px;top:600px;perspective:1600px"><div style="width:520px;height:330px;border-radius:28px;transform:rotateY(-24deg) rotateX(14deg) rotate(-8deg);background:linear-gradient(135deg,#2a2a2e,#0b0b0d 55%,#3a3a40);box-shadow:inset 0 1px 0 rgba(255,255,255,.3),0 50px 80px rgba(0,0,0,.6);padding:36px 40px;color:#e9e9ee;font-family:Manrope;position:relative"><div style="width:70px;height:52px;border-radius:10px;background:linear-gradient(135deg,#f5d77a,#b8902e)"></div><div style="font-size:30px;letter-spacing:.16em;margin-top:44px;font-weight:700">4400 •••• •••• 2525</div><div style="position:absolute;right:40px;bottom:30px;font-family:Unbounded;font-weight:900;font-size:30px;font-style:italic">PREMIUM</div></div></div>' 
 F.append(("Ал тағы біреуі небәрі 25 жасында миллионер болыпты.", stage("50%", False) +
-  phone(260, 40, 16, 4, APPBAR + '<div class="post"><div class="top"><div class="av" style="background:#ffd21f"></div>dauren_25</div><div style="height:420px;background:linear-gradient(160deg,#1d2142,#3b4170);display:flex;flex-direction:column;align-items:center;justify-content:center;color:#fff"><div style="font-family:Unbounded;font-weight:900;font-size:120px;color:#ffd21f">25</div><div style="font-family:Unbounded;font-weight:700;font-size:34px">жас · миллионер</div></div><div class="cp">Бәрі мүмкін! <span class="heart">♥ 21 300</span></div></div>') + coins +
+  phone(260, 40, 16, 4, APPBAR + '<div class="post"><div class="top"><div class="av" style="background:#ffd21f"></div>dauren_25</div><div style="height:420px;background:linear-gradient(160deg,#0f3d2e,#062118);display:flex;flex-direction:column;justify-content:center;padding:0 34px;color:#fff"><div style="font-size:22px;letter-spacing:.2em;color:#8fd9b6;font-weight:800">ШОТ БАЛАНСЫ</div><div style="font-family:Unbounded;font-weight:900;font-size:50px;white-space:nowrap;margin-top:14px">1 000 000 $</div><div style="font-size:24px;color:#3ddc97;font-weight:800;margin-top:14px">▲ +312% · 12 ай</div><svg viewBox="0 0 400 90" style="margin-top:22px"><polyline points="0,80 60,72 110,74 170,55 220,58 280,30 330,34 400,6" fill="none" stroke="#3ddc97" stroke-width="5"/></svg></div><div class="cp">Бәрі мүмкін! <span class="heart">♥ 21 300</span></div></div>') + coins +
   '<div style="position:absolute;left:1020px;top:330px"><div class="k" style="font-size:28px;letter-spacing:.18em;color:var(--muted);font-weight:800;margin-bottom:24px">4-пост</div><div class="h w3d" style="font-size:104px"><span class="x3d">25</span> жаста<br/>миллионер.</div></div>'))
 # 09 strange feeling
 F.append(("Сіз олардың суреттерін қарап отырып, біртүрлі сезімге бөленесіз.", stage("50%", False) +
-  ''.join(f'<div style="position:absolute;left:{x}px;top:{y}px;width:{w}px;height:{int(w*0.62)}px;border-radius:24px;overflow:hidden;opacity:{o};filter:blur({b}px);transform:rotate({r}deg);box-shadow:0 30px 60px rgba(0,0,0,.5)">{p}</div>' for x,y,w,o,b,r,p in [(120,130,460,.85,0,-8,CAR),(1380,110,420,.8,2,7,BEACH),(140,640,380,.6,4,6,HOUSE),(1420,640,400,.6,3,-6,CAR)]) +
+  ''.join(f'<div style="position:absolute;container-type:inline-size;left:{x}px;top:{y}px;width:{w}px;height:{int(w*0.62)}px;border-radius:24px;overflow:hidden;opacity:{o};filter:blur({b}px);transform:rotate({r}deg);box-shadow:0 30px 60px rgba(0,0,0,.5)">{p}</div>' for x,y,w,o,b,r,p in [(120,130,460,.85,0,-8,CAR),(1380,110,420,.8,2,7,BEACH),(140,640,380,.6,4,6,HOUSE),(1420,640,400,.6,3,-6,CAR)]) +
   '<div class="pool" style="left:560px;top:150px;width:800px;height:800px;background:radial-gradient(circle,rgba(124,196,255,.22),transparent 65%)"></div>' +
   '<img class="char" src="assets/char/face.png" style="left:720px;top:290px;height:790px"/>' +
   '<div class="h w3d" style="position:absolute;left:0;right:0;top:110px;text-align:center;font-size:76px">Біртүрлі <span class="x3d">сезім...</span></div>'))
@@ -178,7 +198,7 @@ F.append(("Бір қызығы, сіз ол адамдарды мүлде тан
 F.append(("Олардың қалай өмір сүретінін де білмейсіз.", stage("50%") + strangers(True) + '<div class="h w3d" style="position:absolute;left:0;right:0;top:820px;text-align:center;font-size:74px">Қалай өмір сүретінін <span class="x3d">білмейсіз.</span></div>'))
 # 17 why
 F.append(("Сонда неге олардың өмірі сіздің өзіңізге деген көзқарасыңызды өзгерте алады?", stage("50%") +
-  ''.join(f'<div style="position:absolute;left:{x}px;top:{y}px;width:300px;height:186px;border-radius:20px;overflow:hidden;box-shadow:0 30px 60px rgba(0,0,0,.5);transform:rotate({r}deg)">{p}</div>' for x,y,r,p in [(170,170,-8,CAR),(170,560,6,BEACH),(1450,170,8,HOUSE),(1450,560,-6,CAR)]) +
+  ''.join(f'<div style="position:absolute;container-type:inline-size;left:{x}px;top:{y}px;width:300px;height:186px;border-radius:20px;overflow:hidden;box-shadow:0 30px 60px rgba(0,0,0,.5);transform:rotate({r}deg)">{p}</div>' for x,y,r,p in [(170,170,-8,CAR),(170,560,6,BEACH),(1450,170,8,HOUSE),(1450,560,-6,CAR)]) +
   '<svg style="position:absolute;left:0;top:0" width="1920" height="1080"><g stroke="#ffd21f" stroke-width="5" stroke-dasharray="4 16" stroke-linecap="round" fill="none" opacity=".8"><path d="M470 260 Q700 300 840 480"/><path d="M470 650 Q650 640 840 600"/><path d="M1450 260 Q1220 300 1080 480"/><path d="M1450 650 Q1270 640 1080 600"/></g></svg>' +
   char("front", 830, 300, 690) +
   '<div class="q x3d" style="left:1030px;top:150px;font-size:220px">?</div>' +
