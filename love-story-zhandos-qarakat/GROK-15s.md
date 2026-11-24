@@ -28,8 +28,8 @@
 
 | Клип | Тайм-код | Сцена | Не болады | Кадрда | Резерв (FILM.md) |
 |---|---|---|---|---|---|
-| G01 | 00:00–00:15 | 1 | Ойын бітті, Қарақат құрбыларымен шығып барады; Жандос оны көріп қалады: «Анау қыз кім өзі?» | Жандос, Қарақат | 01, 02, 03 |
-| G02 | 00:15–00:30 | 1 | Достарында нөмір жоқ; Жандос сыртқа жүгіреді, бірақ Қарақат таксиге отырып кетіп қалады. | Жандос, Қарақат | 03, 04 |
+| G01 | 00:00–00:15 | 1 | Ойын бітті, Қарақат Арай және бір құрбысымен шығып барады; Жандос оны көріп қалады: «Анау қыз кім өзі?» | Жандос, Қарақат, Арай | 01, 02, 03 |
+| G02 | 00:15–00:30 | 1 | Достарында нөмір жоқ; Жандос сыртқа жүгіреді, бірақ Қарақат Араймен бірге таксиге отырып кетіп қалады. | Жандос, Қарақат, Арай | 03, 04 |
 | G03 | 00:30–00:45 | 2 | Келесі күні Қарақат кафеден кетеді, Арай жалғыз шығады; Жандос онымен танысып, Қарақатты сұрайды. | Жандос, Қарақат, Арай | 05, 06 |
 | G04 | 00:45–01:00 | 2 | Арай нөмірді рұқсатсыз бермейді; саябақта Қарақатқа айтады — Қарақат бас тартады. | Жандос, Қарақат, Арай | 07, 08 |
 | G05 | 01:00–01:15 | 3 | Үшінші күні Жандос Арайға ақша ұсынады; Арай «Ойланып көрейін... Үстінен қос!» дейді. | Жандос, Арай | 09, 10 |
@@ -53,28 +53,29 @@
 ### 1-сцена · Алғашқы көзқарас
 
 **G01 — Алғашқы көзқарас · 00:00–00:15**  
-Ойын бітті, Қарақат құрбыларымен шығып барады; Жандос оны көріп қалады: «Анау қыз кім өзі?»  
-Кадрда: Жандос, Қарақат · Жүктеу: 1 — Жандос, 2 — Қарақат, 3 — Арай
+Ойын бітті, Қарақат Арай және бір құрбысымен шығып барады; Жандос оны көріп қалады: «Анау қыз кім өзі?»  
+Кадрда: Жандос, Қарақат, Арай · Жүктеу: 1 — Жандос, 2 — Қарақат, 3 — Арай
 
 ```text
 Ultra-realistic live-action cinematic film footage, 15 seconds, 16:9 landscape.
 
 REFERENCES: @image1 = ZHANDOS, @image2 = QARAKAT, @image3 = ARAI — character sheets, several views of one person each; copy each person's face, hair, body and outfit exactly and keep them identical in every shot.
-IN THIS CLIP: ZHANDOS (@image1), QARAKAT (@image2) only. Not in this clip: ARAI (@image3).
+IN THIS CLIP: ZHANDOS (@image1), QARAKAT (@image2), ARAI (@image3).
 
 CHARACTERS & WARDROBE:
 - ZHANDOS (@image1): exact face, hair and build from @image1, never a look-alike — twenties, tall and lean, long oval face, straight thick brows, narrow calm dark eyes, small dark moles on his cheeks, clean-shaven; thick messy jet-black hair falling forward over his forehead (not swept back, not short and neat). Outfit: exactly as in @image1 — black adidas hoodie with three white sleeve stripes and a small white trefoil on the chest, black track pants with three white side stripes, white sneakers with three black stripes.
 - QARAKAT (@image2): exact face and build from @image2, never a look-alike — twenties, slim, a little shorter than Zhandos; jet-black hair always in a high round bun; calm almond-shaped dark eyes; large thin silver hoop earrings in every shot. Outfit: exactly as in @image2 — oversized plain dark-navy hoodie, a silver dog-tag pendant on a long chain over it, loose medium-grey joggers (clearly grey, never white or cream), plain white sneakers; no bag.
-- Qarakat's two teammates — always the same THREE girls together, Qarakat in the middle: TEAMMATE A (her left) — white T-shirt, black leggings, long ponytail; TEAMMATE B (her right) — light-grey T-shirt, black leggings, short bob. No hoodies, buns or hoops.
+- ARAI (@image3): exact face and build from @image3, never a look-alike — twenties, warm smile, light freckles, long curly chestnut-brown hair in a high ponytail with a black hair tie. Outfit: exactly as in @image3 — oversized cream hoodie with pale-pink drawstrings and a small pink heart on the chest, black track pants with two white side stripes, pink-and-white sneakers.
+- Qarakat's teammate — exactly ONE girl: white T-shirt, black leggings, white sneakers, long straight black hair in a low ponytail; no hoodie, no bun, no curls, no hoop earrings.
 - Zhandos's two friends (never in close-up, no necklaces): FRIEND 1 — buzz-cut, plain grey hoodie, black joggers; FRIEND 2 — black cap, dark-green track jacket, black joggers.
 
-LOCATION: Indoor volleyball gym, evening; same layout in every shot. Honey-coloured wooden court. The NET stretches ACROSS the middle of the court between two padded poles at the sidelines, splitting it into a near half and a far half — never in front of the bleachers. Wooden bench bleachers run along the RIGHT side wall. Grey double exit door with a green exit sign in the LEFT side wall, near half. Beige walls, LED ceiling panels. Background life: beyond the net, five or six other students in plain sports T-shirts casually pass their own ball over the net; three or four sit chatting on the bleachers. They stay small, blurred and anonymous — never in a navy, black three-stripe or cream hoodie, no high bun, no hoop earrings.
-SPACE & EYELINES: Zhandos and his two friends STAND (never sit) by the bleachers on the RIGHT side in every shot. The three girls walk toward the exit in the LEFT wall, away from him, so he always looks frame-LEFT; in his close-up she is off-screen left, never behind him.
+LOCATION: Indoor volleyball gym, evening; same layout in every shot. Honey-coloured wooden court. The NET stretches ACROSS the middle of the court between two padded poles at the sidelines — never in front of the bleachers. Wooden bench bleachers run along the RIGHT side wall. Grey double exit door with a green exit sign in the LEFT side wall. LED ceiling panels. Background: beyond the net, five or six students in red, blue, green or yellow T-shirts and shorts pass their own ball; three or four sit chatting on the bleachers — small, blurred, anonymous, never dressed like the main characters or the teammate.
+SPACE & EYELINES: Zhandos and his friends STAND (never sit) by the bleachers on the RIGHT in every shot. The same THREE girls — Qarakat, Arai, the teammate — walk toward the exit on the LEFT, away from him, so he always looks frame-LEFT; in his close-up she is off-screen left, never behind him.
 
 TIMELINE:
-0–4 s: SHOT 1 — wide from behind the near end line, looking down the court: the net crosses the frame in the middle distance with the background students practising beyond it; Zhandos and his two friends stand by the near end of the bleachers (frame-right); the exit door is frame-left. One volleyball bounces twice, low, in the foreground and rolls left. QARAKAT and her two teammates — three girls, Qarakat in the middle — walk from frame-right to frame-left toward the exit, laughing.
-4–8 s: SHOT 2 — over-the-shoulder from directly behind ZHANDOS, standing by the bleachers: the back of his head and right shoulder soft in the right foreground; he slowly turns his head left. Sharp in the middle distance, the SAME three girls, Qarakat in the middle, walk away from him toward the grey exit door in the left wall; the net is out of frame to the right. We see what he sees.
-8–11 s: SHOT 3 — close-up of ZHANDOS, standing, in three-quarter profile facing frame-LEFT; behind him, softly blurred, the bleachers with a few seated students chatting — no girls from the story. His eyes stay fixed off-screen left, past the lens, following her; his smile fades, he blinks once and says quietly and slowly, every word separate: "Анау қыз... кім өзі?"
+0–4 s: SHOT 1 — wide from behind the near end line: the net crosses the middle distance, background students practising beyond it; Zhandos and his two friends stand by the near end of the bleachers (frame-right); the exit door is frame-left. One volleyball bounces twice, low, in the foreground and rolls left. The three girls walk side-on from frame-right to frame-left toward the exit, laughing: QARAKAT nearest the camera, ARAI beside her chatting, the teammate on the far side.
+4–8 s: SHOT 2 — over-the-shoulder from directly behind ZHANDOS, standing by the bleachers: the back of his head and right shoulder soft in the right foreground; he slowly turns his head left. Sharp in the middle distance, the SAME three girls walk away toward the grey exit door — from behind, left to right: Qarakat (navy hoodie, bun), Arai (cream hoodie, curls), the teammate (white T-shirt). We see what he sees.
+8–11 s: SHOT 3 — close-up of ZHANDOS, standing, in three-quarter profile facing frame-LEFT; behind him, softly blurred, the bleachers with a few seated students — no girls from the story. His eyes stay fixed off-screen left, past the lens, following her; his smile fades, he blinks once and says quietly and slowly, every word separate: "Анау қыз... кім өзі?"
 11–15 s: SHOT 4 — eye-level medium three-shot of the three young men STANDING in front of the bleachers, a few blurred students sitting behind them: FRIEND 1 (buzz-cut, grey hoodie) at frame-left, Zhandos centre, FRIEND 2 (black cap, green track jacket) at frame-right. Friend 1 glances left toward the exit and answers casually: "Қайсы? Қарақат па? Ол біздің танысымыз ғой." Zhandos turns his head left to him, interested; Friend 2 smiles, silent.
 
 CAMERA: 24mm wide from the end line → 50mm over-the-shoulder → 85mm close-up → 40mm three-shot; instant hard cuts; Zhandos always looks frame-left.
@@ -82,30 +83,31 @@ LIGHTING: Even overhead LED panels, warm bounce from the wooden floor, natural s
 SOUND: Ball bounces, squeaking sneakers, distant calls from the background practice; the gym noise fades in Shot 2 and a soft piano note begins. Kazakh dialogue, exact words, slow and clear: "Анау қыз кім өзі?" is four separate words, never merged; "..." is a short pause.
 
 STYLE: Photorealistic live-action romantic film; natural skin texture with visible pores; real-time motion; realistic hands and physics; motivated natural light; subtle film grain. Nobody looks into the lens. Shots are joined by instant hard cuts. Each person appears once, as a real person in a real place — never a grid or collage of the reference sheets.
-AVOID: look-alike faces, changed hair or outfits, distorted hands or extra fingers, duplicate people, character-sheet grids, warped backgrounds, slow motion, dissolves or double exposures, eye contact with the camera, exaggerated acting, waxy skin, cartoon look, readable text, subtitles, watermarks, extra logos, a net in front of the bleachers or along a wall, the number of girls changing between shots, background people in focus, the men sitting, a necklace on the friends, Qarakat behind Zhandos in his close-up, Zhandos looking right.
+AVOID: look-alike faces, changed hair or outfits, distorted hands or extra fingers, duplicate people, character-sheet grids, warped backgrounds, slow motion, dissolves or double exposures, eye contact with the camera, exaggerated acting, waxy skin, cartoon look, readable text, subtitles, watermarks, extra logos, a net in front of the bleachers, a fourth girl in the group, a bob haircut, hair changing between shots, the men sitting, necklaces on the friends, Qarakat behind Zhandos in his close-up, Zhandos looking right.
 ```
 
 **G02 — Кешікті · 00:15–00:30**  
-Достарында нөмір жоқ; Жандос сыртқа жүгіреді, бірақ Қарақат таксиге отырып кетіп қалады.  
-Кадрда: Жандос, Қарақат · Жүктеу: 1 — Жандос, 2 — Қарақат, 3 — Арай
+Достарында нөмір жоқ; Жандос сыртқа жүгіреді, бірақ Қарақат Араймен бірге таксиге отырып кетіп қалады.  
+Кадрда: Жандос, Қарақат, Арай · Жүктеу: 1 — Жандос, 2 — Қарақат, 3 — Арай
 
 ```text
 Ultra-realistic live-action cinematic film footage, 15 seconds, 16:9 landscape.
 
 REFERENCES: @image1 = ZHANDOS, @image2 = QARAKAT, @image3 = ARAI — character sheets, several views of one person each; copy each person's face, hair, body and outfit exactly and keep them identical in every shot.
-IN THIS CLIP: ZHANDOS (@image1), QARAKAT (@image2) only. Not in this clip: ARAI (@image3).
+IN THIS CLIP: ZHANDOS (@image1), QARAKAT (@image2), ARAI (@image3).
 
 CHARACTERS & WARDROBE:
 - ZHANDOS (@image1): exact face, hair and build from @image1, never a look-alike — twenties, tall and lean, long oval face, straight thick brows, narrow calm dark eyes, small dark moles on his cheeks, clean-shaven; thick messy jet-black hair falling forward over his forehead (not swept back, not short and neat). Outfit: exactly as in @image1 — black adidas hoodie with three white sleeve stripes and a small white trefoil on the chest, black track pants with three white side stripes, white sneakers with three black stripes.
 - QARAKAT (@image2): exact face and build from @image2, never a look-alike — twenties, slim, a little shorter than Zhandos; jet-black hair always in a high round bun; calm almond-shaped dark eyes; large thin silver hoop earrings in every shot. Outfit: exactly as in @image2 — oversized plain dark-navy hoodie, a silver dog-tag pendant on a long chain over it, loose medium-grey joggers (clearly grey, never white or cream), plain white sneakers; no bag.
+- ARAI (@image3): exact face and build from @image3, never a look-alike — twenties, warm smile, light freckles, long curly chestnut-brown hair in a high ponytail with a black hair tie. Outfit: exactly as in @image3 — oversized cream hoodie with pale-pink drawstrings and a small pink heart on the chest, black track pants with two white side stripes, pink-and-white sneakers.
 - Zhandos's two friends (never in close-up, no necklaces): FRIEND 1 — buzz-cut, plain grey hoodie, black joggers; FRIEND 2 — black cap, dark-green track jacket, black joggers.
-- Qarakat's two teammates — always the same THREE girls together, Qarakat in the middle: TEAMMATE A (her left) — white T-shirt, black leggings, long ponytail; TEAMMATE B (her right) — light-grey T-shirt, black leggings, short bob. No hoodies, buns or hoops.
+- Qarakat's teammate — exactly ONE girl: white T-shirt, black leggings, white sneakers, long straight black hair in a low ponytail; no hoodie, no bun, no curls, no hoop earrings.
 
 LOCATION: Inside: the same evening volleyball gym — bleachers along the right side wall with a few students sitting on them, the net across the middle of the court with other students practising beyond it, grey exit door in the left wall. Outside: the sports complex at night — wide concrete steps, glass doors glowing at screen-right, a quiet street running left–right, warm street lamps.
 
 TIMELINE:
 0–5 s: Medium three-shot of the three young men STANDING in front of the bleachers, a few blurred students sitting behind them. ZHANDOS turns to Friend 1 (buzz-cut, grey hoodie), eager: "Қарақат дейсің бе? Нөмірі бар ма?" FRIEND 2 shrugs: "Жоқ, нөмірі бізде жоқ." Zhandos immediately hurries out of frame screen-left toward the exit.
-5–10 s: CUT TO outside at night, wide shot from across the street: a white taxi waits at the curb; the teammates get in, QARAKAT (navy hoodie, high bun, silver hoops) gets in last and the door shuts; the taxi pulls away screen-left. The glass doors at screen-right swing open and Zhandos runs down the steps.
+5–10 s: CUT TO outside at night, wide shot from across the street: a white taxi waits at the curb; ARAI (cream hoodie, curly ponytail) and the teammate get in, QARAKAT (navy hoodie, high bun, silver hoops) gets in last and the door shuts; the taxi pulls away screen-left. The glass doors at screen-right swing open and Zhandos runs down the steps.
 10–15 s: Zhandos slows and stops at the curb, watching the red tail lights shrink into the distance; he exhales and gives a small rueful smile to himself. Final frame: Zhandos alone at the curb in a three-quarter back view under the street lamps.
 
 CAMERA: Handheld 40mm three-shot, then a locked-off 35mm wide across the street, ending with a slow push-in toward his back.
@@ -132,7 +134,7 @@ CHARACTERS & WARDROBE:
 - ZHANDOS (@image1): exact face, hair and build from @image1, never a look-alike — twenties, tall and lean, long oval face, straight thick brows, narrow calm dark eyes, small dark moles on his cheeks, clean-shaven; thick messy jet-black hair falling forward over his forehead (not swept back, not short and neat). Outfit: exactly as in @image1 — black adidas hoodie with three white sleeve stripes and a small white trefoil on the chest, black track pants with three white side stripes, white sneakers with three black stripes.
 - QARAKAT (@image2): exact face and build from @image2, never a look-alike — twenties, slim, a little shorter than Zhandos; jet-black hair always in a high round bun; calm almond-shaped dark eyes; large thin silver hoop earrings in every shot. Outfit: exactly as in @image2 — oversized plain dark-navy hoodie, a silver dog-tag pendant on a long chain over it, loose medium-grey joggers (clearly grey, never white or cream), plain white sneakers; no bag.
 - ARAI (@image3): exact face and build from @image3, never a look-alike — twenties, warm smile, light freckles, long curly chestnut-brown hair in a high ponytail with a black hair tie. Outfit: exactly as in @image3 — oversized cream hoodie with pale-pink drawstrings and a small pink heart on the chest, black track pants with two white side stripes, pink-and-white sneakers.
-- Qarakat's two teammates — always the same THREE girls together, Qarakat in the middle: TEAMMATE A (her left) — white T-shirt, black leggings, long ponytail; TEAMMATE B (her right) — light-grey T-shirt, black leggings, short bob. No hoodies, buns or hoops.
+- Qarakat's teammate — exactly ONE girl: white T-shirt, black leggings, white sneakers, long straight black hair in a low ponytail; no hoodie, no bun, no curls, no hoop earrings.
 
 LOCATION: A small modern café on a quiet city street in daylight: a glass front and glass door, two small outdoor tables, a tree-lined sidewalk running left–right.
 
