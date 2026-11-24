@@ -24,29 +24,29 @@ CHAR = {
     "AR": dict(
         kk="Арай", ref=3,
         short="ARAI (woman, ref image 3): twenties, freckles, long curly chestnut-brown hair in a high ponytail; keep her exact face from the reference.",
-        id='''ARAI (CHARACTER_C): a young Kazakh woman in her twenties with East Asian features; soft rounded face with light freckles across her nose and cheeks, defined dark brows, dark-brown almond eyes; long voluminous curly chestnut-brown hair tied in a high curly ponytail with loose curly strands framing her face. Signature details, keep in every frame: the freckles and the curly chestnut ponytail. Use supplied reference image 3 (her character sheet) as the identity reference and preserve her exact face and features.''',
+        id='''ARAI (CHARACTER_C): a young Kazakh woman in her twenties with East Asian features; soft rounded face with a warm smile and light freckles across her nose and cheeks, defined dark brows, dark-brown almond eyes; long voluminous curly chestnut-brown hair tied in a high curly ponytail tied with a black hair tie, loose curly strands framing her face. Signature details, keep in every frame: the freckles and the curly chestnut ponytail. Use supplied reference image 3 (her character sheet) as the identity reference and preserve her exact face and features.''',
     ),
 }
 
 WARD = {
-    "ZH_SPORT": ("Zhandos", '''black cotton pullover hoodie with three white stripes down each sleeve and a small white chest emblem, matching black track pants with three white stripes down the outer legs, white low-top sneakers with three black side stripes — exactly as in reference image 1.''',
-                 "Ақ үш жолақты қара худи мен шалбар, ақ кроссовка — 1-суреттегідей"),
-    "ZH_DATE": ("Zhandos", '''black bomber jacket over a plain white crew-neck T-shirt, dark-indigo straight-leg jeans, clean white low-top sneakers.''',
-                "Қара бомбер, ақ футболка, қою көк джинсы, ақ кроссовка"),
-    "ZH_SEA": ("Zhandos", '''white linen button-up shirt with the sleeves rolled to the forearms, beige chino trousers, white sneakers.''',
-               "Ақ зығыр көйлек, бежевый шалбар, ақ кроссовка"),
+    "ZH_SPORT": ("Zhandos", '''black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.''',
+                "Референстегі қара adidas худи мен шалбар (ақ үш жолақ), ақ кроссовка — өзгеріссіз"),
+    "ZH_DATE": ("Zhandos", '''black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.''',
+                "Референстегі қара adidas худи мен шалбар (ақ үш жолақ), ақ кроссовка — өзгеріссіз"),
+    "ZH_SEA": ("Zhandos", '''black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.''',
+                "Референстегі қара adidas худи мен шалбар (ақ үш жолақ), ақ кроссовка — өзгеріссіз"),
     "ZH_SUIT": ("Zhandos", '''classic black two-piece suit, crisp white shirt, slim black tie, polished black leather shoes.''',
                 "Қара костюм, ақ көйлек, қара галстук, қара туфли"),
-    "QA_SPORT": ("Qarakat", '''oversized dark-navy pullover hoodie, light heather-grey loose jogger sweatpants with elastic cuffs, plain white low-top leather sneakers, a silver dog-tag pendant on a long thin chain worn over the hoodie, the large thin silver hoop earrings — exactly as in reference image 2.''',
-                 "Қою көк худи, ашық сұр шалбар, ақ кроссовка, күміс кулон (жетон), күміс сырға — 2-суреттегідей"),
-    "QA_DATE": ("Qarakat", '''soft cream-white chunky knit sweater, high-waisted dark-navy pleated midi skirt, plain white low-top leather sneakers, the silver dog-tag pendant, the large thin silver hoop earrings.''',
-                "Ақшыл тоқыма кофта, қою көк бүрмелі юбка, ақ кроссовка, күміс кулон, сырға"),
-    "QA_SEA": ("Qarakat", '''flowing cream-white linen midi dress with short sleeves, flat tan leather sandals, the large thin silver hoop earrings.''',
-               "Ақшыл зығыр көйлек, қоңыр сандал, күміс сырға"),
+    "QA_SPORT": ("Qarakat", '''oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs, plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged.''',
+                "Референстегі қою көк худи, күміс жетон-кулон, ашық сұр шалбар, ақ кроссовка, күміс сырға — өзгеріссіз"),
+    "QA_DATE": ("Qarakat", '''oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs, plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged.''',
+                "Референстегі қою көк худи, күміс жетон-кулон, ашық сұр шалбар, ақ кроссовка, күміс сырға — өзгеріссіз"),
+    "QA_SEA": ("Qarakat", '''oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs, plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged.''',
+                "Референстегі қою көк худи, күміс жетон-кулон, ашық сұр шалбар, ақ кроссовка, күміс сырға — өзгеріссіз"),
     "QA_BRIDE": ("Qarakat", '''white wedding gown with a fitted lace bodice and a long full skirt, a sheer veil pinned beneath her high bun, the silver hoop earrings, the engagement ring on her ring finger.''',
                  "Ақ той көйлегі, шаршы (фата), сырға, сақина"),
-    "AR_DAY": ("Arai", '''camel-beige oversized knit cardigan over a plain white T-shirt, light-blue straight-leg jeans, white canvas sneakers, a beige canvas tote bag on her shoulder. (Deliberately different from Qarakat's navy hoodie and grey sweatpants.)''',
-               "Түйе түсті кардиган, ақ футболка, ашық көк джинсы, ақ кеды, кенеп сөмке"),
+    "AR_DAY": ("Arai", '''oversized cream-ivory hoodie with pale-pink drawstrings and a small pale-pink heart on the left chest, black track pants with two white side stripes, pink-and-white low-top sneakers — exactly as in reference image 3, unchanged.''',
+                "Референстегі ақшыл худи (қызғылт бау, жүрекше), ақ жолақты қара шалбар, қызғылт-ақ кроссовка — өзгеріссіз"),
 }
 
 GROUP = {
@@ -198,11 +198,11 @@ C(n=5, scene=2, en="Arai Comes Out Alone", kk="Арай жалғыз шығад�
   cast=[("QA", "QA_SPORT"), ("AR", "AR_DAY"), ("ZH", "ZH_SPORT")], groups=["QAF"], loc="CAFE",
   shot="Жалпы-орта план, тротуардың арғы бетінен",
   ctx='''The next day: Qarakat and a friend leave a café; a moment later Arai comes out alone — and Zhandos sees his chance.''',
-  act='''Opening frame: the café's glass door in the centre of the frame. Qarakat and one teammate step out laughing and walk away along the sidewalk screen-right, leaving frame. The door swings shut. A few seconds later it opens again and Arai steps out alone, settling her beige canvas tote on her shoulder and glancing at her phone. Zhandos enters from the left foreground (seen from behind and the side), walking toward her and raising a hand to get her attention. Final frame: Arai looks up at him, mildly surprised; Zhandos is two steps away from her.''',
+  act='''Opening frame: the café's glass door in the centre of the frame. Qarakat and one teammate step out laughing and walk away along the sidewalk screen-right, leaving frame. The door swings shut. A few seconds later it opens again and Arai steps out alone, pushing up the sleeves of her cream hoodie and glancing at her phone. Zhandos enters from the left foreground (seen from behind and the side), walking toward her and raising a hand to get her attention. Final frame: Arai looks up at him, mildly surprised; Zhandos is two steps away from her.''',
   cam='''Wide-medium shot from across the sidewalk, 35mm, static, with a slight pan right as Zhandos walks in.''',
   perf='''Arai relaxed and self-possessed; Zhandos polite and a little nervous.''',
   audio='''A small doorbell chime each time the door opens, street ambience, footsteps. A light, playful pizzicato tune begins softly.''',
-  cont='''Daytime, the next day. Qarakat exits screen-right. Arai and Qarakat must look clearly different: curly chestnut ponytail and camel cardigan versus high black bun and navy hoodie.''',
+  cont='''Daytime, the next day. Qarakat exits screen-right. Arai and Qarakat must look clearly different: curly chestnut ponytail and cream hoodie versus high black bun and navy hoodie.''',
   avoid="readable café name or menu text",
   first="Кафенің шыны есігі; Қарақат құрбысымен шығып, оңға кетеді.",
   last="Арай басын көтереді; Жандос одан екі қадам жерде.",
@@ -217,7 +217,7 @@ C(n=6, scene=2, en="You're Arai, Right?", kk="«Сен Арайсың ғой?»"
   cast=[("ZH", "ZH_SPORT"), ("AR", "AR_DAY")], loc="CAFE",
   shot="Екі адамдық орта план, профильден",
   ctx='''Zhandos introduces himself to Arai and asks whether she knows Qarakat.''',
-  act='''Opening frame: a medium two-shot in profile on the sidewalk in front of the café — Zhandos at screen-left facing right, Arai at screen-right facing left. Zhandos, a bit nervous, rubs the back of his neck and greets her. Arai, holding her tote strap, answers. Zhandos asks his question. At Qarakat's name Arai raises one eyebrow and tilts her head as she answers. Final frame: Arai looking at him with a sceptical half-smile, waiting for his answer.''',
+  act='''Opening frame: a medium two-shot in profile on the sidewalk in front of the café — Zhandos at screen-left facing right, Arai at screen-right facing left. Zhandos, a bit nervous, rubs the back of his neck and greets her. Arai, hands in her hoodie pocket, answers. Zhandos asks his question. At Qarakat's name Arai raises one eyebrow and tilts her head as she answers. Final frame: Arai looking at him with a sceptical half-smile, waiting for his answer.''',
   cam='''Medium two-shot at eye level, 50mm, static with subtle handheld breathing; both faces clearly readable.''',
   perf='''Zhandos polite, slightly awkward, hopeful. Arai guarded but curious; the eyebrow lift is small and natural.''',
   audio='''Kazakh dialogue, spoken in Kazakh with these exact words — ZHANDOS (friendly, a little nervous): "Сәлем! Сен Арайсың ғой?" ARAI (neutral): "Иә, не болды?" ZHANDOS: "Бір нәрсе сұрайын деп едім. Қарақат деген қызды танисың ба?" ARAI (curious, cautious): "Иә, танимын. Неге?" Quiet street ambience under the voices; the pizzicato very low.''',
@@ -245,7 +245,7 @@ C(n=7, scene=2, en="Not Without Her Permission", kk="«Рұқсатынсыз б
   tr=dict(tech="Қозғалыс сәйкестігі (motion match) + дыбыс көпірі",
           why="Арай тура Қарақатқа барады — ой жүрісі көрнекі түрде жалғасады.",
           mech="Арай A клипте оңға шығады → B клипте сол жақтан кадрға кіріп, Қарақаттың жанына тоқтайды.",
-          match="Қозғалыс бағыты солдан оңға; Арайдың киімі мен сөмкесі бірдей.",
+          match="Қозғалыс бағыты солдан оңға; Арайдың киімі бірдей.",
           sound="Пиццикато жалғасады; B клиптің құс үні жарты секунд бұрын кіреді.",
           where="Генерацияда (Арайдың кадрға кіруі) + монтажда"))
 
@@ -257,7 +257,7 @@ C(n=8, scene=2, en="I Don't Even Know Him", kk="«Танымаймын ғой»"
   cam='''Medium two-shot at eye level, 50mm, static with gentle handheld breathing; Arai at screen-left, Qarakat at screen-right.''',
   perf='''Arai teasing and warm. Qarakat surprised, then shy and a little flattered under the refusal — the hidden smile is the subtext.''',
   audio='''Kazakh dialogue, spoken in Kazakh with these exact words — ARAI (playful, conspiratorial): "Қарақат, саған бір жігіт қызығып жүр. Аты Жандос. Нөміріңді сұрап жатыр." QARAKAT (shy, dismissive): "Жоқ, бермей-ақ қойшы. Танымаймын ғой." Birdsong, rustling leaves, the distant city.''',
-  cont='''Daytime, the same day. The two women must stay clearly different: Qarakat — high black bun, silver hoops, navy hoodie; Arai — curly chestnut ponytail, freckles, camel cardigan.''',
+  cont='''Daytime, the same day. The two women must stay clearly different: Qarakat — high black bun, silver hoops, navy hoodie; Arai — curly chestnut ponytail, freckles, cream hoodie.''',
   first="Қарақат орындық жанында; Арай сол жақтан кадрға кіреді.",
   last="Қарақат төмен қарап, жымиюын жасырады; Арай иығын көтереді.",
   tr=dict(tech="Есік арқылы өту (уақыт секірісі)",
@@ -309,7 +309,7 @@ C(n=11, scene=3, en="But Don't Tell Her It Was Me", kk="«Мә, бірақ ме�
   cast=[("ZH", "ZH_SPORT"), ("AR", "AR_DAY")], loc="HALL_DAY",
   shot="Екі адамдық орта план, баяу жақындау",
   ctx='''Zhandos adds more money; Arai takes it and gives him Qarakat's number, making him promise not to tell.''',
-  act='''Opening frame: medium two-shot — Arai at screen-right with her palm open, Zhandos at screen-left. Zhandos sighs with a laugh and places more folded banknotes into her palm. Arai tucks the money into her cardigan pocket, takes out her phone and holds its screen toward him (the screen faces him, away from the camera) and says her line in a low, conspiratorial voice. Zhandos quickly types the number into his own phone. Arai pockets her phone, gives him a knowing look and walks off screen-right. Final frame: Zhandos alone in the frame, looking down at his phone with a growing smile.''',
+  act='''Opening frame: medium two-shot — Arai at screen-right with her palm open, Zhandos at screen-left. Zhandos sighs with a laugh and places more folded banknotes into her palm. Arai tucks the money into her hoodie pocket, takes out her phone and holds its screen toward him (the screen faces him, away from the camera) and says her line in a low, conspiratorial voice. Zhandos quickly types the number into his own phone. Arai pockets her phone, gives him a knowing look and walks off screen-right. Final frame: Zhandos alone in the frame, looking down at his phone with a growing smile.''',
   cam='''Medium two-shot at eye level, 40mm, a very slow push-in toward Zhandos across the shot.''',
   perf='''Arai secretive and amused; Zhandos relieved and quietly excited, trying not to grin too early.''',
   audio='''Kazakh dialogue, spoken in Kazakh with these exact words — ARAI (low, conspiratorial): "Мә, бірақ мен бергенімді айтпа!" Soft taps on a phone screen; the playful music resumes.''',
@@ -467,7 +467,7 @@ C(n=19, scene=5, en="In Front of the Mirror", kk="Айна алдында", gen=
   cast=[("QA", "QA_DATE")], loc="QA_ROOM",
   shot="Иық үстінен айнаға, баяу жақындау",
   ctx='''Qarakat has agreed to a date and nervously gets ready.''',
-  act='''Opening frame: over Qarakat's shoulder into the tall mirror — she is already dressed in a cream knit sweater and a navy pleated skirt; behind her on the bed lie two rejected outfits. She smooths the sweater, re-pins a strand into her high bun, adjusts one silver hoop earring, takes a nervous breath and gives her reflection a small, determined smile. Final frame: her reflection smiling in the mirror.''',
+  act='''Opening frame: over Qarakat's shoulder into the tall mirror — she is in her navy hoodie with the silver dog-tag pendant; behind her on the bed lie two other outfits she decided against. She smooths the hoodie, re-pins a strand into her high bun, adjusts one silver hoop earring, takes a nervous breath and gives her reflection a small, determined smile. Final frame: her reflection smiling in the mirror.''',
   cam='''Over-the-shoulder into the mirror, 50mm, slow subtle push-in, focus on her reflection.''',
   light='''Late-afternoon window light, soft and warm from screen-left.''',
   perf='''Nervous excitement: small fidgets, a breath, then quiet confidence.''',
@@ -487,7 +487,7 @@ C(n=20, scene=5, en="He Waits", kk="Ол күтіп тұр", gen=5, edit=3,
   cast=[("ZH", "ZH_DATE")], loc="CINEMA_EXT",
   shot="Орта план, статикалық",
   ctx='''Zhandos waits for Qarakat in front of the cinema for their first date.''',
-  act='''Opening frame: medium shot of Zhandos standing in front of the lit cinema, adjusting the collar of his black bomber jacket. He checks the time on his phone, puts it in his pocket, then looks up to screen-right — and his face lights up with a nervous smile as he sees her approaching. Final frame: Zhandos smiling toward screen-right.''',
+  act='''Opening frame: medium shot of Zhandos standing in front of the lit cinema, straightening his black three-stripe hoodie and smoothing his hair. He checks the time on his phone, puts it in his pocket, then looks up to screen-right — and his face lights up with a nervous smile as he sees her approaching. Final frame: Zhandos smiling toward screen-right.''',
   cam='''Medium shot at eye level, 50mm, static, shallow depth of field.''',
   perf='''Nervous anticipation melting into a shy smile.''',
   audio='''Evening city ambience, distant traffic; the guitar theme continues.''',
@@ -771,7 +771,7 @@ C(n=35, scene=7, en="A Step Into the Future", kk="«Болашаққа қада�
   cast=[("QA", "QA_SEA"), ("ZH", "ZH_SEA")], loc="BEACH",
   shot="Жандостың иығы үстінен Қарақатқа, ірі план",
   ctx='''Qarakat listens as Zhandos continues; she remembers how hard he tried.''',
-  act='''Opening frame: over Zhandos's left shoulder (soft in the left foreground, white linen shirt) onto Qarakat, who is listening, her hand in his. Zhandos, seen from behind, keeps speaking. When he mentions how hard he tried, Qarakat lets out a small laugh, remembering; then her face grows serious and her eyes begin to glisten. Final frame: close-up of Qarakat, eyes shining, lips slightly parted, waiting.''',
+  act='''Opening frame: over Zhandos's left shoulder (soft in the left foreground, black hoodie with white sleeve stripes) onto Qarakat, who is listening, her hand in his. Zhandos, seen from behind, keeps speaking. When he mentions how hard he tried, Qarakat lets out a small laugh, remembering; then her face grows serious and her eyes begin to glisten. Final frame: close-up of Qarakat, eyes shining, lips slightly parted, waiting.''',
   cam='''Over-the-shoulder close-up on Qarakat, 85mm portrait feel, shallow depth of field, static.''',
   light='''Warm sunset light on her face, soft candle fill, a gentle rim on her hair; realistic skin texture.''',
   perf='''Listening is the performance: a small laugh of recognition, then deep emotion held back — real, not melodramatic.''',
@@ -1056,18 +1056,14 @@ def bible():
         "|---|---|---|---|---|",
         "| CHARACTER_A | **Жандос** | 1-сурет (`1000098369.jpg`) — ер адам, қара худи | жоғарғы сол жақтағы бет (алдынан) + төменгі ортадағы толық бой | қалың қара шаш, бетіндегі кішкентай меңдер |",
         "| CHARACTER_B | **Қарақат** | 2-сурет (`1000098361.jpg`) — түйілген шаш, күміс сырға | жоғарғы қатардағы бет (алдынан) + төменгі сол жақтағы толық бой + профиль | жоғары түйілген қара шаш, үлкен жұқа күміс сырғалар |",
-        "| CHARACTER_C | **Арай** | 3-сурет (`1000098364.jpg`) — бұйра каштан шаш, сепкіл | жоғарғы ортадағы бет + төменгі сол жақтағы толық бой (**төңкерілген бөлікті қолданбаңыз**) | сепкіл, бұйра каштан «құйрық» шаш |",
+        "| CHARACTER_C | **Арай** | 3-сурет (`1000098562.jpg`) — бұйра каштан шаш, ақшыл худи | жоғарғы ортадағы бет + төменгі сол жақтағы толық бой | сепкіл, бұйра каштан «құйрық» шаш, ақшыл худи |",
     ]
     ward_rows = ["| Кейіпкер | Сценалар | Киім |", "|---|---|---|"]
     plan = [
-        ("Жандос", "1–4, 6 (атқа міну, түнгі қоңырау, кино кеші)", "ZH_SPORT"),
-        ("Жандос", "5, 6 (кафе, түнгі серуен)", "ZH_DATE"),
-        ("Жандос", "7 — ұсыныс", "ZH_SEA"),
-        ("Жандос", "8 — той", "ZH_SUIT"),
-        ("Қарақат", "1–4, 6 (түнгі қоңырау, атқа міну, кино кеші)", "QA_SPORT"),
-        ("Қарақат", "5, 6 (кафе, түнгі серуен)", "QA_DATE"),
-        ("Қарақат", "7 — ұсыныс", "QA_SEA"),
-        ("Қарақат", "8 — той", "QA_BRIDE"),
+        ("Жандос", "1–7", "ZH_SPORT"),
+        ("Жандос", "8 — той (сценарий бойынша)", "ZH_SUIT"),
+        ("Қарақат", "1–7", "QA_SPORT"),
+        ("Қарақат", "8 — той (сценарий бойынша)", "QA_BRIDE"),
         ("Арай", "2–4", "AR_DAY"),
     ]
     for who, sc, w in plan:
@@ -1090,7 +1086,7 @@ def bible():
 
 {chr(10).join(rows)}
 
-**Маңызды:** генераторға бүкіл парақты (торды) жүктемеңіз — ол тордың сызықтарын, бірнеше бетті кадрға көшіріп алуы мүмкін. Әр кейіпкерден 1–2 бөлікті бөлек сурет етіп кесіп алыңыз.
+**Маңызды:** үш парақты толық жүктеуге болады — промпттарда олардың бір адамның бірнеше көрінісі бар «кейіпкер парағы» екені айтылған. Генератор кадрға тор немесе бір адамның бірнеше көшірмесін шығарса, әр парақтан бет пен толық бойды бөлек кесіп алыңыз.
 
 ### Тұрақты сипаттамалар (әр промптқа сөзбе-сөз енгізілген)
 
@@ -1108,7 +1104,7 @@ def bible():
 
 {chr(10).join(ward_rows)}
 
-Арайдың киімі әдейі өзгертілді: 2 және 3-суреттегі қыздардың киімі бірдей (қою көк худи, сұр шалбар), ал бір кадрда бірдей киінген екі қызды генератор шатастырып, бір адамға айналдырып жібереді.
+Киімдер барлық сценада **референстегідей, өзгеріссіз**. Жалғыз ерекшелік — той (8-сцена): сценарийде Қарақат той көйлегін, Жандос костюмін киеді. Екі қыз киімі арқылы оңай ажыратылады: Қарақат — қою көк худи, Арай — ақшыл худи.
 
 ### Мінез, дауыс, қимыл
 
@@ -1399,7 +1395,7 @@ HEAD = """# «БІР НӨМІРДЕН БАСТАЛҒАН МАХАББАТ» — 
 
 Жандос ❤️ Қарақат · 16:9 · ≈ 4 минут · 45 клип + финалдық жазу
 
-> **Тексеріңіз:** суреттер мен кейіпкерлерді тізім ретімен сәйкестендірдім — **1-сурет — Жандос, 2-сурет (түйілген шаш, күміс сырға) — Қарақат, 3-сурет (бұйра каштан шаш, сепкіл) — Арай.** Егер Қарақат пен Арай керісінше болса, айтыңыз — барлық 45 промпт бір ауыстырумен түзеледі.
+> **Референстер:** **1-сурет — Жандос, 2-сурет (түйілген шаш, күміс сырға, қою көк худи) — Қарақат, 3-сурет (бұйра каштан шаш, ақшыл худи) — Арай.** Киімдер мен беттер барлық клипте референстегідей; тек тойда — ақ көйлек пен костюм.
 
 **Мазмұны:** 1. Шығармашылық бағыт · 2. Оқиға құлпы · 3. Кейіпкерлер кітабы · 4. Толық сценарий · 5. Кадрлар тізімі · 6. Клип промпттары · 7. Үздіксіздік және өту картасы · 8. Сапа тексерісі · 9. Генерацияға кеңестер
 
@@ -1428,8 +1424,7 @@ HEAD = """# «БІР НӨМІРДЕН БАСТАЛҒАН МАХАББАТ» — 
 - Формат 16:9, ұзақтығы 3–4 минут, романтикалық кино стилі.
 
 **Кинематографиялық шешімдер (менің ұсынысым, фактіні өзгертпейді):**
-- Арайдың киімі Қарақаттан ерекшеленеді (жоғарыда себебі айтылған).
-- Кездесу, ұсыныс және той киімдері — менің ұсынысым.
+- Киімдер бүкіл фильмде референстегідей; тек тойда — сценарий бойынша ақ көйлек пен костюм (олардың сипаттамасы — менің ұсынысым).
 - Арай мен Қарақаттың сөйлесетін орны (2 және 4-сцена) — саябақ аллеясы; мәтінде орын көрсетілмеген.
 - 3-сцена кешкі алтын шақта өтеді — күндерді жарықпен ажырату үшін.
 - Төртінші хабарлама («Неге жауап бермейсің?») бірнеше күннен кейін жіберілгендей көрсетілді — мағынасы солай.
@@ -1447,7 +1442,7 @@ HEAD = """# «БІР НӨМІРДЕН БАСТАЛҒАН МАХАББАТ» — 
 
 TIPS = """## 9. Генерацияға кеңестер
 
-1. **Референстерді дайындаңыз.** Әр парақтан 1–2 бөлікті бөлек сурет етіп кесіп алыңыз (бет + толық бой). Бүкіл торды жүктемеңіз. Әр промпттағы «reference image 1/2/3» — осы кесінділер: 1 — Жандос, 2 — Қарақат, 3 — Арай. 3-суреттегі төңкерілген бөлікті қолданбаңыз.
+1. **Референстер.** Үш парақты толық жүктеуге болады, промпттардағы «reference image 1/2/3»: 1 — Жандос, 2 — Қарақат, 3 — Арай. Генератор кадрға тор немесе бір адамның бірнеше көшірмесін шығарса, бет пен толық бойды бөлек кесіп алыңыз.
 2. **Ең сенімді жол — алдымен сурет, сосын видео.** Әр клиптің бірінші кадрын референстермен сурет етіп жасап, сосын сол суреттен видео шығарыңыз (image-to-video). Тек мәтін беттің ұқсастығына кепілдік бермейді — референс пен бастапқы кадр әлдеқайда күшті.
 3. **Тығыз жалғасатын жұптар:** 10→11 және 36→37. Алдыңғы клиптің соңғы кадрын келесісінің бірінші кадры ретінде беріңіз.
 4. **Қазақша диалог.** Көп генераторлар қазақ тілінде қате айтады немесе ерін қимылы сәйкес келмейді. Диалогты генерацияда ойнатып, дыбысын кейін ауыстырыңыз. Ең жақсысы — Жандос пен Қарақаттың өз дауыстары. Екінші жол — ElevenLabs арқылы қазақша дыбыстау (қаласаңыз, дайындап беремін). 35-клипте Жандос арқасымен тұр, сондықтан оның сөзін ерін қимылынсыз-ақ дыбыстауға болады.

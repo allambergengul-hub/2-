@@ -2,7 +2,7 @@
 
 Жандос ❤️ Қарақат · 16:9 · ≈ 4 минут · 45 клип + финалдық жазу
 
-> **Тексеріңіз:** суреттер мен кейіпкерлерді тізім ретімен сәйкестендірдім — **1-сурет — Жандос, 2-сурет (түйілген шаш, күміс сырға) — Қарақат, 3-сурет (бұйра каштан шаш, сепкіл) — Арай.** Егер Қарақат пен Арай керісінше болса, айтыңыз — барлық 45 промпт бір ауыстырумен түзеледі.
+> **Референстер:** **1-сурет — Жандос, 2-сурет (түйілген шаш, күміс сырға, қою көк худи) — Қарақат, 3-сурет (бұйра каштан шаш, ақшыл худи) — Арай.** Киімдер мен беттер барлық клипте референстегідей; тек тойда — ақ көйлек пен костюм.
 
 **Мазмұны:** 1. Шығармашылық бағыт · 2. Оқиға құлпы · 3. Кейіпкерлер кітабы · 4. Толық сценарий · 5. Кадрлар тізімі · 6. Клип промпттары · 7. Үздіксіздік және өту картасы · 8. Сапа тексерісі · 9. Генерацияға кеңестер
 
@@ -31,8 +31,7 @@
 - Формат 16:9, ұзақтығы 3–4 минут, романтикалық кино стилі.
 
 **Кинематографиялық шешімдер (менің ұсынысым, фактіні өзгертпейді):**
-- Арайдың киімі Қарақаттан ерекшеленеді (жоғарыда себебі айтылған).
-- Кездесу, ұсыныс және той киімдері — менің ұсынысым.
+- Киімдер бүкіл фильмде референстегідей; тек тойда — сценарий бойынша ақ көйлек пен костюм (олардың сипаттамасы — менің ұсынысым).
 - Арай мен Қарақаттың сөйлесетін орны (2 және 4-сцена) — саябақ аллеясы; мәтінде орын көрсетілмеген.
 - 3-сцена кешкі алтын шақта өтеді — күндерді жарықпен ажырату үшін.
 - Төртінші хабарлама («Неге жауап бермейсің?») бірнеше күннен кейін жіберілгендей көрсетілді — мағынасы солай.
@@ -55,9 +54,9 @@
 |---|---|---|---|---|
 | CHARACTER_A | **Жандос** | 1-сурет (`1000098369.jpg`) — ер адам, қара худи | жоғарғы сол жақтағы бет (алдынан) + төменгі ортадағы толық бой | қалың қара шаш, бетіндегі кішкентай меңдер |
 | CHARACTER_B | **Қарақат** | 2-сурет (`1000098361.jpg`) — түйілген шаш, күміс сырға | жоғарғы қатардағы бет (алдынан) + төменгі сол жақтағы толық бой + профиль | жоғары түйілген қара шаш, үлкен жұқа күміс сырғалар |
-| CHARACTER_C | **Арай** | 3-сурет (`1000098364.jpg`) — бұйра каштан шаш, сепкіл | жоғарғы ортадағы бет + төменгі сол жақтағы толық бой (**төңкерілген бөлікті қолданбаңыз**) | сепкіл, бұйра каштан «құйрық» шаш |
+| CHARACTER_C | **Арай** | 3-сурет (`1000098562.jpg`) — бұйра каштан шаш, ақшыл худи | жоғарғы ортадағы бет + төменгі сол жақтағы толық бой | сепкіл, бұйра каштан «құйрық» шаш, ақшыл худи |
 
-**Маңызды:** генераторға бүкіл парақты (торды) жүктемеңіз — ол тордың сызықтарын, бірнеше бетті кадрға көшіріп алуы мүмкін. Әр кейіпкерден 1–2 бөлікті бөлек сурет етіп кесіп алыңыз.
+**Маңызды:** үш парақты толық жүктеуге болады — промпттарда олардың бір адамның бірнеше көрінісі бар «кейіпкер парағы» екені айтылған. Генератор кадрға тор немесе бір адамның бірнеше көшірмесін шығарса, әр парақтан бет пен толық бойды бөлек кесіп алыңыз.
 
 ### Тұрақты сипаттамалар (әр промптқа сөзбе-сөз енгізілген)
 
@@ -66,7 +65,7 @@ ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian featur
 
 QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
 
-ARAI (CHARACTER_C): a young Kazakh woman in her twenties with East Asian features; soft rounded face with light freckles across her nose and cheeks, defined dark brows, dark-brown almond eyes; long voluminous curly chestnut-brown hair tied in a high curly ponytail with loose curly strands framing her face. Signature details, keep in every frame: the freckles and the curly chestnut ponytail. Use supplied reference image 3 (her character sheet) as the identity reference and preserve her exact face and features.
+ARAI (CHARACTER_C): a young Kazakh woman in her twenties with East Asian features; soft rounded face with a warm smile and light freckles across her nose and cheeks, defined dark brows, dark-brown almond eyes; long voluminous curly chestnut-brown hair tied in a high curly ponytail tied with a black hair tie, loose curly strands framing her face. Signature details, keep in every frame: the freckles and the curly chestnut ponytail. Use supplied reference image 3 (her character sheet) as the identity reference and preserve her exact face and features.
 ```
 
 **Қысқа нұсқасы** — таңба шегі бар генераторларға (9-бөлім, 7-кеңес):
@@ -81,17 +80,13 @@ ARAI (woman, ref image 3): twenties, freckles, long curly chestnut-brown hair in
 
 | Кейіпкер | Сценалар | Киім |
 |---|---|---|
-| Жандос | 1–4, 6 (атқа міну, түнгі қоңырау, кино кеші) | Ақ үш жолақты қара худи мен шалбар, ақ кроссовка — 1-суреттегідей |
-| Жандос | 5, 6 (кафе, түнгі серуен) | Қара бомбер, ақ футболка, қою көк джинсы, ақ кроссовка |
-| Жандос | 7 — ұсыныс | Ақ зығыр көйлек, бежевый шалбар, ақ кроссовка |
-| Жандос | 8 — той | Қара костюм, ақ көйлек, қара галстук, қара туфли |
-| Қарақат | 1–4, 6 (түнгі қоңырау, атқа міну, кино кеші) | Қою көк худи, ашық сұр шалбар, ақ кроссовка, күміс кулон (жетон), күміс сырға — 2-суреттегідей |
-| Қарақат | 5, 6 (кафе, түнгі серуен) | Ақшыл тоқыма кофта, қою көк бүрмелі юбка, ақ кроссовка, күміс кулон, сырға |
-| Қарақат | 7 — ұсыныс | Ақшыл зығыр көйлек, қоңыр сандал, күміс сырға |
-| Қарақат | 8 — той | Ақ той көйлегі, шаршы (фата), сырға, сақина |
-| Арай | 2–4 | Түйе түсті кардиган, ақ футболка, ашық көк джинсы, ақ кеды, кенеп сөмке |
+| Жандос | 1–7 | Референстегі қара adidas худи мен шалбар (ақ үш жолақ), ақ кроссовка — өзгеріссіз |
+| Жандос | 8 — той (сценарий бойынша) | Қара костюм, ақ көйлек, қара галстук, қара туфли |
+| Қарақат | 1–7 | Референстегі қою көк худи, күміс жетон-кулон, ашық сұр шалбар, ақ кроссовка, күміс сырға — өзгеріссіз |
+| Қарақат | 8 — той (сценарий бойынша) | Ақ той көйлегі, шаршы (фата), сырға, сақина |
+| Арай | 2–4 | Референстегі ақшыл худи (қызғылт бау, жүрекше), ақ жолақты қара шалбар, қызғылт-ақ кроссовка — өзгеріссіз |
 
-Арайдың киімі әдейі өзгертілді: 2 және 3-суреттегі қыздардың киімі бірдей (қою көк худи, сұр шалбар), ал бір кадрда бірдей киінген екі қызды генератор шатастырып, бір адамға айналдырып жібереді.
+Киімдер барлық сценада **референстегідей, өзгеріссіз**. Жалғыз ерекшелік — той (8-сцена): сценарийде Қарақат той көйлегін, Жандос костюмін киеді. Екі қыз киімі арқылы оңай ажыратылады: Қарақат — қою көк худи, Арай — ақшыл худи.
 
 ### Мінез, дауыс, қимыл
 
@@ -464,8 +459,8 @@ CHARACTER IDENTITY:
 - ZHANDOS'S TWO FRIENDS (supporting, generic faces, never in close-up): FRIEND 1 — buzz-cut black hair, grey pullover hoodie, black joggers; FRIEND 2 — black baseball cap, dark-green zip-up track jacket, black joggers.
 
 WARDROBE & PROPS:
-- Qarakat: oversized dark-navy pullover hoodie, light heather-grey loose jogger sweatpants with elastic cuffs, plain white low-top leather sneakers, a silver dog-tag pendant on a long thin chain worn over the hoodie, the large thin silver hoop earrings — exactly as in reference image 2.
-- Zhandos: black cotton pullover hoodie with three white stripes down each sleeve and a small white chest emblem, matching black track pants with three white stripes down the outer legs, white low-top sneakers with three black side stripes — exactly as in reference image 1.
+- Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs, plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged.
+- Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
 
 LOCATION & ENVIRONMENT:
 An indoor volleyball gym in the evening: honey-coloured polished wooden floor with white court lines, a volleyball net across the middle, pale grey-green walls, tall windows high up showing a dark evening sky, wooden bleachers along the right wall, exit double doors in the left wall. Screen direction: the exit is always screen-left, the bleachers screen-right.
@@ -510,7 +505,7 @@ CHARACTER IDENTITY:
 - ZHANDOS'S TWO FRIENDS (supporting, generic faces, never in close-up): FRIEND 1 — buzz-cut black hair, grey pullover hoodie, black joggers; FRIEND 2 — black baseball cap, dark-green zip-up track jacket, black joggers.
 
 WARDROBE & PROPS:
-- Zhandos: black cotton pullover hoodie with three white stripes down each sleeve and a small white chest emblem, matching black track pants with three white stripes down the outer legs, white low-top sneakers with three black side stripes — exactly as in reference image 1.
+- Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
 
 LOCATION & ENVIRONMENT:
 An indoor volleyball gym in the evening: honey-coloured polished wooden floor with white court lines, a volleyball net across the middle, pale grey-green walls, tall windows high up showing a dark evening sky, wooden bleachers along the right wall, exit double doors in the left wall. Screen direction: the exit is always screen-left, the bleachers screen-right.
@@ -554,7 +549,7 @@ CHARACTER IDENTITY:
 - ZHANDOS'S TWO FRIENDS (supporting, generic faces, never in close-up): FRIEND 1 — buzz-cut black hair, grey pullover hoodie, black joggers; FRIEND 2 — black baseball cap, dark-green zip-up track jacket, black joggers.
 
 WARDROBE & PROPS:
-- Zhandos: black cotton pullover hoodie with three white stripes down each sleeve and a small white chest emblem, matching black track pants with three white stripes down the outer legs, white low-top sneakers with three black side stripes — exactly as in reference image 1.
+- Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
 
 LOCATION & ENVIRONMENT:
 An indoor volleyball gym in the evening: honey-coloured polished wooden floor with white court lines, a volleyball net across the middle, pale grey-green walls, tall windows high up showing a dark evening sky, wooden bleachers along the right wall, exit double doors in the left wall. Screen direction: the exit is always screen-left, the bleachers screen-right.
@@ -599,8 +594,8 @@ CHARACTER IDENTITY:
 - QARAKAT'S TEAMMATES (supporting, kept at mid-distance or soft focus): two or three young women in mixed training wear — black leggings, white and grey T-shirts, sports bags. None of them wears a dark-navy hoodie, a high bun or hoop earrings.
 
 WARDROBE & PROPS:
-- Zhandos: black cotton pullover hoodie with three white stripes down each sleeve and a small white chest emblem, matching black track pants with three white stripes down the outer legs, white low-top sneakers with three black side stripes — exactly as in reference image 1.
-- Qarakat: oversized dark-navy pullover hoodie, light heather-grey loose jogger sweatpants with elastic cuffs, plain white low-top leather sneakers, a silver dog-tag pendant on a long thin chain worn over the hoodie, the large thin silver hoop earrings — exactly as in reference image 2.
+- Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
+- Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs, plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged.
 
 LOCATION & ENVIRONMENT:
 Outside the sports complex at night: wide concrete entrance steps and glass doors glowing from inside at screen-right, a quiet city street running left–right in front, parked cars.
@@ -643,20 +638,20 @@ The next day: Qarakat and a friend leave a café; a moment later Arai comes out 
 
 CHARACTER IDENTITY:
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
-- ARAI (CHARACTER_C): a young Kazakh woman in her twenties with East Asian features; soft rounded face with light freckles across her nose and cheeks, defined dark brows, dark-brown almond eyes; long voluminous curly chestnut-brown hair tied in a high curly ponytail with loose curly strands framing her face. Signature details, keep in every frame: the freckles and the curly chestnut ponytail. Use supplied reference image 3 (her character sheet) as the identity reference and preserve her exact face and features.
+- ARAI (CHARACTER_C): a young Kazakh woman in her twenties with East Asian features; soft rounded face with a warm smile and light freckles across her nose and cheeks, defined dark brows, dark-brown almond eyes; long voluminous curly chestnut-brown hair tied in a high curly ponytail tied with a black hair tie, loose curly strands framing her face. Signature details, keep in every frame: the freckles and the curly chestnut ponytail. Use supplied reference image 3 (her character sheet) as the identity reference and preserve her exact face and features.
 - ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 - QARAKAT'S TEAMMATES (supporting, kept at mid-distance or soft focus): two or three young women in mixed training wear — black leggings, white and grey T-shirts, sports bags. None of them wears a dark-navy hoodie, a high bun or hoop earrings.
 
 WARDROBE & PROPS:
-- Qarakat: oversized dark-navy pullover hoodie, light heather-grey loose jogger sweatpants with elastic cuffs, plain white low-top leather sneakers, a silver dog-tag pendant on a long thin chain worn over the hoodie, the large thin silver hoop earrings — exactly as in reference image 2.
-- Arai: camel-beige oversized knit cardigan over a plain white T-shirt, light-blue straight-leg jeans, white canvas sneakers, a beige canvas tote bag on her shoulder. (Deliberately different from Qarakat's navy hoodie and grey sweatpants.)
-- Zhandos: black cotton pullover hoodie with three white stripes down each sleeve and a small white chest emblem, matching black track pants with three white stripes down the outer legs, white low-top sneakers with three black side stripes — exactly as in reference image 1.
+- Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs, plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged.
+- Arai: oversized cream-ivory hoodie with pale-pink drawstrings and a small pale-pink heart on the left chest, black track pants with two white side stripes, pink-and-white low-top sneakers — exactly as in reference image 3, unchanged.
+- Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
 
 LOCATION & ENVIRONMENT:
 A small modern café on a quiet city street in daylight: a large glass front, a glass door with a brass handle, two small outdoor tables, potted plants, a tree-lined sidewalk running left–right, light pedestrian traffic, mild weather.
 
 ACTION — ONE CONTINUOUS TAKE:
-Opening frame: the café's glass door in the centre of the frame. Qarakat and one teammate step out laughing and walk away along the sidewalk screen-right, leaving frame. The door swings shut. A few seconds later it opens again and Arai steps out alone, settling her beige canvas tote on her shoulder and glancing at her phone. Zhandos enters from the left foreground (seen from behind and the side), walking toward her and raising a hand to get her attention. Final frame: Arai looks up at him, mildly surprised; Zhandos is two steps away from her.
+Opening frame: the café's glass door in the centre of the frame. Qarakat and one teammate step out laughing and walk away along the sidewalk screen-right, leaving frame. The door swings shut. A few seconds later it opens again and Arai steps out alone, pushing up the sleeves of her cream hoodie and glancing at her phone. Zhandos enters from the left foreground (seen from behind and the side), walking toward her and raising a hand to get her attention. Final frame: Arai looks up at him, mildly surprised; Zhandos is two steps away from her.
 
 CAMERA:
 Wide-medium shot from across the sidewalk, 35mm, static, with a slight pan right as Zhandos walks in.
@@ -671,7 +666,7 @@ AUDIO:
 A small doorbell chime each time the door opens, street ambience, footsteps. A light, playful pizzicato tune begins softly.
 
 CONTINUITY:
-Daytime, the next day. Qarakat exits screen-right. Arai and Qarakat must look clearly different: curly chestnut ponytail and camel cardigan versus high black bun and navy hoodie. Identity anchors: Qarakat keeps her exact face, the high round bun and the silver hoop earrings; Arai keeps her exact face, freckles and the curly chestnut ponytail; Zhandos keeps his exact face and hair; outfits exactly as listed above.
+Daytime, the next day. Qarakat exits screen-right. Arai and Qarakat must look clearly different: curly chestnut ponytail and cream hoodie versus high black bun and navy hoodie. Identity anchors: Qarakat keeps her exact face, the high round bun and the silver hoop earrings; Arai keeps her exact face, freckles and the curly chestnut ponytail; Zhandos keeps his exact face and hair; outfits exactly as listed above.
 
 VISUAL QUALITY:
 High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition.
@@ -691,17 +686,17 @@ Zhandos introduces himself to Arai and asks whether she knows Qarakat.
 
 CHARACTER IDENTITY:
 - ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
-- ARAI (CHARACTER_C): a young Kazakh woman in her twenties with East Asian features; soft rounded face with light freckles across her nose and cheeks, defined dark brows, dark-brown almond eyes; long voluminous curly chestnut-brown hair tied in a high curly ponytail with loose curly strands framing her face. Signature details, keep in every frame: the freckles and the curly chestnut ponytail. Use supplied reference image 3 (her character sheet) as the identity reference and preserve her exact face and features.
+- ARAI (CHARACTER_C): a young Kazakh woman in her twenties with East Asian features; soft rounded face with a warm smile and light freckles across her nose and cheeks, defined dark brows, dark-brown almond eyes; long voluminous curly chestnut-brown hair tied in a high curly ponytail tied with a black hair tie, loose curly strands framing her face. Signature details, keep in every frame: the freckles and the curly chestnut ponytail. Use supplied reference image 3 (her character sheet) as the identity reference and preserve her exact face and features.
 
 WARDROBE & PROPS:
-- Zhandos: black cotton pullover hoodie with three white stripes down each sleeve and a small white chest emblem, matching black track pants with three white stripes down the outer legs, white low-top sneakers with three black side stripes — exactly as in reference image 1.
-- Arai: camel-beige oversized knit cardigan over a plain white T-shirt, light-blue straight-leg jeans, white canvas sneakers, a beige canvas tote bag on her shoulder. (Deliberately different from Qarakat's navy hoodie and grey sweatpants.)
+- Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
+- Arai: oversized cream-ivory hoodie with pale-pink drawstrings and a small pale-pink heart on the left chest, black track pants with two white side stripes, pink-and-white low-top sneakers — exactly as in reference image 3, unchanged.
 
 LOCATION & ENVIRONMENT:
 A small modern café on a quiet city street in daylight: a large glass front, a glass door with a brass handle, two small outdoor tables, potted plants, a tree-lined sidewalk running left–right, light pedestrian traffic, mild weather.
 
 ACTION — ONE CONTINUOUS TAKE:
-Opening frame: a medium two-shot in profile on the sidewalk in front of the café — Zhandos at screen-left facing right, Arai at screen-right facing left. Zhandos, a bit nervous, rubs the back of his neck and greets her. Arai, holding her tote strap, answers. Zhandos asks his question. At Qarakat's name Arai raises one eyebrow and tilts her head as she answers. Final frame: Arai looking at him with a sceptical half-smile, waiting for his answer.
+Opening frame: a medium two-shot in profile on the sidewalk in front of the café — Zhandos at screen-left facing right, Arai at screen-right facing left. Zhandos, a bit nervous, rubs the back of his neck and greets her. Arai, hands in her hoodie pocket, answers. Zhandos asks his question. At Qarakat's name Arai raises one eyebrow and tilts her head as she answers. Final frame: Arai looking at him with a sceptical half-smile, waiting for his answer.
 
 CAMERA:
 Medium two-shot at eye level, 50mm, static with subtle handheld breathing; both faces clearly readable.
@@ -736,11 +731,11 @@ Zhandos asks Arai for Qarakat's number; she refuses until she has asked Qarakat 
 
 CHARACTER IDENTITY:
 - ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
-- ARAI (CHARACTER_C): a young Kazakh woman in her twenties with East Asian features; soft rounded face with light freckles across her nose and cheeks, defined dark brows, dark-brown almond eyes; long voluminous curly chestnut-brown hair tied in a high curly ponytail with loose curly strands framing her face. Signature details, keep in every frame: the freckles and the curly chestnut ponytail. Use supplied reference image 3 (her character sheet) as the identity reference and preserve her exact face and features.
+- ARAI (CHARACTER_C): a young Kazakh woman in her twenties with East Asian features; soft rounded face with a warm smile and light freckles across her nose and cheeks, defined dark brows, dark-brown almond eyes; long voluminous curly chestnut-brown hair tied in a high curly ponytail tied with a black hair tie, loose curly strands framing her face. Signature details, keep in every frame: the freckles and the curly chestnut ponytail. Use supplied reference image 3 (her character sheet) as the identity reference and preserve her exact face and features.
 
 WARDROBE & PROPS:
-- Zhandos: black cotton pullover hoodie with three white stripes down each sleeve and a small white chest emblem, matching black track pants with three white stripes down the outer legs, white low-top sneakers with three black side stripes — exactly as in reference image 1.
-- Arai: camel-beige oversized knit cardigan over a plain white T-shirt, light-blue straight-leg jeans, white canvas sneakers, a beige canvas tote bag on her shoulder. (Deliberately different from Qarakat's navy hoodie and grey sweatpants.)
+- Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
+- Arai: oversized cream-ivory hoodie with pale-pink drawstrings and a small pale-pink heart on the left chest, black track pants with two white side stripes, pink-and-white low-top sneakers — exactly as in reference image 3, unchanged.
 
 LOCATION & ENVIRONMENT:
 A small modern café on a quiet city street in daylight: a large glass front, a glass door with a brass handle, two small outdoor tables, potted plants, a tree-lined sidewalk running left–right, light pedestrian traffic, mild weather.
@@ -780,12 +775,12 @@ STORY CONTEXT:
 Later that day Arai tells Qarakat that a guy named Zhandos wants her number; Qarakat declines.
 
 CHARACTER IDENTITY:
-- ARAI (CHARACTER_C): a young Kazakh woman in her twenties with East Asian features; soft rounded face with light freckles across her nose and cheeks, defined dark brows, dark-brown almond eyes; long voluminous curly chestnut-brown hair tied in a high curly ponytail with loose curly strands framing her face. Signature details, keep in every frame: the freckles and the curly chestnut ponytail. Use supplied reference image 3 (her character sheet) as the identity reference and preserve her exact face and features.
+- ARAI (CHARACTER_C): a young Kazakh woman in her twenties with East Asian features; soft rounded face with a warm smile and light freckles across her nose and cheeks, defined dark brows, dark-brown almond eyes; long voluminous curly chestnut-brown hair tied in a high curly ponytail tied with a black hair tie, loose curly strands framing her face. Signature details, keep in every frame: the freckles and the curly chestnut ponytail. Use supplied reference image 3 (her character sheet) as the identity reference and preserve her exact face and features.
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
 
 WARDROBE & PROPS:
-- Arai: camel-beige oversized knit cardigan over a plain white T-shirt, light-blue straight-leg jeans, white canvas sneakers, a beige canvas tote bag on her shoulder. (Deliberately different from Qarakat's navy hoodie and grey sweatpants.)
-- Qarakat: oversized dark-navy pullover hoodie, light heather-grey loose jogger sweatpants with elastic cuffs, plain white low-top leather sneakers, a silver dog-tag pendant on a long thin chain worn over the hoodie, the large thin silver hoop earrings — exactly as in reference image 2.
+- Arai: oversized cream-ivory hoodie with pale-pink drawstrings and a small pale-pink heart on the left chest, black track pants with two white side stripes, pink-and-white low-top sneakers — exactly as in reference image 3, unchanged.
+- Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs, plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged.
 
 LOCATION & ENVIRONMENT:
 A tree-lined park alley in daytime: a paved path, wooden benches, mature leafy trees, a few distant passers-by.
@@ -806,7 +801,7 @@ AUDIO:
 Kazakh dialogue, spoken in Kazakh with these exact words — ARAI (playful, conspiratorial): "Қарақат, саған бір жігіт қызығып жүр. Аты Жандос. Нөміріңді сұрап жатыр." QARAKAT (shy, dismissive): "Жоқ, бермей-ақ қойшы. Танымаймын ғой." Birdsong, rustling leaves, the distant city.
 
 CONTINUITY:
-Daytime, the same day. The two women must stay clearly different: Qarakat — high black bun, silver hoops, navy hoodie; Arai — curly chestnut ponytail, freckles, camel cardigan. Identity anchors: Arai keeps her exact face, freckles and the curly chestnut ponytail; Qarakat keeps her exact face, the high round bun and the silver hoop earrings; outfits exactly as listed above.
+Daytime, the same day. The two women must stay clearly different: Qarakat — high black bun, silver hoops, navy hoodie; Arai — curly chestnut ponytail, freckles, cream hoodie. Identity anchors: Arai keeps her exact face, freckles and the curly chestnut ponytail; Qarakat keeps her exact face, the high round bun and the silver hoop earrings; outfits exactly as listed above.
 
 VISUAL QUALITY:
 High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition.
@@ -828,12 +823,12 @@ The third day: Zhandos comes out of the volleyball hall, spots Arai and asks wha
 
 CHARACTER IDENTITY:
 - ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
-- ARAI (CHARACTER_C): a young Kazakh woman in her twenties with East Asian features; soft rounded face with light freckles across her nose and cheeks, defined dark brows, dark-brown almond eyes; long voluminous curly chestnut-brown hair tied in a high curly ponytail with loose curly strands framing her face. Signature details, keep in every frame: the freckles and the curly chestnut ponytail. Use supplied reference image 3 (her character sheet) as the identity reference and preserve her exact face and features.
+- ARAI (CHARACTER_C): a young Kazakh woman in her twenties with East Asian features; soft rounded face with a warm smile and light freckles across her nose and cheeks, defined dark brows, dark-brown almond eyes; long voluminous curly chestnut-brown hair tied in a high curly ponytail tied with a black hair tie, loose curly strands framing her face. Signature details, keep in every frame: the freckles and the curly chestnut ponytail. Use supplied reference image 3 (her character sheet) as the identity reference and preserve her exact face and features.
 - ZHANDOS'S TWO FRIENDS (supporting, generic faces, never in close-up): FRIEND 1 — buzz-cut black hair, grey pullover hoodie, black joggers; FRIEND 2 — black baseball cap, dark-green zip-up track jacket, black joggers.
 
 WARDROBE & PROPS:
-- Zhandos: black cotton pullover hoodie with three white stripes down each sleeve and a small white chest emblem, matching black track pants with three white stripes down the outer legs, white low-top sneakers with three black side stripes — exactly as in reference image 1.
-- Arai: camel-beige oversized knit cardigan over a plain white T-shirt, light-blue straight-leg jeans, white canvas sneakers, a beige canvas tote bag on her shoulder. (Deliberately different from Qarakat's navy hoodie and grey sweatpants.)
+- Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
+- Arai: oversized cream-ivory hoodie with pale-pink drawstrings and a small pale-pink heart on the left chest, black track pants with two white side stripes, pink-and-white low-top sneakers — exactly as in reference image 3, unchanged.
 
 LOCATION & ENVIRONMENT:
 Outside the same sports complex in the late afternoon: wide concrete entrance steps, glass doors, a pale concrete facade, young trees, the sidewalk running left–right.
@@ -874,12 +869,12 @@ Zhandos tries to buy Qarakat's number from Arai with money; Arai plays hard to g
 
 CHARACTER IDENTITY:
 - ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
-- ARAI (CHARACTER_C): a young Kazakh woman in her twenties with East Asian features; soft rounded face with light freckles across her nose and cheeks, defined dark brows, dark-brown almond eyes; long voluminous curly chestnut-brown hair tied in a high curly ponytail with loose curly strands framing her face. Signature details, keep in every frame: the freckles and the curly chestnut ponytail. Use supplied reference image 3 (her character sheet) as the identity reference and preserve her exact face and features.
+- ARAI (CHARACTER_C): a young Kazakh woman in her twenties with East Asian features; soft rounded face with a warm smile and light freckles across her nose and cheeks, defined dark brows, dark-brown almond eyes; long voluminous curly chestnut-brown hair tied in a high curly ponytail tied with a black hair tie, loose curly strands framing her face. Signature details, keep in every frame: the freckles and the curly chestnut ponytail. Use supplied reference image 3 (her character sheet) as the identity reference and preserve her exact face and features.
 - ZHANDOS'S TWO FRIENDS (supporting, generic faces, never in close-up): FRIEND 1 — buzz-cut black hair, grey pullover hoodie, black joggers; FRIEND 2 — black baseball cap, dark-green zip-up track jacket, black joggers.
 
 WARDROBE & PROPS:
-- Zhandos: black cotton pullover hoodie with three white stripes down each sleeve and a small white chest emblem, matching black track pants with three white stripes down the outer legs, white low-top sneakers with three black side stripes — exactly as in reference image 1.
-- Arai: camel-beige oversized knit cardigan over a plain white T-shirt, light-blue straight-leg jeans, white canvas sneakers, a beige canvas tote bag on her shoulder. (Deliberately different from Qarakat's navy hoodie and grey sweatpants.)
+- Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
+- Arai: oversized cream-ivory hoodie with pale-pink drawstrings and a small pale-pink heart on the left chest, black track pants with two white side stripes, pink-and-white low-top sneakers — exactly as in reference image 3, unchanged.
 
 LOCATION & ENVIRONMENT:
 Outside the same sports complex in the late afternoon: wide concrete entrance steps, glass doors, a pale concrete facade, young trees, the sidewalk running left–right.
@@ -920,17 +915,17 @@ Zhandos adds more money; Arai takes it and gives him Qarakat's number, making hi
 
 CHARACTER IDENTITY:
 - ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
-- ARAI (CHARACTER_C): a young Kazakh woman in her twenties with East Asian features; soft rounded face with light freckles across her nose and cheeks, defined dark brows, dark-brown almond eyes; long voluminous curly chestnut-brown hair tied in a high curly ponytail with loose curly strands framing her face. Signature details, keep in every frame: the freckles and the curly chestnut ponytail. Use supplied reference image 3 (her character sheet) as the identity reference and preserve her exact face and features.
+- ARAI (CHARACTER_C): a young Kazakh woman in her twenties with East Asian features; soft rounded face with a warm smile and light freckles across her nose and cheeks, defined dark brows, dark-brown almond eyes; long voluminous curly chestnut-brown hair tied in a high curly ponytail tied with a black hair tie, loose curly strands framing her face. Signature details, keep in every frame: the freckles and the curly chestnut ponytail. Use supplied reference image 3 (her character sheet) as the identity reference and preserve her exact face and features.
 
 WARDROBE & PROPS:
-- Zhandos: black cotton pullover hoodie with three white stripes down each sleeve and a small white chest emblem, matching black track pants with three white stripes down the outer legs, white low-top sneakers with three black side stripes — exactly as in reference image 1.
-- Arai: camel-beige oversized knit cardigan over a plain white T-shirt, light-blue straight-leg jeans, white canvas sneakers, a beige canvas tote bag on her shoulder. (Deliberately different from Qarakat's navy hoodie and grey sweatpants.)
+- Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
+- Arai: oversized cream-ivory hoodie with pale-pink drawstrings and a small pale-pink heart on the left chest, black track pants with two white side stripes, pink-and-white low-top sneakers — exactly as in reference image 3, unchanged.
 
 LOCATION & ENVIRONMENT:
 Outside the same sports complex in the late afternoon: wide concrete entrance steps, glass doors, a pale concrete facade, young trees, the sidewalk running left–right.
 
 ACTION — ONE CONTINUOUS TAKE:
-Opening frame: medium two-shot — Arai at screen-right with her palm open, Zhandos at screen-left. Zhandos sighs with a laugh and places more folded banknotes into her palm. Arai tucks the money into her cardigan pocket, takes out her phone and holds its screen toward him (the screen faces him, away from the camera) and says her line in a low, conspiratorial voice. Zhandos quickly types the number into his own phone. Arai pockets her phone, gives him a knowing look and walks off screen-right. Final frame: Zhandos alone in the frame, looking down at his phone with a growing smile.
+Opening frame: medium two-shot — Arai at screen-right with her palm open, Zhandos at screen-left. Zhandos sighs with a laugh and places more folded banknotes into her palm. Arai tucks the money into her hoodie pocket, takes out her phone and holds its screen toward him (the screen faces him, away from the camera) and says her line in a low, conspiratorial voice. Zhandos quickly types the number into his own phone. Arai pockets her phone, gives him a knowing look and walks off screen-right. Final frame: Zhandos alone in the frame, looking down at his phone with a growing smile.
 
 CAMERA:
 Medium two-shot at eye level, 40mm, a very slow push-in toward Zhandos across the shot.
@@ -967,7 +962,7 @@ CHARACTER IDENTITY:
 - ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 
 WARDROBE & PROPS:
-- Zhandos: black cotton pullover hoodie with three white stripes down each sleeve and a small white chest emblem, matching black track pants with three white stripes down the outer legs, white low-top sneakers with three black side stripes — exactly as in reference image 1.
+- Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
 
 LOCATION & ENVIRONMENT:
 Outside the same sports complex in the late afternoon: wide concrete entrance steps, glass doors, a pale concrete facade, young trees, the sidewalk running left–right.
@@ -1012,7 +1007,7 @@ CHARACTER IDENTITY:
 - ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 
 WARDROBE & PROPS:
-- Zhandos: black cotton pullover hoodie with three white stripes down each sleeve and a small white chest emblem, matching black track pants with three white stripes down the outer legs, white low-top sneakers with three black side stripes — exactly as in reference image 1.
+- Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
 
 LOCATION & ENVIRONMENT:
 Zhandos's small bedroom: a single bed with dark-grey bedding against the left wall, a wooden desk with a desk lamp under the window, a shelf with a few books and a volleyball, the window showing the city.
@@ -1056,7 +1051,7 @@ CHARACTER IDENTITY:
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
 
 WARDROBE & PROPS:
-- Qarakat: oversized dark-navy pullover hoodie, light heather-grey loose jogger sweatpants with elastic cuffs, plain white low-top leather sneakers, a silver dog-tag pendant on a long thin chain worn over the hoodie, the large thin silver hoop earrings — exactly as in reference image 2.
+- Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs, plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged.
 
 LOCATION & ENVIRONMENT:
 Qarakat's bedroom: a bed with white bedding, a warm bedside lamp, a tall free-standing mirror, sheer curtains on the window, a small shelf with plants.
@@ -1099,7 +1094,7 @@ CHARACTER IDENTITY:
 - ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 
 WARDROBE & PROPS:
-- Zhandos: black cotton pullover hoodie with three white stripes down each sleeve and a small white chest emblem, matching black track pants with three white stripes down the outer legs, white low-top sneakers with three black side stripes — exactly as in reference image 1.
+- Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
 
 LOCATION & ENVIRONMENT:
 Zhandos's small bedroom: a single bed with dark-grey bedding against the left wall, a wooden desk with a desk lamp under the window, a shelf with a few books and a volleyball, the window showing the city.
@@ -1140,12 +1135,12 @@ STORY CONTEXT:
 Some days later, Arai encourages Qarakat to give Zhandos a chance.
 
 CHARACTER IDENTITY:
-- ARAI (CHARACTER_C): a young Kazakh woman in her twenties with East Asian features; soft rounded face with light freckles across her nose and cheeks, defined dark brows, dark-brown almond eyes; long voluminous curly chestnut-brown hair tied in a high curly ponytail with loose curly strands framing her face. Signature details, keep in every frame: the freckles and the curly chestnut ponytail. Use supplied reference image 3 (her character sheet) as the identity reference and preserve her exact face and features.
+- ARAI (CHARACTER_C): a young Kazakh woman in her twenties with East Asian features; soft rounded face with a warm smile and light freckles across her nose and cheeks, defined dark brows, dark-brown almond eyes; long voluminous curly chestnut-brown hair tied in a high curly ponytail tied with a black hair tie, loose curly strands framing her face. Signature details, keep in every frame: the freckles and the curly chestnut ponytail. Use supplied reference image 3 (her character sheet) as the identity reference and preserve her exact face and features.
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
 
 WARDROBE & PROPS:
-- Arai: camel-beige oversized knit cardigan over a plain white T-shirt, light-blue straight-leg jeans, white canvas sneakers, a beige canvas tote bag on her shoulder. (Deliberately different from Qarakat's navy hoodie and grey sweatpants.)
-- Qarakat: oversized dark-navy pullover hoodie, light heather-grey loose jogger sweatpants with elastic cuffs, plain white low-top leather sneakers, a silver dog-tag pendant on a long thin chain worn over the hoodie, the large thin silver hoop earrings — exactly as in reference image 2.
+- Arai: oversized cream-ivory hoodie with pale-pink drawstrings and a small pale-pink heart on the left chest, black track pants with two white side stripes, pink-and-white low-top sneakers — exactly as in reference image 3, unchanged.
+- Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs, plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged.
 
 LOCATION & ENVIRONMENT:
 A tree-lined park alley in daytime: a paved path, wooden benches, mature leafy trees, a few distant passers-by.
@@ -1188,7 +1183,7 @@ CHARACTER IDENTITY:
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
 
 WARDROBE & PROPS:
-- Qarakat: oversized dark-navy pullover hoodie, light heather-grey loose jogger sweatpants with elastic cuffs, plain white low-top leather sneakers, a silver dog-tag pendant on a long thin chain worn over the hoodie, the large thin silver hoop earrings — exactly as in reference image 2.
+- Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs, plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged.
 
 LOCATION & ENVIRONMENT:
 Qarakat's bedroom: a bed with white bedding, a warm bedside lamp, a tall free-standing mirror, sheer curtains on the window, a small shelf with plants.
@@ -1231,7 +1226,7 @@ CHARACTER IDENTITY:
 - ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 
 WARDROBE & PROPS:
-- Zhandos: black cotton pullover hoodie with three white stripes down each sleeve and a small white chest emblem, matching black track pants with three white stripes down the outer legs, white low-top sneakers with three black side stripes — exactly as in reference image 1.
+- Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
 
 LOCATION & ENVIRONMENT:
 Zhandos's small bedroom: a single bed with dark-grey bedding against the left wall, a wooden desk with a desk lamp under the window, a shelf with a few books and a volleyball, the window showing the city.
@@ -1276,13 +1271,13 @@ CHARACTER IDENTITY:
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
 
 WARDROBE & PROPS:
-- Qarakat: soft cream-white chunky knit sweater, high-waisted dark-navy pleated midi skirt, plain white low-top leather sneakers, the silver dog-tag pendant, the large thin silver hoop earrings.
+- Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs, plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged.
 
 LOCATION & ENVIRONMENT:
 Qarakat's bedroom: a bed with white bedding, a warm bedside lamp, a tall free-standing mirror, sheer curtains on the window, a small shelf with plants.
 
 ACTION — ONE CONTINUOUS TAKE:
-Opening frame: over Qarakat's shoulder into the tall mirror — she is already dressed in a cream knit sweater and a navy pleated skirt; behind her on the bed lie two rejected outfits. She smooths the sweater, re-pins a strand into her high bun, adjusts one silver hoop earring, takes a nervous breath and gives her reflection a small, determined smile. Final frame: her reflection smiling in the mirror.
+Opening frame: over Qarakat's shoulder into the tall mirror — she is in her navy hoodie with the silver dog-tag pendant; behind her on the bed lie two other outfits she decided against. She smooths the hoodie, re-pins a strand into her high bun, adjusts one silver hoop earring, takes a nervous breath and gives her reflection a small, determined smile. Final frame: her reflection smiling in the mirror.
 
 CAMERA:
 Over-the-shoulder into the mirror, 50mm, slow subtle push-in, focus on her reflection.
@@ -1319,13 +1314,13 @@ CHARACTER IDENTITY:
 - ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 
 WARDROBE & PROPS:
-- Zhandos: black bomber jacket over a plain white crew-neck T-shirt, dark-indigo straight-leg jeans, clean white low-top sneakers.
+- Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
 
 LOCATION & ENVIRONMENT:
 A city square in front of a cinema at early evening: a lit cinema facade with blank, unreadable signage, warm street lamps just switching on, a few passers-by.
 
 ACTION — ONE CONTINUOUS TAKE:
-Opening frame: medium shot of Zhandos standing in front of the lit cinema, adjusting the collar of his black bomber jacket. He checks the time on his phone, puts it in his pocket, then looks up to screen-right — and his face lights up with a nervous smile as he sees her approaching. Final frame: Zhandos smiling toward screen-right.
+Opening frame: medium shot of Zhandos standing in front of the lit cinema, straightening his black three-stripe hoodie and smoothing his hair. He checks the time on his phone, puts it in his pocket, then looks up to screen-right — and his face lights up with a nervous smile as he sees her approaching. Final frame: Zhandos smiling toward screen-right.
 
 CAMERA:
 Medium shot at eye level, 50mm, static, shallow depth of field.
@@ -1363,8 +1358,8 @@ CHARACTER IDENTITY:
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
 
 WARDROBE & PROPS:
-- Zhandos: black bomber jacket over a plain white crew-neck T-shirt, dark-indigo straight-leg jeans, clean white low-top sneakers.
-- Qarakat: soft cream-white chunky knit sweater, high-waisted dark-navy pleated midi skirt, plain white low-top leather sneakers, the silver dog-tag pendant, the large thin silver hoop earrings.
+- Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
+- Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs, plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged.
 
 LOCATION & ENVIRONMENT:
 A city square in front of a cinema at early evening: a lit cinema facade with blank, unreadable signage, warm street lamps just switching on, a few passers-by.
@@ -1408,8 +1403,8 @@ CHARACTER IDENTITY:
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
 
 WARDROBE & PROPS:
-- Zhandos: black bomber jacket over a plain white crew-neck T-shirt, dark-indigo straight-leg jeans, clean white low-top sneakers.
-- Qarakat: soft cream-white chunky knit sweater, high-waisted dark-navy pleated midi skirt, plain white low-top leather sneakers, the silver dog-tag pendant, the large thin silver hoop earrings.
+- Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
+- Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs, plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged.
 
 LOCATION & ENVIRONMENT:
 A dark cinema auditorium: rows of deep-red seats; the screen is off-frame in front of the audience.
@@ -1453,8 +1448,8 @@ CHARACTER IDENTITY:
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
 
 WARDROBE & PROPS:
-- Zhandos: black bomber jacket over a plain white crew-neck T-shirt, dark-indigo straight-leg jeans, clean white low-top sneakers.
-- Qarakat: soft cream-white chunky knit sweater, high-waisted dark-navy pleated midi skirt, plain white low-top leather sneakers, the silver dog-tag pendant, the large thin silver hoop earrings.
+- Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
+- Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs, plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged.
 
 LOCATION & ENVIRONMENT:
 A cosy café interior in the evening: a small wooden table, two cups of tea, plants, a few soft-focus patrons in the background.
@@ -1498,8 +1493,8 @@ CHARACTER IDENTITY:
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
 
 WARDROBE & PROPS:
-- Zhandos: black bomber jacket over a plain white crew-neck T-shirt, dark-indigo straight-leg jeans, clean white low-top sneakers.
-- Qarakat: soft cream-white chunky knit sweater, high-waisted dark-navy pleated midi skirt, plain white low-top leather sneakers, the silver dog-tag pendant, the large thin silver hoop earrings.
+- Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
+- Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs, plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged.
 
 LOCATION & ENVIRONMENT:
 A warm bookstore aisle: tall wooden shelves filled with books whose covers and spines are plain and unreadable.
@@ -1543,8 +1538,8 @@ CHARACTER IDENTITY:
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
 
 WARDROBE & PROPS:
-- Zhandos: black bomber jacket over a plain white crew-neck T-shirt, dark-indigo straight-leg jeans, clean white low-top sneakers.
-- Qarakat: soft cream-white chunky knit sweater, high-waisted dark-navy pleated midi skirt, plain white low-top leather sneakers, the silver dog-tag pendant, the large thin silver hoop earrings.
+- Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
+- Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs, plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged.
 
 LOCATION & ENVIRONMENT:
 The entrance of Qarakat's apartment building at night: a lit glass entrance door at the top of three steps, a short path, one street lamp, a quiet residential street.
@@ -1587,7 +1582,7 @@ CHARACTER IDENTITY:
 - ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 
 WARDROBE & PROPS:
-- Zhandos: black bomber jacket over a plain white crew-neck T-shirt, dark-indigo straight-leg jeans, clean white low-top sneakers.
+- Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
 
 LOCATION & ENVIRONMENT:
 The entrance of Qarakat's apartment building at night: a lit glass entrance door at the top of three steps, a short path, one street lamp, a quiet residential street.
@@ -1632,7 +1627,7 @@ CHARACTER IDENTITY:
 - ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 
 WARDROBE & PROPS:
-- Zhandos: black cotton pullover hoodie with three white stripes down each sleeve and a small white chest emblem, matching black track pants with three white stripes down the outer legs, white low-top sneakers with three black side stripes — exactly as in reference image 1.
+- Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
 
 LOCATION & ENVIRONMENT:
 Zhandos's small bedroom: a single bed with dark-grey bedding against the left wall, a wooden desk with a desk lamp under the window, a shelf with a few books and a volleyball, the window showing the city.
@@ -1675,7 +1670,7 @@ CHARACTER IDENTITY:
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
 
 WARDROBE & PROPS:
-- Qarakat: oversized dark-navy pullover hoodie, light heather-grey loose jogger sweatpants with elastic cuffs, plain white low-top leather sneakers, a silver dog-tag pendant on a long thin chain worn over the hoodie, the large thin silver hoop earrings — exactly as in reference image 2.
+- Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs, plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged.
 
 LOCATION & ENVIRONMENT:
 Qarakat's bedroom: a bed with white bedding, a warm bedside lamp, a tall free-standing mirror, sheer curtains on the window, a small shelf with plants.
@@ -1719,8 +1714,8 @@ CHARACTER IDENTITY:
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
 
 WARDROBE & PROPS:
-- Zhandos: black cotton pullover hoodie with three white stripes down each sleeve and a small white chest emblem, matching black track pants with three white stripes down the outer legs, white low-top sneakers with three black side stripes — exactly as in reference image 1.
-- Qarakat: oversized dark-navy pullover hoodie, light heather-grey loose jogger sweatpants with elastic cuffs, plain white low-top leather sneakers, a silver dog-tag pendant on a long thin chain worn over the hoodie, the large thin silver hoop earrings — exactly as in reference image 2.
+- Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
+- Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs, plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged.
 
 LOCATION & ENVIRONMENT:
 Open golden steppe grassland on a clear day, gentle hills on the horizon, a big blue sky.
@@ -1764,8 +1759,8 @@ CHARACTER IDENTITY:
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
 
 WARDROBE & PROPS:
-- Zhandos: black cotton pullover hoodie with three white stripes down each sleeve and a small white chest emblem, matching black track pants with three white stripes down the outer legs, white low-top sneakers with three black side stripes — exactly as in reference image 1.
-- Qarakat: oversized dark-navy pullover hoodie, light heather-grey loose jogger sweatpants with elastic cuffs, plain white low-top leather sneakers, a silver dog-tag pendant on a long thin chain worn over the hoodie, the large thin silver hoop earrings — exactly as in reference image 2.
+- Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
+- Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs, plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged.
 
 LOCATION & ENVIRONMENT:
 A cosy living room at night: a soft grey sofa with a knitted blanket, a bowl of popcorn; the TV is off-frame in front of the sofa.
@@ -1810,8 +1805,8 @@ CHARACTER IDENTITY:
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
 
 WARDROBE & PROPS:
-- Zhandos: black bomber jacket over a plain white crew-neck T-shirt, dark-indigo straight-leg jeans, clean white low-top sneakers.
-- Qarakat: soft cream-white chunky knit sweater, high-waisted dark-navy pleated midi skirt, plain white low-top leather sneakers, the silver dog-tag pendant, the large thin silver hoop earrings.
+- Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
+- Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs, plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged.
 
 LOCATION & ENVIRONMENT:
 A bright café by a large sunny window in daytime: a marble-top table with two cups of coffee and a slice of cake.
@@ -1855,8 +1850,8 @@ CHARACTER IDENTITY:
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
 
 WARDROBE & PROPS:
-- Zhandos: black bomber jacket over a plain white crew-neck T-shirt, dark-indigo straight-leg jeans, clean white low-top sneakers.
-- Qarakat: soft cream-white chunky knit sweater, high-waisted dark-navy pleated midi skirt, plain white low-top leather sneakers, the silver dog-tag pendant, the large thin silver hoop earrings.
+- Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
+- Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs, plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged.
 
 LOCATION & ENVIRONMENT:
 A city street at night: lit shop windows with blank, unreadable signage, warm street lamps, light foot traffic, clean dry pavement.
@@ -1902,8 +1897,8 @@ CHARACTER IDENTITY:
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
 
 WARDROBE & PROPS:
-- Zhandos: white linen button-up shirt with the sleeves rolled to the forearms, beige chino trousers, white sneakers.
-- Qarakat: flowing cream-white linen midi dress with short sleeves, flat tan leather sandals, the large thin silver hoop earrings.
+- Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
+- Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs, plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged.
 
 LOCATION & ENVIRONMENT:
 A quiet sandy seashore at sunset: a calm sea with gentle waves, the sun low over the horizon, a golden-pink sky. A romantic picnic on the sand: a low wooden table on a cream blanket with cushions, a vase of white and blush flowers, plates of sweets, glass-jar candles and small lanterns glowing. The couple sits side by side facing the sea — Zhandos on the left, Qarakat on the right. No other people on the beach.
@@ -1947,8 +1942,8 @@ CHARACTER IDENTITY:
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
 
 WARDROBE & PROPS:
-- Zhandos: white linen button-up shirt with the sleeves rolled to the forearms, beige chino trousers, white sneakers.
-- Qarakat: flowing cream-white linen midi dress with short sleeves, flat tan leather sandals, the large thin silver hoop earrings.
+- Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
+- Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs, plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged.
 
 LOCATION & ENVIRONMENT:
 A quiet sandy seashore at sunset: a calm sea with gentle waves, the sun low over the horizon, a golden-pink sky. A romantic picnic on the sand: a low wooden table on a cream blanket with cushions, a vase of white and blush flowers, plates of sweets, glass-jar candles and small lanterns glowing. The couple sits side by side facing the sea — Zhandos on the left, Qarakat on the right. No other people on the beach.
@@ -1992,14 +1987,14 @@ CHARACTER IDENTITY:
 - ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 
 WARDROBE & PROPS:
-- Qarakat: flowing cream-white linen midi dress with short sleeves, flat tan leather sandals, the large thin silver hoop earrings.
-- Zhandos: white linen button-up shirt with the sleeves rolled to the forearms, beige chino trousers, white sneakers.
+- Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs, plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged.
+- Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
 
 LOCATION & ENVIRONMENT:
 A quiet sandy seashore at sunset: a calm sea with gentle waves, the sun low over the horizon, a golden-pink sky. A romantic picnic on the sand: a low wooden table on a cream blanket with cushions, a vase of white and blush flowers, plates of sweets, glass-jar candles and small lanterns glowing. The couple sits side by side facing the sea — Zhandos on the left, Qarakat on the right. No other people on the beach.
 
 ACTION — ONE CONTINUOUS TAKE:
-Opening frame: over Zhandos's left shoulder (soft in the left foreground, white linen shirt) onto Qarakat, who is listening, her hand in his. Zhandos, seen from behind, keeps speaking. When he mentions how hard he tried, Qarakat lets out a small laugh, remembering; then her face grows serious and her eyes begin to glisten. Final frame: close-up of Qarakat, eyes shining, lips slightly parted, waiting.
+Opening frame: over Zhandos's left shoulder (soft in the left foreground, black hoodie with white sleeve stripes) onto Qarakat, who is listening, her hand in his. Zhandos, seen from behind, keeps speaking. When he mentions how hard he tried, Qarakat lets out a small laugh, remembering; then her face grows serious and her eyes begin to glisten. Final frame: close-up of Qarakat, eyes shining, lips slightly parted, waiting.
 
 CAMERA:
 Over-the-shoulder close-up on Qarakat, 85mm portrait feel, shallow depth of field, static.
@@ -2037,8 +2032,8 @@ CHARACTER IDENTITY:
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
 
 WARDROBE & PROPS:
-- Zhandos: white linen button-up shirt with the sleeves rolled to the forearms, beige chino trousers, white sneakers.
-- Qarakat: flowing cream-white linen midi dress with short sleeves, flat tan leather sandals, the large thin silver hoop earrings.
+- Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
+- Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs, plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged.
 
 LOCATION & ENVIRONMENT:
 A quiet sandy seashore at sunset: a calm sea with gentle waves, the sun low over the horizon, a golden-pink sky. A romantic picnic on the sand: a low wooden table on a cream blanket with cushions, a vase of white and blush flowers, plates of sweets, glass-jar candles and small lanterns glowing. The couple sits side by side facing the sea — Zhandos on the left, Qarakat on the right. No other people on the beach.
@@ -2082,8 +2077,8 @@ CHARACTER IDENTITY:
 - ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 
 WARDROBE & PROPS:
-- Qarakat: flowing cream-white linen midi dress with short sleeves, flat tan leather sandals, the large thin silver hoop earrings.
-- Zhandos: white linen button-up shirt with the sleeves rolled to the forearms, beige chino trousers, white sneakers.
+- Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs, plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged.
+- Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
 
 LOCATION & ENVIRONMENT:
 A quiet sandy seashore at sunset: a calm sea with gentle waves, the sun low over the horizon, a golden-pink sky. A romantic picnic on the sand: a low wooden table on a cream blanket with cushions, a vase of white and blush flowers, plates of sweets, glass-jar candles and small lanterns glowing. The couple sits side by side facing the sea — Zhandos on the left, Qarakat on the right. No other people on the beach.
@@ -2127,8 +2122,8 @@ CHARACTER IDENTITY:
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
 
 WARDROBE & PROPS:
-- Zhandos: white linen button-up shirt with the sleeves rolled to the forearms, beige chino trousers, white sneakers.
-- Qarakat: flowing cream-white linen midi dress with short sleeves, flat tan leather sandals, the large thin silver hoop earrings.
+- Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
+- Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs, plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged.
 
 LOCATION & ENVIRONMENT:
 A quiet sandy seashore at sunset: a calm sea with gentle waves, the sun low over the horizon, a golden-pink sky. A romantic picnic on the sand: a low wooden table on a cream blanket with cushions, a vase of white and blush flowers, plates of sweets, glass-jar candles and small lanterns glowing. The couple sits side by side facing the sea — Zhandos on the left, Qarakat on the right. No other people on the beach.
@@ -2510,7 +2505,7 @@ Face identity drift, altered facial features, changed hairstyles, wardrobe chang
 - Неге: Арай тура Қарақатқа барады — ой жүрісі көрнекі түрде жалғасады.
 - Механизм: Арай A клипте оңға шығады → B клипте сол жақтан кадрға кіріп, Қарақаттың жанына тоқтайды.
 - B алғашқы кадры: Қарақат орындық жанында; Арай сол жақтан кадрға кіреді.
-- Сәйкестік: Қозғалыс бағыты солдан оңға; Арайдың киімі мен сөмкесі бірдей.
+- Сәйкестік: Қозғалыс бағыты солдан оңға; Арайдың киімі бірдей.
 - Дыбыс: Пиццикато жалғасады; B клиптің құс үні жарты секунд бұрын кіреді.
 - Қайда жасалады: Генерацияда (Арайдың кадрға кіруі) + монтажда
 
@@ -2879,7 +2874,7 @@ Face identity drift, altered facial features, changed hairstyles, wardrobe chang
 
 ## 9. Генерацияға кеңестер
 
-1. **Референстерді дайындаңыз.** Әр парақтан 1–2 бөлікті бөлек сурет етіп кесіп алыңыз (бет + толық бой). Бүкіл торды жүктемеңіз. Әр промпттағы «reference image 1/2/3» — осы кесінділер: 1 — Жандос, 2 — Қарақат, 3 — Арай. 3-суреттегі төңкерілген бөлікті қолданбаңыз.
+1. **Референстер.** Үш парақты толық жүктеуге болады, промпттардағы «reference image 1/2/3»: 1 — Жандос, 2 — Қарақат, 3 — Арай. Генератор кадрға тор немесе бір адамның бірнеше көшірмесін шығарса, бет пен толық бойды бөлек кесіп алыңыз.
 2. **Ең сенімді жол — алдымен сурет, сосын видео.** Әр клиптің бірінші кадрын референстермен сурет етіп жасап, сосын сол суреттен видео шығарыңыз (image-to-video). Тек мәтін беттің ұқсастығына кепілдік бермейді — референс пен бастапқы кадр әлдеқайда күшті.
 3. **Тығыз жалғасатын жұптар:** 10→11 және 36→37. Алдыңғы клиптің соңғы кадрын келесісінің бірінші кадры ретінде беріңіз.
 4. **Қазақша диалог.** Көп генераторлар қазақ тілінде қате айтады немесе ерін қимылы сәйкес келмейді. Диалогты генерацияда ойнатып, дыбысын кейін ауыстырыңыз. Ең жақсысы — Жандос пен Қарақаттың өз дауыстары. Екінші жол — ElevenLabs арқылы қазақша дыбыстау (қаласаңыз, дайындап беремін). 35-клипте Жандос арқасымен тұр, сондықтан оның сөзін ерін қимылынсыз-ақ дыбыстауға болады.

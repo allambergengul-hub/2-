@@ -1,37 +1,36 @@
 #!/usr/bin/env python3
 """Builds GROK-15s.md: the Zhandos & Qarakat film as 16 Grok clips of 15 seconds.
 
-@imageN numbers follow the upload order of each clip (Zhandos, then Qarakat, then Arai —
-only the ones in the clip). Identity and wardrobe strings are defined once below.
+All three reference sheets are uploaded for every clip, always in the same order:
+@image1 = Zhandos, @image2 = Qarakat, @image3 = Arai. Identity and wardrobe strings are defined once below.
 Run:  python3 build_grok.py
 """
 import os
 
 ID = {
-    "ZH": '''ZHANDOS — the young man from @image{n}. Keep his exact face, facial structure, hair and body proportions from @image{n}; never a look-alike. Twenties, tall and lean, thick slightly messy jet-black hair, calm dark-brown eyes, a few small moles on his cheeks, clean-shaven.''',
-    "QA": '''QARAKAT — the young woman from @image{n}. Keep her exact face, facial structure and body proportions from @image{n}; never a look-alike. Twenties, slim, a little shorter than Zhandos; jet-black hair always in a high round bun; large thin silver hoop earrings in every shot; calm almond-shaped dark eyes.''',
-    "AR": '''ARAI — the young woman from @image{n}. Keep her exact face and body proportions from @image{n}; never a look-alike. Twenties, freckles across her nose and cheeks, long curly chestnut-brown hair in a high curly ponytail.''',
+    "ZH": '''ZHANDOS (@image1): the young man from @image1 — keep his exact face, facial structure, hair and body proportions; never a look-alike. Twenties, tall and lean, thick slightly messy jet-black hair, calm dark-brown eyes, a few small moles on his cheeks, clean-shaven.''',
+    "QA": '''QARAKAT (@image2): the young woman from @image2 — keep her exact face, facial structure and body proportions; never a look-alike. Twenties, slim, a little shorter than Zhandos; jet-black hair always pulled back into a high round bun; calm almond-shaped dark eyes; large thin silver hoop earrings in every shot.''',
+    "AR": '''ARAI (@image3): the young woman from @image3 — keep her exact face and body proportions; never a look-alike. Twenties, warm smiley face with light freckles, long curly chestnut-brown hair in a high curly ponytail tied with a black hair tie.''',
 }
 KK = {"ZH": "Жандос", "QA": "Қарақат", "AR": "Арай"}
 ORDER = ["ZH", "QA", "AR"]
 
+ZH_REF = "exactly the outfit from @image1, unchanged: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes"
+QA_REF = "exactly the outfit from @image2, unchanged: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs, plain white low-top sneakers"
+AR_REF = "exactly the outfit from @image3, unchanged: oversized cream-ivory hoodie with pale-pink drawstrings and a small pale-pink heart on the left chest, black track pants with two white side stripes, pink-and-white low-top sneakers"
 WARD = {
-    "ZH_SPORT": "black pullover hoodie with three white stripes down each sleeve and a small white chest emblem, black track pants with three white side stripes, white sneakers with three black stripes (as in his reference image)",
-    "ZH_DATE": "black bomber jacket, plain white T-shirt, dark-indigo jeans, white sneakers",
-    "ZH_SEA": "white linen shirt with rolled sleeves, beige chinos",
-    "ZH_SUIT": "black two-piece suit, white shirt, slim black tie, black leather shoes",
-    "QA_SPORT": "oversized dark-navy hoodie, light heather-grey jogger sweatpants, white sneakers, a silver dog-tag pendant on a long chain (as in her reference image)",
-    "QA_DATE": "cream chunky knit sweater, high-waisted dark-navy pleated midi skirt, white sneakers, the silver dog-tag pendant",
-    "QA_SEA": "flowing cream linen midi dress, tan sandals",
-    "QA_BRIDE": "white wedding gown with a lace bodice and a full skirt, a sheer veil pinned under her high bun",
-    "AR_DAY": "camel-beige oversized knit cardigan, white T-shirt, light-blue jeans, white canvas sneakers, a beige canvas tote bag",
+    "ZH_SPORT": ZH_REF, "ZH_DATE": ZH_REF, "ZH_SEA": ZH_REF,
+    "QA_SPORT": QA_REF, "QA_DATE": QA_REF, "QA_SEA": QA_REF,
+    "AR_DAY": AR_REF,
+    "ZH_SUIT": "WEDDING DAY ONLY — the story's single outfit change: classic black two-piece suit, white shirt, slim black tie, black leather shoes",
+    "QA_BRIDE": "WEDDING DAY ONLY — the story's single outfit change: white wedding gown with a lace bodice and a full skirt, a sheer veil pinned under her high bun, her silver hoop earrings",
 }
 
 FRIENDS = "Zhandos's two friends (supporting, never in close-up): one with buzz-cut hair in a grey hoodie, one in a black cap and dark-green track jacket."
-TEAM = "Qarakat's teammates (supporting, soft focus): young women in black leggings and white or grey T-shirts — none with a navy hoodie, a high bun or hoop earrings."
+TEAM = "Qarakat's teammates (supporting, soft focus): young women in black leggings and white or grey T-shirts — none in a navy or cream hoodie, none with a high bun or hoop earrings."
 
-STYLE = "Photorealistic live-action romantic film, natural skin texture with visible pores, natural real-time motion (no slow motion), realistic hands and physics, motivated natural light, subtle film grain, cinematic 16:9 composition."
-AVOID = "face changes or look-alike actors, changed hairstyles or outfits, distorted hands or extra fingers, duplicate people, warped backgrounds, slow motion, exaggerated acting, waxy skin, cartoon look, readable text on screens or signs, subtitles, watermarks, extra logos"
+STYLE = "One continuous real scene, each person appears only once (the reference images are character sheets — never show a grid, collage or duplicate copies). Photorealistic live-action romantic film, natural skin texture with visible pores, natural real-time motion (no slow motion), realistic hands and physics, motivated natural light, subtle film grain, cinematic 16:9 composition."
+AVOID = "face changes or look-alike actors, changed hairstyles or outfits, distorted hands or extra fingers, duplicate people, warped backgrounds, slow motion, exaggerated acting, waxy skin, cartoon look, readable text on screens or signs, subtitles, watermarks, logos other than those on the reference outfits, character-sheet grids or split panels, duplicate copies of a person"
 
 CLIPS = []
 
@@ -72,7 +71,7 @@ G(n=3, scene=2, kk="«Сен Арайсың ғой?»", en="You're Arai, Right?"
   cast=[("ZH", "ZH_SPORT"), ("QA", "QA_SPORT"), ("AR", "AR_DAY")], extra=[TEAM],
   sum="Келесі күні Қарақат кафеден кетеді, Арай жалғыз шығады; Жандос онымен танысып, Қарақатты сұрайды.",
   loc="A small modern café on a quiet city street in daylight: a glass front and glass door, two small outdoor tables, a tree-lined sidewalk running left–right.",
-  tl=[("0–4 s", "QARAKAT and one teammate step out of the café door laughing and walk off screen-right. The door swings shut; a moment later it opens again and ARAI steps out alone, settling her tote bag on her shoulder."),
+  tl=[("0–4 s", "QARAKAT and one teammate step out of the café door laughing and walk off screen-right. The door swings shut; a moment later it opens again and ARAI steps out alone in her cream hoodie, glancing at her phone."),
       ("4–9 s", 'ZHANDOS walks up from screen-left and stops in front of her — medium two-shot in profile, Zhandos screen-left, Arai screen-right. Rubbing the back of his neck: "Сәлем! Сен Арайсың ғой?" Arai: "Иә, не болды?"'),
       ("9–15 s", 'Zhandos: "Бір нәрсе сұрайын деп едім. Қарақат деген қызды танисың ба?" Arai raises one eyebrow and tilts her head: "Иә, танимын. Неге?" Final frame: Arai\'s sceptical half-smile as she waits for his answer.')],
   cam="35mm wide-medium from across the sidewalk, then a 50mm medium two-shot in profile with subtle handheld breathing.",
@@ -114,7 +113,7 @@ G(n=6, scene=3, kk="Нөмір сақталды", en="Saved",
   cast=[("ZH", "ZH_SPORT"), ("AR", "AR_DAY")], extra=[],
   sum="Жандос тағы ақша қосады; Арай нөмірді береді: «Мә, бірақ мен бергенімді айтпа!» Жандос қуанады.",
   loc="The same spot in front of the sports complex, late afternoon.",
-  tl=[("0–5 s", "Same locked-off two-shot: ZHANDOS sighs with a laugh and places more banknotes into ARAI's open palm. She tucks the money into her cardigan pocket."),
+  tl=[("0–5 s", "Same locked-off two-shot: ZHANDOS sighs with a laugh and places more banknotes into ARAI's open palm. She tucks the money into her hoodie pocket."),
       ("5–10 s", 'Arai takes out her phone and turns the screen toward him (away from the camera), whispering: "Мә, бірақ мен бергенімді айтпа!" Zhandos quickly types the number into his own phone. Arai walks off screen-right with a knowing look.'),
       ("10–15 s", "CUT TO a close-up of Zhandos's hands; his thumb taps save; the camera tilts up to his face as he breaks into a wide, boyish grin and gives a small fist pump. Final frame: his grin in golden light.")],
   cam="40mm two-shot with a very slow push-in, then an 85mm close-up with a smooth tilt up from hands to face.",
@@ -157,8 +156,8 @@ G(n=9, scene=5, kk="Алғашқы кездесу", en="The First Date",
   cast=[("ZH", "ZH_DATE"), ("QA", "QA_DATE")], extra=[],
   sum="Қарақат айна алдында дайындалады; Жандос кинотеатр алдында күтеді; екеуі ұялып кездесіп, киноға кіреді.",
   loc="Qarakat's bedroom with a tall mirror in late-afternoon light; then a city square in front of a lit cinema at blue hour, with blank unreadable signage.",
-  tl=[("0–4 s", "Over QARAKAT's shoulder into a tall mirror: she is dressed for the date; two rejected outfits lie on the bed behind her. She re-pins her high bun, adjusts a silver hoop earring, takes a nervous breath and smiles at her reflection."),
-      ("4–7 s", "CUT TO the cinema square: ZHANDOS adjusts the collar of his bomber jacket, checks the time on his phone, then looks up to screen-right and smiles nervously — he sees her."),
+  tl=[("0–4 s", "Over QARAKAT's shoulder into a tall mirror: she is in her navy hoodie with the silver dog-tag pendant, getting ready for the date; two other outfits she decided against lie on the bed behind her. She re-pins her high bun, adjusts a silver hoop earring, takes a nervous breath and smiles at her reflection."),
+      ("4–7 s", "CUT TO the cinema square: ZHANDOS straightens his three-stripe hoodie, smooths his hair, checks the time on his phone, then looks up to screen-right and smiles nervously — he sees her."),
       ("7–15 s", "QARAKAT walks in from screen-right and stops in front of him. A shy pause: both smile, look down, look up; he gives a small awkward wave, she laughs softly. They turn and walk together screen-left toward the glowing cinema entrance. Final frame: the two side by side, seen from a three-quarter back view.")],
   cam="50mm over-the-shoulder into the mirror with a slow push-in; 50mm medium on Zhandos; 35mm medium-wide two-shot with a slow push-in during the greeting.",
   light="Warm window light in the bedroom; blue-hour sky mixed with warm street lamps and the cinema glow.",
@@ -184,10 +183,6 @@ G(n=10, scene=5, kk="Кино, кафе, кітап, құшақ", en="Cinema, Ca
 
 G(n=11, scene=6, kk="Бірге өткен бақытты күндер", en="Our Happy Days",
   cast=[("ZH", None), ("QA", None)], extra=[],
-  wardrobe_override=[
-      "0–9 s (night call, horses, sofa): Zhandos in his black three-stripe hoodie and track pants; Qarakat in her oversized dark-navy hoodie and grey joggers with the silver dog-tag pendant.",
-      "9–15 s (café, night walk): Zhandos in a black bomber jacket, white T-shirt and dark jeans; Qarakat in a cream knit sweater and navy pleated midi skirt.",
-  ],
   sum="Жылдам монтаж: түнгі қоңырау, атқа міну, үйдегі кино кеші, кафе, түнгі серуен.",
   loc="Five quick locations: their bedrooms at night, golden steppe grassland, a cosy living room at night, a sunny café window, a city street at night.",
   tl=[("0–3 s", "Night: QARAKAT lies on her bed hugging a pillow, phone at her ear, laughing quietly — CUT TO ZHANDOS on his bed in the dark, phone at his ear, smiling with his eyes closed."),
@@ -253,7 +248,7 @@ G(n=15, scene=8, kk="Тойға дайындық", en="Getting Ready",
   cam="50mm over-the-shoulder into mirrors; macro for the rings; 85mm close-up with a rack focus for the bouquet.",
   light="Bright soft window light, white and warm gold tones.",
   sound="Celebratory wedding music; fabric rustle. No dialogue.",
-  avoid="mismatched mirror reflections, the helper's face, text on the ring box",
+  avoid="mismatched mirror reflections, the helper's face, text on the ring box, Arai appearing",
   fb="39, 40, 41, 42",
   seam="Гүл шоғынан камераның алға жылжуымен той залына; музыка үдейді.")
 
@@ -282,26 +277,30 @@ def tc(s):
 
 def build_prompt(c):
     keys = [k for k, _ in c["cast"]]
-    num = {k: i + 1 for i, k in enumerate(keys)}
+    num = {"ZH": 1, "QA": 2, "AR": 3}
     L = ["Ultra-realistic live-action cinematic film footage, 15 seconds, 16:9 landscape, real-time natural motion.", ""]
-    names = {'ZH': 'ZHANDOS', 'QA': 'QARAKAT', 'AR': 'ARAI'}
-    refs = " ".join(f"@image{num[k]} = {names[k]}." for k in keys)
-    L += ["REFERENCES: " + refs + " Use these images only for the characters' faces, hair and body proportions; keep them identical in every shot.", ""]
+    names = {"ZH": "ZHANDOS", "QA": "QARAKAT", "AR": "ARAI"}
+    inside = ", ".join(f"{names[k]} (@image{num[k]})" for k in keys)
+    absent = [f"{names[k]} (@image{num[k]})" for k in ORDER if k not in keys]
+    wedding = any(w in ("ZH_SUIT", "QA_BRIDE") for _, w in c["cast"])
+    use = ("use them for each person's exact face, hair and body, and keep these identical in every shot; in this wedding-day clip only, the outfits are the wedding outfits described below"
+           if wedding else "use them for each person's exact face, hair, body and outfit, and keep all of it identical in every shot")
+    L += ["REFERENCES: @image1 = ZHANDOS, @image2 = QARAKAT, @image3 = ARAI. These are character sheets showing several views of the same person: " + use + ".",
+          "IN THIS CLIP: " + inside + (" only. Not in this clip: " + ", ".join(absent) + "." if absent else "."), ""]
     L.append("CHARACTERS & WARDROBE:")
     for k, w in c["cast"]:
         line = "- " + ID[k].format(n=num[k])
         if w:
-            line += " Wearing: " + WARD[w] + "."
+            line += " Outfit: " + WARD[w] + "."
         L.append(line)
-    for w in c.get("wardrobe_override", []):
-        L.append("- " + w)
     for e in c["extra"]:
         L.append("- " + e)
     L += ["", "LOCATION: " + c["loc"], "", "TIMELINE:"]
     for r, t in c["tl"]:
         L.append(f"{r}: {t}")
+    avoid = AVOID.replace("changed hairstyles or outfits", "changed hairstyles, any outfit other than the wedding outfits described") if wedding else AVOID
     L += ["", "CAMERA: " + c["cam"], "LIGHTING: " + c["light"], "SOUND: " + c["sound"], "", "STYLE: " + STYLE,
-          "AVOID: " + AVOID + (", " + c["avoid"] if c.get("avoid") else "") + "."]
+          "AVOID: " + avoid + (", " + c["avoid"] if c.get("avoid") else "") + "."]
     return "\n".join(L)
 
 
@@ -311,15 +310,16 @@ HEAD = """# «БІР НӨМІРДЕН БАСТАЛҒАН МАХАББАТ» — 
 
 Бұл файл `FILM.md` негізінде жасалған: сценарий, кейіпкерлер кітабы және кадр-кадрмен жазылған резерв промпттар сонда тұр. Мұнда әр клип 15 секундқа және үш бөлікке бөлінген (0–5, 5–10, 10–15 с). Оқиға мен диалогтар бұрынғыдай, сөзбе-сөз сақталған.
 
-> **Кім қай суретте (тексеріңіз):** Жандос — ер адамның парағы; Қарақат — шашы түйілген, күміс сырғалы қыз; Арай — бұйра каштан шашты, сепкілді қыз.
+> **Референстер — әр клипте үшеуін де, осы ретпен жүктеңіз:** **1** — Жандос (`1000098369.jpg`), **2** — Қарақат (`1000098361.jpg`), **3** — Арай (`1000098562.jpg`).
+> **Беттер мен киімдер барлық клипте референстегідей, өзгеріссіз.** Жалғыз ерекшелік — той (G15–G16): сценарий бойынша Қарақат ақ көйлек, Жандос костюм киеді.
 
 ---
 
 ## Grok-та қалай жасау керек
 
-1. **Референстерді дайындаңыз.** Әр кейіпкердің парағынан бір бөлікті кесіп алыңыз: бет пен иықтар алдынан көрінетін бөлікті. Бүкіл торды жүктемеңіз. Арайдың парағындағы төңкерілген бөлікті қолданбаңыз.
-2. **Әр клипте:** Grok → Imagine → Video, ұзақтығы **15 с**, пропорция **16:9**. Әр клиптің үстінде жазылған **ретпен** суреттерді жүктеңіз: `@image1`, `@image2`, `@image3` нөмірлері жүктеу ретіне байланысты.
-3. **Промптты** код блогынан толық көшіріп қойыңыз.
+1. **Референстер.** Үш парақты толық жүктеңіз, әр клипте бірдей ретпен: 1 — Жандос, 2 — Қарақат, 3 — Арай. Промптта `@image1/2/3` осы ретке сілтейді, ал «IN THIS CLIP» жолы кім кадрда бар, кім жоқ екенін айтады.
+2. **Әр клипте:** Grok → Imagine → Video, ұзақтығы **15 с**, пропорция **16:9**, үш суретті жүктеп, промптты толық қойыңыз.
+3. **Тор немесе көшірмелер шықса:** Grok кадрға парақтың торын немесе бір адамның бірнеше көшірмесін шығарса, әр парақтан бет пен толық бойды бөлек кесіп алып, соларды жүктеңіз (рет сол күйінде: 1, 2, 3).
 4. **Grok бір ғана сурет қабылдаса:** алдымен Grok-тың сурет режимінде клиптің бірінші кадрын кейіпкерлермен бірге жасаңыз, сосын сол суретті видеоға айналдырыңыз.
 5. **Бір клипте бірнеше кадр.** Көп клипте 15 секунд ішінде «CUT TO» бар. Grok оларды араластырып жіберсе, сол клипті `FILM.md`-дегі қысқа промпттармен бөліп жасаңыз («Резерв» бағаны).
 6. **Тығыз жалғаулар:** G05→G06 және G13→G14. Алдыңғы клиптің соңғы кадрын скриншот алып, келесі клипке бастапқы сурет етіп беріңіз.
@@ -333,10 +333,10 @@ HEAD = """# «БІР НӨМІРДЕН БАСТАЛҒАН МАХАББАТ» — 
 
 
 def build():
-    out = [HEAD, "## Клиптер тізімі\n", "| Клип | Тайм-код | Сцена | Не болады | Жүктеу реті | Резерв (FILM.md) |", "|---|---|---|---|---|---|"]
+    out = [HEAD, "## Клиптер тізімі\n", "| Клип | Тайм-код | Сцена | Не болады | Кадрда | Резерв (FILM.md) |", "|---|---|---|---|---|---|"]
     for i, c in enumerate(CLIPS):
         a = i * 15
-        up = ", ".join(f"{j + 1} — {KK[k]}" for j, (k, _) in enumerate(c["cast"]))
+        up = ", ".join(KK[k] for k, _ in c["cast"])
         out.append(f"| G{c['n']:02d} | {tc(a)}–{tc(a + 15)} | {c['scene']} | {c['sum']} | {up} | {c['fb']} |")
     out.append(f"| Финал | {tc(240)}–{tc(245)} | — | Қара экран, ақ жазулар (монтажда) | — | — |\n")
     out.append("---\n\n## Grok промпттары\n")
@@ -346,10 +346,10 @@ def build():
             cur = c["scene"]
             out.append(f"### {cur}-сцена · {SCENES[cur]}\n")
         a = i * 15
-        up = " · ".join(f"**{j + 1}** — {KK[k]}" for j, (k, _) in enumerate(c["cast"]))
+        up = ", ".join(KK[k] for k, _ in c["cast"])
         out.append(f"**G{c['n']:02d} — {c['kk']} · {tc(a)}–{tc(a + 15)}**  ")
         out.append(f"{c['sum']}  ")
-        out.append(f"Жүктеу реті: {up}\n")
+        out.append(f"Кадрда: {up} · Жүктеу: 1 — Жандос, 2 — Қарақат, 3 — Арай\n")
         out.append("```text\n" + build_prompt(c) + "\n```")
         if c.get("note"):
             out.append(f"> {c['note']}")
