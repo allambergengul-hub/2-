@@ -50,8 +50,8 @@ WARD = {
 }
 
 GROUP = {
-    "ZHF": '''ZHANDOS'S TWO FRIENDS (supporting, generic faces, never in close-up): FRIEND 1 — buzz-cut black hair, grey pullover hoodie, black joggers; FRIEND 2 — black baseball cap, dark-green zip-up track jacket, black joggers.''',
-    "QAF": '''QARAKAT'S TEAMMATES (supporting, kept at mid-distance or soft focus): two or three young women in mixed training wear — black leggings, white and grey T-shirts, sports bags. None of them wears a dark-navy hoodie, a high bun or hoop earrings.''',
+    "ZHF": '''ZHANDOS'S TWO FRIENDS (supporting, generic faces, never in close-up, no jewellery or necklaces): FRIEND 1 — buzz-cut black hair, plain grey pullover hoodie, black joggers; FRIEND 2 — black baseball cap, dark-green zip-up track jacket, black joggers.''',
+    "QAF": '''QARAKAT'S TWO TEAMMATES (supporting, kept at mid-distance or soft focus): young women in plain white T-shirts and black leggings with white sneakers — no hoodies, no high bun, no hoop earrings, nothing that looks like Qarakat or Arai.''',
     "FAM": '''RELATIVES AND GUESTS of both families (supporting, generic faces) in festive clothes.''',
     "HELP": '''A HELPER: only her hands and forearms are visible; her face is never shown.''',
     "STAFF": '''Two banquet-hall staff members in black uniforms, soft in the background.''',
@@ -59,7 +59,7 @@ GROUP = {
 
 # ---------------------------------------------------------------- locations
 LOC = {
-    "HALL": ('''An indoor volleyball gym in the evening: honey-coloured polished wooden floor with white court lines, a volleyball net across the middle, pale grey-green walls, tall windows high up showing a dark evening sky, wooden bleachers along the right wall, exit double doors in the left wall. Screen direction: the exit is always screen-left, the bleachers screen-right.''',
+    "HALL": ('''A mid-size indoor volleyball gym in the evening. Floor: honey-coloured polished wooden boards with white court lines. Back wall: six rows of plain wooden bench bleachers on grey metal frames, completely empty and open — nothing hangs in front of them. Above the bleachers: a row of tall windows, dark with evening. Walls: pale beige. Ceiling: square white LED panels. LEFT end wall: a grey metal double exit door with a small green exit sign above it. The volleyball net is NOT visible anywhere in this shot — it stands far to the right, outside the frame; there is no net or mesh in front of the bleachers, behind the people or across the seats. Exactly one volleyball (white, blue and yellow). No people other than those named in the shot. Screen direction: the exit is always screen-left, the bleachers along the back; Zhandos and his friends stand at the right end of the bleachers.''',
              '''Even overhead LED panels, neutral white with a warm bounce from the wooden floor; natural skin tones with visible skin texture.'''),
     "HALL_NIGHT": ('''Outside the sports complex at night: wide concrete entrance steps and glass doors glowing from inside at screen-right, a quiet city street running left–right in front, parked cars.''',
                    '''Warm sodium street lamps, cool blue night ambience, red taxi tail lights; natural skin tones.'''),
@@ -103,7 +103,7 @@ LOC = {
                '''Warm chandelier light mixed with daylight, a white and gold palette, natural skin tones.'''),
 }
 
-VISUAL = '''High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.'''
+VISUAL = '''High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.'''
 
 AVOID = '''Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects'''
 

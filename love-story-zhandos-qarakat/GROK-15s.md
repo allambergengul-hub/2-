@@ -57,32 +57,32 @@
 Кадрда: Жандос, Қарақат · Жүктеу: 1 — Жандос, 2 — Қарақат, 3 — Арай
 
 ```text
-Ultra-realistic live-action cinematic film footage, 15 seconds, 16:9 landscape, real-time natural motion.
+Ultra-realistic live-action cinematic film footage, 15 seconds, 16:9 landscape.
 
-REFERENCES: @image1 = ZHANDOS, @image2 = QARAKAT, @image3 = ARAI. These are character sheets showing several views of the same person: use them for each person's exact face, hair, body and outfit, and keep all of it identical in every shot.
+REFERENCES: @image1 = ZHANDOS, @image2 = QARAKAT, @image3 = ARAI — character sheets, several views of one person each; copy each person's face, hair, body and outfit exactly and keep them identical in every shot.
 IN THIS CLIP: ZHANDOS (@image1), QARAKAT (@image2) only. Not in this clip: ARAI (@image3).
 
 CHARACTERS & WARDROBE:
-- ZHANDOS (@image1): the young man from @image1 — keep his exact face, facial structure, hair and body proportions; never a look-alike. Twenties, tall and lean; long oval face, straight thick dark eyebrows, narrow calm dark-brown eyes, a few small dark moles on his cheeks, clean-shaven; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead, exactly as in @image1 — not swept back, not short and neat on top. Outfit: exactly the outfit from @image1, unchanged: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes.
-- QARAKAT (@image2): the young woman from @image2 — keep her exact face, facial structure and body proportions; never a look-alike. Twenties, slim, a little shorter than Zhandos; jet-black hair always pulled back into a high round bun; calm almond-shaped dark eyes; large thin silver hoop earrings in every shot. Outfit: exactly the outfit from @image2, unchanged: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose medium heather-grey jogger sweatpants with elastic cuffs — clearly grey, visibly darker than her white sneakers, not white, not cream, not beige, plain white low-top sneakers; she carries no bag or backpack.
-- Qarakat's teammates (supporting, soft focus): young women in black leggings and white or grey T-shirts — none in a navy or cream hoodie, none with a high bun or hoop earrings.
-- Zhandos's two friends (supporting, never in close-up): one with buzz-cut hair in a grey hoodie, one in a black cap and dark-green track jacket.
+- ZHANDOS (@image1): exact face, hair and build from @image1, never a look-alike — twenties, tall and lean, long oval face, straight thick brows, narrow calm dark eyes, small dark moles on his cheeks, clean-shaven; thick messy jet-black hair falling forward over his forehead (not swept back, not short and neat). Outfit: exactly as in @image1 — black adidas hoodie with three white sleeve stripes and a small white trefoil on the chest, black track pants with three white side stripes, white sneakers with three black stripes.
+- QARAKAT (@image2): exact face and build from @image2, never a look-alike — twenties, slim, a little shorter than Zhandos; jet-black hair always in a high round bun; calm almond-shaped dark eyes; large thin silver hoop earrings in every shot. Outfit: exactly as in @image2 — oversized plain dark-navy hoodie, a silver dog-tag pendant on a long chain over it, loose medium-grey joggers (clearly grey, never white or cream), plain white sneakers; no bag.
+- Qarakat's two teammates (supporting, soft focus): young women in plain white T-shirts and black leggings with white sneakers — no hoodies, no high bun, no hoop earrings, nothing that looks like Qarakat or Arai.
+- Zhandos's two friends (supporting, never in close-up, no jewellery or necklaces): FRIEND 1 — buzz-cut black hair, plain grey pullover hoodie, black joggers; FRIEND 2 — black baseball cap, dark-green zip-up track jacket, black joggers.
 
-LOCATION: An indoor volleyball gym in the evening: polished honey-coloured wooden floor, a net, wooden bleachers along the BACK wall, exit double doors in the LEFT wall.
-SPACE & EYELINES: Zhandos and his friends stand at the RIGHT end of the bleachers. Qarakat walks from right to left toward the exit doors — away from him. Everything Zhandos looks at is to his LEFT, so he always looks screen-LEFT. When his face is on screen, Qarakat is OFF-SCREEN left, never in the background behind him.
+LOCATION: Mid-size indoor volleyball gym, evening. Honey-coloured wooden floor with white court lines. Back wall: six rows of empty wooden bench bleachers, open, with nothing in front of them; tall dark windows above. Pale beige walls, square white LED ceiling panels. Left end wall: grey double exit door with a small green exit sign. NO volleyball net anywhere in frame (it is far to the right, off-screen) — no net or mesh in front of the bleachers or behind people. Exactly one volleyball (white, blue and yellow). Exactly six people: Qarakat, her two teammates, Zhandos, his two friends.
+SPACE & EYELINES: Zhandos and his two friends STAND (never sit) in front of the RIGHT end of the bleachers in every shot. Qarakat and her teammates walk right-to-left toward the exit, away from him, so Zhandos always looks frame-LEFT; in his close-up she is off-screen left, never behind him.
 
 TIMELINE:
-0–4 s: SHOT 1 — low wide from the near side of the court, facing the back wall: exit doors at screen-left, Zhandos and two friends small and still at the right end of the bleachers. A volleyball lying on the floor in the foreground bounces twice, low, and rolls out of frame left. QARAKAT and two teammates walk from screen-right to screen-left, side-on to the camera, toward the exit, laughing. Qarakat carries nothing.
-4–8 s: SHOT 2 — over-the-shoulder from directly behind ZHANDOS: the back of his head and right shoulder soft in the right foreground; he slowly turns his head left. Sharp in the middle distance at screen-left, Qarakat walks away from him toward the exit doors. We see what he sees.
-8–11 s: SHOT 3 — close-up of ZHANDOS in three-quarter profile facing screen-LEFT; behind him only the bleachers, no girls. His eyes stay fixed off-screen left, past the lens, following her; his smile fades, he blinks once and says quietly and slowly, every word separate: "Анау қыз... кім өзі?"
-11–15 s: SHOT 4 — eye-level three-shot: FRIEND 1 (buzz-cut, grey hoodie) at screen-left, Zhandos centre, FRIEND 2 (black cap, green track jacket) at screen-right. Friend 1 glances left toward the exit and answers casually: "Қайсы? Қарақат па? Ол біздің танысымыз ғой." Zhandos turns his head left to him, interested; Friend 2 smiles, silent.
+0–4 s: SHOT 1 — low wide from the near side of the court, facing the bleachers: the exit door at frame-left, Zhandos and his two friends standing small at the right end of the bleachers. The one volleyball lies on the floor in the foreground; it bounces twice, low, and rolls out of frame left — nobody throws it, it never rises above knee height. QARAKAT and her two teammates walk from frame-right to frame-left, side-on to the camera, toward the exit, laughing. Qarakat carries nothing.
+4–8 s: SHOT 2 — over-the-shoulder from directly behind ZHANDOS, standing: the back of his head and right shoulder soft in the right foreground; he slowly turns his head left. Sharp in the middle distance, Qarakat and her two teammates walk away from him toward the grey exit door in the left end wall. We see what he sees.
+8–11 s: SHOT 3 — close-up of ZHANDOS, standing, in three-quarter profile facing frame-LEFT; behind him only the empty wooden benches of the bleachers, softly blurred — no girls, no net. His eyes stay fixed off-screen left, past the lens, following her; his smile fades, he blinks once and says quietly and slowly, every word separate: "Анау қыз... кім өзі?"
+11–15 s: SHOT 4 — eye-level medium three-shot of the three young men STANDING in front of the empty bleachers (no net behind them): FRIEND 1 (buzz-cut, grey hoodie) at frame-left, Zhandos centre, FRIEND 2 (black cap, green track jacket) at frame-right. Friend 1 glances left toward the exit and answers casually: "Қайсы? Қарақат па? Ол біздің танысымыз ғой." Zhandos turns his head left to him, interested; Friend 2 smiles, silent.
 
-CAMERA: 24mm low wide → 50mm over-the-shoulder with Qarakat in focus → 85mm close-up → 40mm three-shot; hard cuts; the 180-degree line is kept — Zhandos always looks screen-left.
+CAMERA: 24mm low wide → 50mm over-the-shoulder with Qarakat in focus → 85mm close-up → 40mm three-shot. Four shots joined by instant HARD CUTS — no dissolves, no double exposure. The 180-degree line is kept: Zhandos always looks frame-left.
 LIGHTING: Even overhead LED panels, warm bounce from the wooden floor, natural skin tones.
 SOUND: Two low ball bounces, sneakers squeaking, indistinct happy chatter; the gym noise fades in Shot 2 and a soft piano note begins. Kazakh dialogue, exact words, slow and clear: "Анау қыз кім өзі?" is four separate words, never merged; "..." is a short pause.
 
-STYLE: Characters never look into the camera lens — their eyes go to the person or place the action describes. One continuous real scene, each person appears only once (the reference images are character sheets — never show a grid, collage or duplicate copies). Photorealistic live-action romantic film, natural skin texture with visible pores, natural real-time motion (no slow motion), realistic hands and physics, motivated natural light, subtle film grain, cinematic 16:9 composition.
-AVOID: face changes or look-alike actors, changed hairstyles or outfits, distorted hands or extra fingers, duplicate people, warped backgrounds, slow motion, exaggerated acting, waxy skin, cartoon look, readable text on screens or signs, subtitles, watermarks, logos other than those on the reference outfits, character-sheet grids or split panels, duplicate copies of a person, eye contact with the camera, Qarakat or the exit doors behind Zhandos in his close-up, Zhandos looking right, Zhandos walking onto the court, the girls walking toward the camera, a bag on Qarakat, white or cream trousers on Qarakat, swept-back hair on Zhandos.
+STYLE: Photorealistic live-action romantic film; natural skin texture with visible pores; real-time motion; realistic hands and physics; motivated natural light; subtle film grain. Nobody looks into the lens. Shots are joined by instant hard cuts. Each person appears once, as a real person in a real place — never a grid or collage of the reference sheets.
+AVOID: look-alike faces, changed hair or outfits, distorted hands or extra fingers, duplicate people, character-sheet grids, warped backgrounds, slow motion, dissolves or double exposures, eye contact with the camera, exaggerated acting, waxy skin, cartoon look, readable text, subtitles, watermarks, extra logos, any volleyball net or mesh, a second ball, the ball in the air, the men sitting, a necklace on the friends, a teammate in a hoodie, Qarakat walking alone, Qarakat behind Zhandos in his close-up, Zhandos looking right, extra people.
 ```
 
 **G02 — Кешікті · 00:15–00:30**  
@@ -90,21 +90,21 @@ AVOID: face changes or look-alike actors, changed hairstyles or outfits, distort
 Кадрда: Жандос, Қарақат · Жүктеу: 1 — Жандос, 2 — Қарақат, 3 — Арай
 
 ```text
-Ultra-realistic live-action cinematic film footage, 15 seconds, 16:9 landscape, real-time natural motion.
+Ultra-realistic live-action cinematic film footage, 15 seconds, 16:9 landscape.
 
-REFERENCES: @image1 = ZHANDOS, @image2 = QARAKAT, @image3 = ARAI. These are character sheets showing several views of the same person: use them for each person's exact face, hair, body and outfit, and keep all of it identical in every shot.
+REFERENCES: @image1 = ZHANDOS, @image2 = QARAKAT, @image3 = ARAI — character sheets, several views of one person each; copy each person's face, hair, body and outfit exactly and keep them identical in every shot.
 IN THIS CLIP: ZHANDOS (@image1), QARAKAT (@image2) only. Not in this clip: ARAI (@image3).
 
 CHARACTERS & WARDROBE:
-- ZHANDOS (@image1): the young man from @image1 — keep his exact face, facial structure, hair and body proportions; never a look-alike. Twenties, tall and lean; long oval face, straight thick dark eyebrows, narrow calm dark-brown eyes, a few small dark moles on his cheeks, clean-shaven; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead, exactly as in @image1 — not swept back, not short and neat on top. Outfit: exactly the outfit from @image1, unchanged: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes.
-- QARAKAT (@image2): the young woman from @image2 — keep her exact face, facial structure and body proportions; never a look-alike. Twenties, slim, a little shorter than Zhandos; jet-black hair always pulled back into a high round bun; calm almond-shaped dark eyes; large thin silver hoop earrings in every shot. Outfit: exactly the outfit from @image2, unchanged: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose medium heather-grey jogger sweatpants with elastic cuffs — clearly grey, visibly darker than her white sneakers, not white, not cream, not beige, plain white low-top sneakers; she carries no bag or backpack.
-- Zhandos's two friends (supporting, never in close-up): one with buzz-cut hair in a grey hoodie, one in a black cap and dark-green track jacket.
-- Qarakat's teammates (supporting, soft focus): young women in black leggings and white or grey T-shirts — none in a navy or cream hoodie, none with a high bun or hoop earrings.
+- ZHANDOS (@image1): exact face, hair and build from @image1, never a look-alike — twenties, tall and lean, long oval face, straight thick brows, narrow calm dark eyes, small dark moles on his cheeks, clean-shaven; thick messy jet-black hair falling forward over his forehead (not swept back, not short and neat). Outfit: exactly as in @image1 — black adidas hoodie with three white sleeve stripes and a small white trefoil on the chest, black track pants with three white side stripes, white sneakers with three black stripes.
+- QARAKAT (@image2): exact face and build from @image2, never a look-alike — twenties, slim, a little shorter than Zhandos; jet-black hair always in a high round bun; calm almond-shaped dark eyes; large thin silver hoop earrings in every shot. Outfit: exactly as in @image2 — oversized plain dark-navy hoodie, a silver dog-tag pendant on a long chain over it, loose medium-grey joggers (clearly grey, never white or cream), plain white sneakers; no bag.
+- Zhandos's two friends (supporting, never in close-up, no jewellery or necklaces): FRIEND 1 — buzz-cut black hair, plain grey pullover hoodie, black joggers; FRIEND 2 — black baseball cap, dark-green zip-up track jacket, black joggers.
+- Qarakat's two teammates (supporting, soft focus): young women in plain white T-shirts and black leggings with white sneakers — no hoodies, no high bun, no hoop earrings, nothing that looks like Qarakat or Arai.
 
-LOCATION: Inside: the same evening volleyball gym — bleachers along the back wall, exit doors in the left wall. Outside: the sports complex at night — wide concrete steps, glass doors glowing at screen-right, a quiet street running left–right, warm street lamps.
+LOCATION: Inside: the same evening volleyball gym — empty wooden bleachers along the back wall with no net in front of them, grey exit door in the left end wall. Outside: the sports complex at night — wide concrete steps, glass doors glowing at screen-right, a quiet street running left–right, warm street lamps.
 
 TIMELINE:
-0–5 s: Medium three-shot by the bleachers. ZHANDOS turns to his friend, eager: "Қарақат дейсің бе? Нөмірі бар ма?" FRIEND 2 shrugs: "Жоқ, нөмірі бізде жоқ." Zhandos immediately hurries out of frame screen-left toward the exit.
+0–5 s: Medium three-shot of the three young men STANDING in front of the empty bleachers, no net behind them. ZHANDOS turns to Friend 1 (buzz-cut, grey hoodie), eager: "Қарақат дейсің бе? Нөмірі бар ма?" FRIEND 2 shrugs: "Жоқ, нөмірі бізде жоқ." Zhandos immediately hurries out of frame screen-left toward the exit.
 5–10 s: CUT TO outside at night, wide shot from across the street: a white taxi waits at the curb; the teammates get in, QARAKAT (navy hoodie, high bun, silver hoops) gets in last and the door shuts; the taxi pulls away screen-left. The glass doors at screen-right swing open and Zhandos runs down the steps.
 10–15 s: Zhandos slows and stops at the curb, watching the red tail lights shrink into the distance; he exhales and gives a small rueful smile to himself. Final frame: Zhandos alone at the curb in a three-quarter back view under the street lamps.
 
@@ -112,8 +112,8 @@ CAMERA: Handheld 40mm three-shot, then a locked-off 35mm wide across the street,
 LIGHTING: Gym LED light inside; outside warm sodium street lamps, cool blue night, red tail lights.
 SOUND: Dialogue in Kazakh with the exact words above; the door pushed open; a car door shutting, the engine pulling away, a quiet night street; the piano phrase stops unresolved.
 
-STYLE: Characters never look into the camera lens — their eyes go to the person or place the action describes. One continuous real scene, each person appears only once (the reference images are character sheets — never show a grid, collage or duplicate copies). Photorealistic live-action romantic film, natural skin texture with visible pores, natural real-time motion (no slow motion), realistic hands and physics, motivated natural light, subtle film grain, cinematic 16:9 composition.
-AVOID: face changes or look-alike actors, changed hairstyles or outfits, distorted hands or extra fingers, duplicate people, warped backgrounds, slow motion, exaggerated acting, waxy skin, cartoon look, readable text on screens or signs, subtitles, watermarks, logos other than those on the reference outfits, character-sheet grids or split panels, duplicate copies of a person, eye contact with the camera, readable licence plates or taxi branding.
+STYLE: Photorealistic live-action romantic film; natural skin texture with visible pores; real-time motion; realistic hands and physics; motivated natural light; subtle film grain. Nobody looks into the lens. Shots are joined by instant hard cuts. Each person appears once, as a real person in a real place — never a grid or collage of the reference sheets.
+AVOID: look-alike faces, changed hair or outfits, distorted hands or extra fingers, duplicate people, character-sheet grids, warped backgrounds, slow motion, dissolves or double exposures, eye contact with the camera, exaggerated acting, waxy skin, cartoon look, readable text, subtitles, watermarks, extra logos, readable licence plates or taxi branding.
 ```
 
 ### 2-сцена · Араймен танысу
@@ -123,16 +123,16 @@ AVOID: face changes or look-alike actors, changed hairstyles or outfits, distort
 Кадрда: Жандос, Қарақат, Арай · Жүктеу: 1 — Жандос, 2 — Қарақат, 3 — Арай
 
 ```text
-Ultra-realistic live-action cinematic film footage, 15 seconds, 16:9 landscape, real-time natural motion.
+Ultra-realistic live-action cinematic film footage, 15 seconds, 16:9 landscape.
 
-REFERENCES: @image1 = ZHANDOS, @image2 = QARAKAT, @image3 = ARAI. These are character sheets showing several views of the same person: use them for each person's exact face, hair, body and outfit, and keep all of it identical in every shot.
+REFERENCES: @image1 = ZHANDOS, @image2 = QARAKAT, @image3 = ARAI — character sheets, several views of one person each; copy each person's face, hair, body and outfit exactly and keep them identical in every shot.
 IN THIS CLIP: ZHANDOS (@image1), QARAKAT (@image2), ARAI (@image3).
 
 CHARACTERS & WARDROBE:
-- ZHANDOS (@image1): the young man from @image1 — keep his exact face, facial structure, hair and body proportions; never a look-alike. Twenties, tall and lean; long oval face, straight thick dark eyebrows, narrow calm dark-brown eyes, a few small dark moles on his cheeks, clean-shaven; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead, exactly as in @image1 — not swept back, not short and neat on top. Outfit: exactly the outfit from @image1, unchanged: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes.
-- QARAKAT (@image2): the young woman from @image2 — keep her exact face, facial structure and body proportions; never a look-alike. Twenties, slim, a little shorter than Zhandos; jet-black hair always pulled back into a high round bun; calm almond-shaped dark eyes; large thin silver hoop earrings in every shot. Outfit: exactly the outfit from @image2, unchanged: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose medium heather-grey jogger sweatpants with elastic cuffs — clearly grey, visibly darker than her white sneakers, not white, not cream, not beige, plain white low-top sneakers; she carries no bag or backpack.
-- ARAI (@image3): the young woman from @image3 — keep her exact face and body proportions; never a look-alike. Twenties, warm smiley face with light freckles, long curly chestnut-brown hair in a high curly ponytail tied with a black hair tie. Outfit: exactly the outfit from @image3, unchanged: oversized cream-ivory hoodie with pale-pink drawstrings and a small pale-pink heart on the left chest, black track pants with two white side stripes, pink-and-white low-top sneakers.
-- Qarakat's teammates (supporting, soft focus): young women in black leggings and white or grey T-shirts — none in a navy or cream hoodie, none with a high bun or hoop earrings.
+- ZHANDOS (@image1): exact face, hair and build from @image1, never a look-alike — twenties, tall and lean, long oval face, straight thick brows, narrow calm dark eyes, small dark moles on his cheeks, clean-shaven; thick messy jet-black hair falling forward over his forehead (not swept back, not short and neat). Outfit: exactly as in @image1 — black adidas hoodie with three white sleeve stripes and a small white trefoil on the chest, black track pants with three white side stripes, white sneakers with three black stripes.
+- QARAKAT (@image2): exact face and build from @image2, never a look-alike — twenties, slim, a little shorter than Zhandos; jet-black hair always in a high round bun; calm almond-shaped dark eyes; large thin silver hoop earrings in every shot. Outfit: exactly as in @image2 — oversized plain dark-navy hoodie, a silver dog-tag pendant on a long chain over it, loose medium-grey joggers (clearly grey, never white or cream), plain white sneakers; no bag.
+- ARAI (@image3): exact face and build from @image3, never a look-alike — twenties, warm smile, light freckles, long curly chestnut-brown hair in a high ponytail with a black hair tie. Outfit: exactly as in @image3 — oversized cream hoodie with pale-pink drawstrings and a small pink heart on the chest, black track pants with two white side stripes, pink-and-white sneakers.
+- Qarakat's two teammates (supporting, soft focus): young women in plain white T-shirts and black leggings with white sneakers — no hoodies, no high bun, no hoop earrings, nothing that looks like Qarakat or Arai.
 
 LOCATION: A small modern café on a quiet city street in daylight: a glass front and glass door, two small outdoor tables, a tree-lined sidewalk running left–right.
 
@@ -145,8 +145,8 @@ CAMERA: 35mm wide-medium from across the sidewalk, then a 50mm medium two-shot i
 LIGHTING: Soft overcast daylight, neutral natural colours.
 SOUND: A small door chime, street ambience, footsteps, a light playful pizzicato tune; dialogue in Kazakh with the exact words above.
 
-STYLE: Characters never look into the camera lens — their eyes go to the person or place the action describes. One continuous real scene, each person appears only once (the reference images are character sheets — never show a grid, collage or duplicate copies). Photorealistic live-action romantic film, natural skin texture with visible pores, natural real-time motion (no slow motion), realistic hands and physics, motivated natural light, subtle film grain, cinematic 16:9 composition.
-AVOID: face changes or look-alike actors, changed hairstyles or outfits, distorted hands or extra fingers, duplicate people, warped backgrounds, slow motion, exaggerated acting, waxy skin, cartoon look, readable text on screens or signs, subtitles, watermarks, logos other than those on the reference outfits, character-sheet grids or split panels, duplicate copies of a person, eye contact with the camera, readable café name or menu, the two women looking alike.
+STYLE: Photorealistic live-action romantic film; natural skin texture with visible pores; real-time motion; realistic hands and physics; motivated natural light; subtle film grain. Nobody looks into the lens. Shots are joined by instant hard cuts. Each person appears once, as a real person in a real place — never a grid or collage of the reference sheets.
+AVOID: look-alike faces, changed hair or outfits, distorted hands or extra fingers, duplicate people, character-sheet grids, warped backgrounds, slow motion, dissolves or double exposures, eye contact with the camera, exaggerated acting, waxy skin, cartoon look, readable text, subtitles, watermarks, extra logos, readable café name or menu, the two women looking alike.
 ```
 
 **G04 — «Рұқсатынсыз бере алмаймын» · 00:45–01:00**  
@@ -154,15 +154,15 @@ AVOID: face changes or look-alike actors, changed hairstyles or outfits, distort
 Кадрда: Жандос, Қарақат, Арай · Жүктеу: 1 — Жандос, 2 — Қарақат, 3 — Арай
 
 ```text
-Ultra-realistic live-action cinematic film footage, 15 seconds, 16:9 landscape, real-time natural motion.
+Ultra-realistic live-action cinematic film footage, 15 seconds, 16:9 landscape.
 
-REFERENCES: @image1 = ZHANDOS, @image2 = QARAKAT, @image3 = ARAI. These are character sheets showing several views of the same person: use them for each person's exact face, hair, body and outfit, and keep all of it identical in every shot.
+REFERENCES: @image1 = ZHANDOS, @image2 = QARAKAT, @image3 = ARAI — character sheets, several views of one person each; copy each person's face, hair, body and outfit exactly and keep them identical in every shot.
 IN THIS CLIP: ZHANDOS (@image1), QARAKAT (@image2), ARAI (@image3).
 
 CHARACTERS & WARDROBE:
-- ZHANDOS (@image1): the young man from @image1 — keep his exact face, facial structure, hair and body proportions; never a look-alike. Twenties, tall and lean; long oval face, straight thick dark eyebrows, narrow calm dark-brown eyes, a few small dark moles on his cheeks, clean-shaven; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead, exactly as in @image1 — not swept back, not short and neat on top. Outfit: exactly the outfit from @image1, unchanged: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes.
-- QARAKAT (@image2): the young woman from @image2 — keep her exact face, facial structure and body proportions; never a look-alike. Twenties, slim, a little shorter than Zhandos; jet-black hair always pulled back into a high round bun; calm almond-shaped dark eyes; large thin silver hoop earrings in every shot. Outfit: exactly the outfit from @image2, unchanged: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose medium heather-grey jogger sweatpants with elastic cuffs — clearly grey, visibly darker than her white sneakers, not white, not cream, not beige, plain white low-top sneakers; she carries no bag or backpack.
-- ARAI (@image3): the young woman from @image3 — keep her exact face and body proportions; never a look-alike. Twenties, warm smiley face with light freckles, long curly chestnut-brown hair in a high curly ponytail tied with a black hair tie. Outfit: exactly the outfit from @image3, unchanged: oversized cream-ivory hoodie with pale-pink drawstrings and a small pale-pink heart on the left chest, black track pants with two white side stripes, pink-and-white low-top sneakers.
+- ZHANDOS (@image1): exact face, hair and build from @image1, never a look-alike — twenties, tall and lean, long oval face, straight thick brows, narrow calm dark eyes, small dark moles on his cheeks, clean-shaven; thick messy jet-black hair falling forward over his forehead (not swept back, not short and neat). Outfit: exactly as in @image1 — black adidas hoodie with three white sleeve stripes and a small white trefoil on the chest, black track pants with three white side stripes, white sneakers with three black stripes.
+- QARAKAT (@image2): exact face and build from @image2, never a look-alike — twenties, slim, a little shorter than Zhandos; jet-black hair always in a high round bun; calm almond-shaped dark eyes; large thin silver hoop earrings in every shot. Outfit: exactly as in @image2 — oversized plain dark-navy hoodie, a silver dog-tag pendant on a long chain over it, loose medium-grey joggers (clearly grey, never white or cream), plain white sneakers; no bag.
+- ARAI (@image3): exact face and build from @image3, never a look-alike — twenties, warm smile, light freckles, long curly chestnut-brown hair in a high ponytail with a black hair tie. Outfit: exactly as in @image3 — oversized cream hoodie with pale-pink drawstrings and a small pink heart on the chest, black track pants with two white side stripes, pink-and-white sneakers.
 
 LOCATION: First the café sidewalk in daylight, then a tree-lined park alley with a paved path and wooden benches, the same day.
 
@@ -175,8 +175,8 @@ CAMERA: 50mm over-the-shoulder, static; then a 50mm medium two-shot at eye level
 LIGHTING: Overcast daylight at the café, then dappled sunlight through the park trees.
 SOUND: Dialogue in Kazakh with the exact words above; footsteps; birdsong and rustling leaves in the park; playful pizzicato.
 
-STYLE: Characters never look into the camera lens — their eyes go to the person or place the action describes. One continuous real scene, each person appears only once (the reference images are character sheets — never show a grid, collage or duplicate copies). Photorealistic live-action romantic film, natural skin texture with visible pores, natural real-time motion (no slow motion), realistic hands and physics, motivated natural light, subtle film grain, cinematic 16:9 composition.
-AVOID: face changes or look-alike actors, changed hairstyles or outfits, distorted hands or extra fingers, duplicate people, warped backgrounds, slow motion, exaggerated acting, waxy skin, cartoon look, readable text on screens or signs, subtitles, watermarks, logos other than those on the reference outfits, character-sheet grids or split panels, duplicate copies of a person, eye contact with the camera, the two women looking alike.
+STYLE: Photorealistic live-action romantic film; natural skin texture with visible pores; real-time motion; realistic hands and physics; motivated natural light; subtle film grain. Nobody looks into the lens. Shots are joined by instant hard cuts. Each person appears once, as a real person in a real place — never a grid or collage of the reference sheets.
+AVOID: look-alike faces, changed hair or outfits, distorted hands or extra fingers, duplicate people, character-sheet grids, warped backgrounds, slow motion, dissolves or double exposures, eye contact with the camera, exaggerated acting, waxy skin, cartoon look, readable text, subtitles, watermarks, extra logos, the two women looking alike.
 ```
 
 ### 3-сцена · Нөмір үшін келіссөз
@@ -186,15 +186,15 @@ AVOID: face changes or look-alike actors, changed hairstyles or outfits, distort
 Кадрда: Жандос, Арай · Жүктеу: 1 — Жандос, 2 — Қарақат, 3 — Арай
 
 ```text
-Ultra-realistic live-action cinematic film footage, 15 seconds, 16:9 landscape, real-time natural motion.
+Ultra-realistic live-action cinematic film footage, 15 seconds, 16:9 landscape.
 
-REFERENCES: @image1 = ZHANDOS, @image2 = QARAKAT, @image3 = ARAI. These are character sheets showing several views of the same person: use them for each person's exact face, hair, body and outfit, and keep all of it identical in every shot.
+REFERENCES: @image1 = ZHANDOS, @image2 = QARAKAT, @image3 = ARAI — character sheets, several views of one person each; copy each person's face, hair, body and outfit exactly and keep them identical in every shot.
 IN THIS CLIP: ZHANDOS (@image1), ARAI (@image3) only. Not in this clip: QARAKAT (@image2).
 
 CHARACTERS & WARDROBE:
-- ZHANDOS (@image1): the young man from @image1 — keep his exact face, facial structure, hair and body proportions; never a look-alike. Twenties, tall and lean; long oval face, straight thick dark eyebrows, narrow calm dark-brown eyes, a few small dark moles on his cheeks, clean-shaven; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead, exactly as in @image1 — not swept back, not short and neat on top. Outfit: exactly the outfit from @image1, unchanged: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes.
-- ARAI (@image3): the young woman from @image3 — keep her exact face and body proportions; never a look-alike. Twenties, warm smiley face with light freckles, long curly chestnut-brown hair in a high curly ponytail tied with a black hair tie. Outfit: exactly the outfit from @image3, unchanged: oversized cream-ivory hoodie with pale-pink drawstrings and a small pale-pink heart on the left chest, black track pants with two white side stripes, pink-and-white low-top sneakers.
-- Zhandos's two friends (supporting, never in close-up): one with buzz-cut hair in a grey hoodie, one in a black cap and dark-green track jacket.
+- ZHANDOS (@image1): exact face, hair and build from @image1, never a look-alike — twenties, tall and lean, long oval face, straight thick brows, narrow calm dark eyes, small dark moles on his cheeks, clean-shaven; thick messy jet-black hair falling forward over his forehead (not swept back, not short and neat). Outfit: exactly as in @image1 — black adidas hoodie with three white sleeve stripes and a small white trefoil on the chest, black track pants with three white side stripes, white sneakers with three black stripes.
+- ARAI (@image3): exact face and build from @image3, never a look-alike — twenties, warm smile, light freckles, long curly chestnut-brown hair in a high ponytail with a black hair tie. Outfit: exactly as in @image3 — oversized cream hoodie with pale-pink drawstrings and a small pink heart on the chest, black track pants with two white side stripes, pink-and-white sneakers.
+- Zhandos's two friends (supporting, never in close-up, no jewellery or necklaces): FRIEND 1 — buzz-cut black hair, plain grey pullover hoodie, black joggers; FRIEND 2 — black baseball cap, dark-green zip-up track jacket, black joggers.
 
 LOCATION: In front of the sports complex in the late afternoon: wide concrete steps, glass doors, a pale facade, young trees, the sidewalk running left–right.
 
@@ -207,8 +207,8 @@ CAMERA: Handheld 35mm follow on the steps, then a completely locked-off 40mm med
 LIGHTING: Low warm late-afternoon sun from screen-left, soft golden rim light.
 SOUND: Dialogue in Kazakh with the exact words above; footsteps on concrete; playful music that stops for the pause and comes back on "Үстінен қос!".
 
-STYLE: Characters never look into the camera lens — their eyes go to the person or place the action describes. One continuous real scene, each person appears only once (the reference images are character sheets — never show a grid, collage or duplicate copies). Photorealistic live-action romantic film, natural skin texture with visible pores, natural real-time motion (no slow motion), realistic hands and physics, motivated natural light, subtle film grain, cinematic 16:9 composition.
-AVOID: face changes or look-alike actors, changed hairstyles or outfits, distorted hands or extra fingers, duplicate people, warped backgrounds, slow motion, exaggerated acting, waxy skin, cartoon look, readable text on screens or signs, subtitles, watermarks, logos other than those on the reference outfits, character-sheet grids or split panels, duplicate copies of a person, eye contact with the camera, close-up fake banknote designs.
+STYLE: Photorealistic live-action romantic film; natural skin texture with visible pores; real-time motion; realistic hands and physics; motivated natural light; subtle film grain. Nobody looks into the lens. Shots are joined by instant hard cuts. Each person appears once, as a real person in a real place — never a grid or collage of the reference sheets.
+AVOID: look-alike faces, changed hair or outfits, distorted hands or extra fingers, duplicate people, character-sheet grids, warped backgrounds, slow motion, dissolves or double exposures, eye contact with the camera, exaggerated acting, waxy skin, cartoon look, readable text, subtitles, watermarks, extra logos, close-up fake banknote designs.
 ```
 
 **G06 — Нөмір сақталды · 01:15–01:30**  
@@ -216,14 +216,14 @@ AVOID: face changes or look-alike actors, changed hairstyles or outfits, distort
 Кадрда: Жандос, Арай · Жүктеу: 1 — Жандос, 2 — Қарақат, 3 — Арай
 
 ```text
-Ultra-realistic live-action cinematic film footage, 15 seconds, 16:9 landscape, real-time natural motion.
+Ultra-realistic live-action cinematic film footage, 15 seconds, 16:9 landscape.
 
-REFERENCES: @image1 = ZHANDOS, @image2 = QARAKAT, @image3 = ARAI. These are character sheets showing several views of the same person: use them for each person's exact face, hair, body and outfit, and keep all of it identical in every shot.
+REFERENCES: @image1 = ZHANDOS, @image2 = QARAKAT, @image3 = ARAI — character sheets, several views of one person each; copy each person's face, hair, body and outfit exactly and keep them identical in every shot.
 IN THIS CLIP: ZHANDOS (@image1), ARAI (@image3) only. Not in this clip: QARAKAT (@image2).
 
 CHARACTERS & WARDROBE:
-- ZHANDOS (@image1): the young man from @image1 — keep his exact face, facial structure, hair and body proportions; never a look-alike. Twenties, tall and lean; long oval face, straight thick dark eyebrows, narrow calm dark-brown eyes, a few small dark moles on his cheeks, clean-shaven; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead, exactly as in @image1 — not swept back, not short and neat on top. Outfit: exactly the outfit from @image1, unchanged: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes.
-- ARAI (@image3): the young woman from @image3 — keep her exact face and body proportions; never a look-alike. Twenties, warm smiley face with light freckles, long curly chestnut-brown hair in a high curly ponytail tied with a black hair tie. Outfit: exactly the outfit from @image3, unchanged: oversized cream-ivory hoodie with pale-pink drawstrings and a small pale-pink heart on the left chest, black track pants with two white side stripes, pink-and-white low-top sneakers.
+- ZHANDOS (@image1): exact face, hair and build from @image1, never a look-alike — twenties, tall and lean, long oval face, straight thick brows, narrow calm dark eyes, small dark moles on his cheeks, clean-shaven; thick messy jet-black hair falling forward over his forehead (not swept back, not short and neat). Outfit: exactly as in @image1 — black adidas hoodie with three white sleeve stripes and a small white trefoil on the chest, black track pants with three white side stripes, white sneakers with three black stripes.
+- ARAI (@image3): exact face and build from @image3, never a look-alike — twenties, warm smile, light freckles, long curly chestnut-brown hair in a high ponytail with a black hair tie. Outfit: exactly as in @image3 — oversized cream hoodie with pale-pink drawstrings and a small pink heart on the chest, black track pants with two white side stripes, pink-and-white sneakers.
 
 LOCATION: The same spot in front of the sports complex, late afternoon.
 
@@ -236,8 +236,8 @@ CAMERA: 40mm two-shot with a very slow push-in, then an 85mm close-up with a smo
 LIGHTING: Low golden-hour sun from screen-left, warm rim light on his hair.
 SOUND: Dialogue in Kazakh with the exact words above; soft screen taps; the playful music lands on one bright final note.
 
-STYLE: Characters never look into the camera lens — their eyes go to the person or place the action describes. One continuous real scene, each person appears only once (the reference images are character sheets — never show a grid, collage or duplicate copies). Photorealistic live-action romantic film, natural skin texture with visible pores, natural real-time motion (no slow motion), realistic hands and physics, motivated natural light, subtle film grain, cinematic 16:9 composition.
-AVOID: face changes or look-alike actors, changed hairstyles or outfits, distorted hands or extra fingers, duplicate people, warped backgrounds, slow motion, exaggerated acting, waxy skin, cartoon look, readable text on screens or signs, subtitles, watermarks, logos other than those on the reference outfits, character-sheet grids or split panels, duplicate copies of a person, eye contact with the camera, readable phone screens or numbers.
+STYLE: Photorealistic live-action romantic film; natural skin texture with visible pores; real-time motion; realistic hands and physics; motivated natural light; subtle film grain. Nobody looks into the lens. Shots are joined by instant hard cuts. Each person appears once, as a real person in a real place — never a grid or collage of the reference sheets.
+AVOID: look-alike faces, changed hair or outfits, distorted hands or extra fingers, duplicate people, character-sheet grids, warped backgrounds, slow motion, dissolves or double exposures, eye contact with the camera, exaggerated acting, waxy skin, cartoon look, readable text, subtitles, watermarks, extra logos, readable phone screens or numbers.
 ```
 
 ### 4-сцена · Жауапсыз хабарламалар
@@ -247,14 +247,14 @@ AVOID: face changes or look-alike actors, changed hairstyles or outfits, distort
 Кадрда: Жандос, Қарақат · Жүктеу: 1 — Жандос, 2 — Қарақат, 3 — Арай
 
 ```text
-Ultra-realistic live-action cinematic film footage, 15 seconds, 16:9 landscape, real-time natural motion.
+Ultra-realistic live-action cinematic film footage, 15 seconds, 16:9 landscape.
 
-REFERENCES: @image1 = ZHANDOS, @image2 = QARAKAT, @image3 = ARAI. These are character sheets showing several views of the same person: use them for each person's exact face, hair, body and outfit, and keep all of it identical in every shot.
+REFERENCES: @image1 = ZHANDOS, @image2 = QARAKAT, @image3 = ARAI — character sheets, several views of one person each; copy each person's face, hair, body and outfit exactly and keep them identical in every shot.
 IN THIS CLIP: ZHANDOS (@image1), QARAKAT (@image2) only. Not in this clip: ARAI (@image3).
 
 CHARACTERS & WARDROBE:
-- ZHANDOS (@image1): the young man from @image1 — keep his exact face, facial structure, hair and body proportions; never a look-alike. Twenties, tall and lean; long oval face, straight thick dark eyebrows, narrow calm dark-brown eyes, a few small dark moles on his cheeks, clean-shaven; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead, exactly as in @image1 — not swept back, not short and neat on top. Outfit: exactly the outfit from @image1, unchanged: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes.
-- QARAKAT (@image2): the young woman from @image2 — keep her exact face, facial structure and body proportions; never a look-alike. Twenties, slim, a little shorter than Zhandos; jet-black hair always pulled back into a high round bun; calm almond-shaped dark eyes; large thin silver hoop earrings in every shot. Outfit: exactly the outfit from @image2, unchanged: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose medium heather-grey jogger sweatpants with elastic cuffs — clearly grey, visibly darker than her white sneakers, not white, not cream, not beige, plain white low-top sneakers; she carries no bag or backpack.
+- ZHANDOS (@image1): exact face, hair and build from @image1, never a look-alike — twenties, tall and lean, long oval face, straight thick brows, narrow calm dark eyes, small dark moles on his cheeks, clean-shaven; thick messy jet-black hair falling forward over his forehead (not swept back, not short and neat). Outfit: exactly as in @image1 — black adidas hoodie with three white sleeve stripes and a small white trefoil on the chest, black track pants with three white side stripes, white sneakers with three black stripes.
+- QARAKAT (@image2): exact face and build from @image2, never a look-alike — twenties, slim, a little shorter than Zhandos; jet-black hair always in a high round bun; calm almond-shaped dark eyes; large thin silver hoop earrings in every shot. Outfit: exactly as in @image2 — oversized plain dark-navy hoodie, a silver dog-tag pendant on a long chain over it, loose medium-grey joggers (clearly grey, never white or cream), plain white sneakers; no bag.
 
 LOCATION: Zhandos's small bedroom (bed, wooden desk with a lamp, window with city lights) and Qarakat's bedroom (white bedding, bedside lamp, sheer curtains).
 
@@ -267,8 +267,8 @@ CAMERA: 50mm medium shots at eye level, static, shallow depth of field.
 LIGHTING: Night: warm lamps and the cool glow of phones on their faces. Day: soft flat window light — the colour of waiting.
 SOUND: Screen taps, message-sent sounds, a phone vibrating on the bedspread, quiet rooms, sparse piano notes. No dialogue.
 
-STYLE: Characters never look into the camera lens — their eyes go to the person or place the action describes. One continuous real scene, each person appears only once (the reference images are character sheets — never show a grid, collage or duplicate copies). Photorealistic live-action romantic film, natural skin texture with visible pores, natural real-time motion (no slow motion), realistic hands and physics, motivated natural light, subtle film grain, cinematic 16:9 composition.
-AVOID: face changes or look-alike actors, changed hairstyles or outfits, distorted hands or extra fingers, duplicate people, warped backgrounds, slow motion, exaggerated acting, waxy skin, cartoon look, readable text on screens or signs, subtitles, watermarks, logos other than those on the reference outfits, character-sheet grids or split panels, duplicate copies of a person, eye contact with the camera, readable phone screens.
+STYLE: Photorealistic live-action romantic film; natural skin texture with visible pores; real-time motion; realistic hands and physics; motivated natural light; subtle film grain. Nobody looks into the lens. Shots are joined by instant hard cuts. Each person appears once, as a real person in a real place — never a grid or collage of the reference sheets.
+AVOID: look-alike faces, changed hair or outfits, distorted hands or extra fingers, duplicate people, character-sheet grids, warped backgrounds, slow motion, dissolves or double exposures, eye contact with the camera, exaggerated acting, waxy skin, cartoon look, readable text, subtitles, watermarks, extra logos, readable phone screens.
 ```
 > Монтажда хабарлама көпіршіктерін қосыңыз: 0–5 с — «Сәлем, Қарақат!», «Қалайсың?», «Таныссақ бола ма?»; 10–15 с — «Неге жауап бермейсің?»
 
@@ -277,15 +277,15 @@ AVOID: face changes or look-alike actors, changed hairstyles or outfits, distort
 Кадрда: Жандос, Қарақат, Арай · Жүктеу: 1 — Жандос, 2 — Қарақат, 3 — Арай
 
 ```text
-Ultra-realistic live-action cinematic film footage, 15 seconds, 16:9 landscape, real-time natural motion.
+Ultra-realistic live-action cinematic film footage, 15 seconds, 16:9 landscape.
 
-REFERENCES: @image1 = ZHANDOS, @image2 = QARAKAT, @image3 = ARAI. These are character sheets showing several views of the same person: use them for each person's exact face, hair, body and outfit, and keep all of it identical in every shot.
+REFERENCES: @image1 = ZHANDOS, @image2 = QARAKAT, @image3 = ARAI — character sheets, several views of one person each; copy each person's face, hair, body and outfit exactly and keep them identical in every shot.
 IN THIS CLIP: ZHANDOS (@image1), QARAKAT (@image2), ARAI (@image3).
 
 CHARACTERS & WARDROBE:
-- ZHANDOS (@image1): the young man from @image1 — keep his exact face, facial structure, hair and body proportions; never a look-alike. Twenties, tall and lean; long oval face, straight thick dark eyebrows, narrow calm dark-brown eyes, a few small dark moles on his cheeks, clean-shaven; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead, exactly as in @image1 — not swept back, not short and neat on top. Outfit: exactly the outfit from @image1, unchanged: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes.
-- QARAKAT (@image2): the young woman from @image2 — keep her exact face, facial structure and body proportions; never a look-alike. Twenties, slim, a little shorter than Zhandos; jet-black hair always pulled back into a high round bun; calm almond-shaped dark eyes; large thin silver hoop earrings in every shot. Outfit: exactly the outfit from @image2, unchanged: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose medium heather-grey jogger sweatpants with elastic cuffs — clearly grey, visibly darker than her white sneakers, not white, not cream, not beige, plain white low-top sneakers; she carries no bag or backpack.
-- ARAI (@image3): the young woman from @image3 — keep her exact face and body proportions; never a look-alike. Twenties, warm smiley face with light freckles, long curly chestnut-brown hair in a high curly ponytail tied with a black hair tie. Outfit: exactly the outfit from @image3, unchanged: oversized cream-ivory hoodie with pale-pink drawstrings and a small pale-pink heart on the left chest, black track pants with two white side stripes, pink-and-white low-top sneakers.
+- ZHANDOS (@image1): exact face, hair and build from @image1, never a look-alike — twenties, tall and lean, long oval face, straight thick brows, narrow calm dark eyes, small dark moles on his cheeks, clean-shaven; thick messy jet-black hair falling forward over his forehead (not swept back, not short and neat). Outfit: exactly as in @image1 — black adidas hoodie with three white sleeve stripes and a small white trefoil on the chest, black track pants with three white side stripes, white sneakers with three black stripes.
+- QARAKAT (@image2): exact face and build from @image2, never a look-alike — twenties, slim, a little shorter than Zhandos; jet-black hair always in a high round bun; calm almond-shaped dark eyes; large thin silver hoop earrings in every shot. Outfit: exactly as in @image2 — oversized plain dark-navy hoodie, a silver dog-tag pendant on a long chain over it, loose medium-grey joggers (clearly grey, never white or cream), plain white sneakers; no bag.
+- ARAI (@image3): exact face and build from @image3, never a look-alike — twenties, warm smile, light freckles, long curly chestnut-brown hair in a high ponytail with a black hair tie. Outfit: exactly as in @image3 — oversized cream hoodie with pale-pink drawstrings and a small pink heart on the chest, black track pants with two white side stripes, pink-and-white sneakers.
 
 LOCATION: A tree-lined park alley in daytime; then Qarakat's bedroom and Zhandos's bedroom at night.
 
@@ -298,8 +298,8 @@ CAMERA: 35mm leading track walking backward in the park; 85mm close-up on Qaraka
 LIGHTING: Dappled park sunlight; at night warm lamps and phone glow.
 SOUND: Dialogue in Kazakh with the exact words above; birdsong; a message-sent sound, then a vibration and message tone; a warm acoustic guitar begins at the end.
 
-STYLE: Characters never look into the camera lens — their eyes go to the person or place the action describes. One continuous real scene, each person appears only once (the reference images are character sheets — never show a grid, collage or duplicate copies). Photorealistic live-action romantic film, natural skin texture with visible pores, natural real-time motion (no slow motion), realistic hands and physics, motivated natural light, subtle film grain, cinematic 16:9 composition.
-AVOID: face changes or look-alike actors, changed hairstyles or outfits, distorted hands or extra fingers, duplicate people, warped backgrounds, slow motion, exaggerated acting, waxy skin, cartoon look, readable text on screens or signs, subtitles, watermarks, logos other than those on the reference outfits, character-sheet grids or split panels, duplicate copies of a person, eye contact with the camera, readable phone screens, the two women looking alike.
+STYLE: Photorealistic live-action romantic film; natural skin texture with visible pores; real-time motion; realistic hands and physics; motivated natural light; subtle film grain. Nobody looks into the lens. Shots are joined by instant hard cuts. Each person appears once, as a real person in a real place — never a grid or collage of the reference sheets.
+AVOID: look-alike faces, changed hair or outfits, distorted hands or extra fingers, duplicate people, character-sheet grids, warped backgrounds, slow motion, dissolves or double exposures, eye contact with the camera, exaggerated acting, waxy skin, cartoon look, readable text, subtitles, watermarks, extra logos, readable phone screens, the two women looking alike.
 ```
 
 ### 5-сцена · Алғашқы кездесу
@@ -309,14 +309,14 @@ AVOID: face changes or look-alike actors, changed hairstyles or outfits, distort
 Кадрда: Жандос, Қарақат · Жүктеу: 1 — Жандос, 2 — Қарақат, 3 — Арай
 
 ```text
-Ultra-realistic live-action cinematic film footage, 15 seconds, 16:9 landscape, real-time natural motion.
+Ultra-realistic live-action cinematic film footage, 15 seconds, 16:9 landscape.
 
-REFERENCES: @image1 = ZHANDOS, @image2 = QARAKAT, @image3 = ARAI. These are character sheets showing several views of the same person: use them for each person's exact face, hair, body and outfit, and keep all of it identical in every shot.
+REFERENCES: @image1 = ZHANDOS, @image2 = QARAKAT, @image3 = ARAI — character sheets, several views of one person each; copy each person's face, hair, body and outfit exactly and keep them identical in every shot.
 IN THIS CLIP: ZHANDOS (@image1), QARAKAT (@image2) only. Not in this clip: ARAI (@image3).
 
 CHARACTERS & WARDROBE:
-- ZHANDOS (@image1): the young man from @image1 — keep his exact face, facial structure, hair and body proportions; never a look-alike. Twenties, tall and lean; long oval face, straight thick dark eyebrows, narrow calm dark-brown eyes, a few small dark moles on his cheeks, clean-shaven; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead, exactly as in @image1 — not swept back, not short and neat on top. Outfit: exactly the outfit from @image1, unchanged: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes.
-- QARAKAT (@image2): the young woman from @image2 — keep her exact face, facial structure and body proportions; never a look-alike. Twenties, slim, a little shorter than Zhandos; jet-black hair always pulled back into a high round bun; calm almond-shaped dark eyes; large thin silver hoop earrings in every shot. Outfit: exactly the outfit from @image2, unchanged: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose medium heather-grey jogger sweatpants with elastic cuffs — clearly grey, visibly darker than her white sneakers, not white, not cream, not beige, plain white low-top sneakers; she carries no bag or backpack.
+- ZHANDOS (@image1): exact face, hair and build from @image1, never a look-alike — twenties, tall and lean, long oval face, straight thick brows, narrow calm dark eyes, small dark moles on his cheeks, clean-shaven; thick messy jet-black hair falling forward over his forehead (not swept back, not short and neat). Outfit: exactly as in @image1 — black adidas hoodie with three white sleeve stripes and a small white trefoil on the chest, black track pants with three white side stripes, white sneakers with three black stripes.
+- QARAKAT (@image2): exact face and build from @image2, never a look-alike — twenties, slim, a little shorter than Zhandos; jet-black hair always in a high round bun; calm almond-shaped dark eyes; large thin silver hoop earrings in every shot. Outfit: exactly as in @image2 — oversized plain dark-navy hoodie, a silver dog-tag pendant on a long chain over it, loose medium-grey joggers (clearly grey, never white or cream), plain white sneakers; no bag.
 
 LOCATION: Qarakat's bedroom with a tall mirror in late-afternoon light; then a city square in front of a lit cinema at blue hour, with blank unreadable signage.
 
@@ -329,8 +329,8 @@ CAMERA: 50mm over-the-shoulder into the mirror with a slow push-in; 50mm medium 
 LIGHTING: Warm window light in the bedroom; blue-hour sky mixed with warm street lamps and the cinema glow.
 SOUND: Fabric rustle, a hairpin click; city evening ambience; their soft laughter (no clear words); the warm acoustic guitar theme. No dialogue.
 
-STYLE: Characters never look into the camera lens — their eyes go to the person or place the action describes. One continuous real scene, each person appears only once (the reference images are character sheets — never show a grid, collage or duplicate copies). Photorealistic live-action romantic film, natural skin texture with visible pores, natural real-time motion (no slow motion), realistic hands and physics, motivated natural light, subtle film grain, cinematic 16:9 composition.
-AVOID: face changes or look-alike actors, changed hairstyles or outfits, distorted hands or extra fingers, duplicate people, warped backgrounds, slow motion, exaggerated acting, waxy skin, cartoon look, readable text on screens or signs, subtitles, watermarks, logos other than those on the reference outfits, character-sheet grids or split panels, duplicate copies of a person, eye contact with the camera, mismatched mirror reflection, readable signs or posters.
+STYLE: Photorealistic live-action romantic film; natural skin texture with visible pores; real-time motion; realistic hands and physics; motivated natural light; subtle film grain. Nobody looks into the lens. Shots are joined by instant hard cuts. Each person appears once, as a real person in a real place — never a grid or collage of the reference sheets.
+AVOID: look-alike faces, changed hair or outfits, distorted hands or extra fingers, duplicate people, character-sheet grids, warped backgrounds, slow motion, dissolves or double exposures, eye contact with the camera, exaggerated acting, waxy skin, cartoon look, readable text, subtitles, watermarks, extra logos, mismatched mirror reflection, readable signs or posters.
 ```
 
 **G10 — Кино, кафе, кітап, құшақ · 02:15–02:30**  
@@ -338,14 +338,14 @@ AVOID: face changes or look-alike actors, changed hairstyles or outfits, distort
 Кадрда: Жандос, Қарақат · Жүктеу: 1 — Жандос, 2 — Қарақат, 3 — Арай
 
 ```text
-Ultra-realistic live-action cinematic film footage, 15 seconds, 16:9 landscape, real-time natural motion.
+Ultra-realistic live-action cinematic film footage, 15 seconds, 16:9 landscape.
 
-REFERENCES: @image1 = ZHANDOS, @image2 = QARAKAT, @image3 = ARAI. These are character sheets showing several views of the same person: use them for each person's exact face, hair, body and outfit, and keep all of it identical in every shot.
+REFERENCES: @image1 = ZHANDOS, @image2 = QARAKAT, @image3 = ARAI — character sheets, several views of one person each; copy each person's face, hair, body and outfit exactly and keep them identical in every shot.
 IN THIS CLIP: ZHANDOS (@image1), QARAKAT (@image2) only. Not in this clip: ARAI (@image3).
 
 CHARACTERS & WARDROBE:
-- ZHANDOS (@image1): the young man from @image1 — keep his exact face, facial structure, hair and body proportions; never a look-alike. Twenties, tall and lean; long oval face, straight thick dark eyebrows, narrow calm dark-brown eyes, a few small dark moles on his cheeks, clean-shaven; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead, exactly as in @image1 — not swept back, not short and neat on top. Outfit: exactly the outfit from @image1, unchanged: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes.
-- QARAKAT (@image2): the young woman from @image2 — keep her exact face, facial structure and body proportions; never a look-alike. Twenties, slim, a little shorter than Zhandos; jet-black hair always pulled back into a high round bun; calm almond-shaped dark eyes; large thin silver hoop earrings in every shot. Outfit: exactly the outfit from @image2, unchanged: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose medium heather-grey jogger sweatpants with elastic cuffs — clearly grey, visibly darker than her white sneakers, not white, not cream, not beige, plain white low-top sneakers; she carries no bag or backpack.
+- ZHANDOS (@image1): exact face, hair and build from @image1, never a look-alike — twenties, tall and lean, long oval face, straight thick brows, narrow calm dark eyes, small dark moles on his cheeks, clean-shaven; thick messy jet-black hair falling forward over his forehead (not swept back, not short and neat). Outfit: exactly as in @image1 — black adidas hoodie with three white sleeve stripes and a small white trefoil on the chest, black track pants with three white side stripes, white sneakers with three black stripes.
+- QARAKAT (@image2): exact face and build from @image2, never a look-alike — twenties, slim, a little shorter than Zhandos; jet-black hair always in a high round bun; calm almond-shaped dark eyes; large thin silver hoop earrings in every shot. Outfit: exactly as in @image2 — oversized plain dark-navy hoodie, a silver dog-tag pendant on a long chain over it, loose medium-grey joggers (clearly grey, never white or cream), plain white sneakers; no bag.
 
 LOCATION: A dark cinema auditorium; a cosy café; a bookstore aisle with plain unreadable book spines; the lit entrance of Qarakat's apartment building at night.
 
@@ -359,8 +359,8 @@ CAMERA: 50mm two-shots for the cinema, café and bookstore; 35mm static medium-w
 LIGHTING: Projector flicker; warm café pendants; warm bookstore light; at night one street lamp and the warm glow of the entrance door.
 SOUND: Muffled indistinct film sound, café murmur, pages rustling, the door's soft click, his quiet laugh; the guitar theme throughout. No dialogue.
 
-STYLE: Characters never look into the camera lens — their eyes go to the person or place the action describes. One continuous real scene, each person appears only once (the reference images are character sheets — never show a grid, collage or duplicate copies). Photorealistic live-action romantic film, natural skin texture with visible pores, natural real-time motion (no slow motion), realistic hands and physics, motivated natural light, subtle film grain, cinematic 16:9 composition.
-AVOID: face changes or look-alike actors, changed hairstyles or outfits, distorted hands or extra fingers, duplicate people, warped backgrounds, slow motion, exaggerated acting, waxy skin, cartoon look, readable text on screens or signs, subtitles, watermarks, logos other than those on the reference outfits, character-sheet grids or split panels, duplicate copies of a person, eye contact with the camera, the cinema screen or film footage in frame, readable book titles.
+STYLE: Photorealistic live-action romantic film; natural skin texture with visible pores; real-time motion; realistic hands and physics; motivated natural light; subtle film grain. Nobody looks into the lens. Shots are joined by instant hard cuts. Each person appears once, as a real person in a real place — never a grid or collage of the reference sheets.
+AVOID: look-alike faces, changed hair or outfits, distorted hands or extra fingers, duplicate people, character-sheet grids, warped backgrounds, slow motion, dissolves or double exposures, eye contact with the camera, exaggerated acting, waxy skin, cartoon look, readable text, subtitles, watermarks, extra logos, the cinema screen or film footage in frame, readable book titles.
 ```
 
 ### 6-сцена · Бірге өткен бақытты күндер
@@ -370,14 +370,14 @@ AVOID: face changes or look-alike actors, changed hairstyles or outfits, distort
 Кадрда: Жандос, Қарақат · Жүктеу: 1 — Жандос, 2 — Қарақат, 3 — Арай
 
 ```text
-Ultra-realistic live-action cinematic film footage, 15 seconds, 16:9 landscape, real-time natural motion.
+Ultra-realistic live-action cinematic film footage, 15 seconds, 16:9 landscape.
 
-REFERENCES: @image1 = ZHANDOS, @image2 = QARAKAT, @image3 = ARAI. These are character sheets showing several views of the same person: use them for each person's exact face, hair, body and outfit, and keep all of it identical in every shot.
+REFERENCES: @image1 = ZHANDOS, @image2 = QARAKAT, @image3 = ARAI — character sheets, several views of one person each; copy each person's face, hair, body and outfit exactly and keep them identical in every shot.
 IN THIS CLIP: ZHANDOS (@image1), QARAKAT (@image2) only. Not in this clip: ARAI (@image3).
 
 CHARACTERS & WARDROBE:
-- ZHANDOS (@image1): the young man from @image1 — keep his exact face, facial structure, hair and body proportions; never a look-alike. Twenties, tall and lean; long oval face, straight thick dark eyebrows, narrow calm dark-brown eyes, a few small dark moles on his cheeks, clean-shaven; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead, exactly as in @image1 — not swept back, not short and neat on top.
-- QARAKAT (@image2): the young woman from @image2 — keep her exact face, facial structure and body proportions; never a look-alike. Twenties, slim, a little shorter than Zhandos; jet-black hair always pulled back into a high round bun; calm almond-shaped dark eyes; large thin silver hoop earrings in every shot.
+- ZHANDOS (@image1): exact face, hair and build from @image1, never a look-alike — twenties, tall and lean, long oval face, straight thick brows, narrow calm dark eyes, small dark moles on his cheeks, clean-shaven; thick messy jet-black hair falling forward over his forehead (not swept back, not short and neat).
+- QARAKAT (@image2): exact face and build from @image2, never a look-alike — twenties, slim, a little shorter than Zhandos; jet-black hair always in a high round bun; calm almond-shaped dark eyes; large thin silver hoop earrings in every shot.
 
 LOCATION: Five quick locations: their bedrooms at night, golden steppe grassland, a cosy living room at night, a sunny café window, a city street at night.
 
@@ -392,8 +392,8 @@ CAMERA: Each cut lands on the music beat: close-ups at pillow level, a side trac
 LIGHTING: Moonlight and lamp glow; bright warm sun on the steppe; TV glow; sunny window; warm street lamps.
 SOUND: One romantic song across the whole clip, every cut on a beat; hooves, popcorn, cups, footsteps under it. No dialogue.
 
-STYLE: Characters never look into the camera lens — their eyes go to the person or place the action describes. One continuous real scene, each person appears only once (the reference images are character sheets — never show a grid, collage or duplicate copies). Photorealistic live-action romantic film, natural skin texture with visible pores, natural real-time motion (no slow motion), realistic hands and physics, motivated natural light, subtle film grain, cinematic 16:9 composition.
-AVOID: face changes or look-alike actors, changed hairstyles or outfits, distorted hands or extra fingers, duplicate people, warped backgrounds, slow motion, exaggerated acting, waxy skin, cartoon look, readable text on screens or signs, subtitles, watermarks, logos other than those on the reference outfits, character-sheet grids or split panels, duplicate copies of a person, eye contact with the camera, the TV screen or film footage in frame, recognisable film characters, unnatural horse legs.
+STYLE: Photorealistic live-action romantic film; natural skin texture with visible pores; real-time motion; realistic hands and physics; motivated natural light; subtle film grain. Nobody looks into the lens. Shots are joined by instant hard cuts. Each person appears once, as a real person in a real place — never a grid or collage of the reference sheets.
+AVOID: look-alike faces, changed hair or outfits, distorted hands or extra fingers, duplicate people, character-sheet grids, warped backgrounds, slow motion, dissolves or double exposures, eye contact with the camera, exaggerated acting, waxy skin, cartoon look, readable text, subtitles, watermarks, extra logos, the TV screen or film footage in frame, recognisable film characters, unnatural horse legs.
 ```
 > Сценарийде кино кеші — «Гарри Поттер». Авторлық құқыққа байланысты фильмнің өзі кадрда көрсетілмейді.
 
@@ -404,14 +404,14 @@ AVOID: face changes or look-alike actors, changed hairstyles or outfits, distort
 Кадрда: Жандос, Қарақат · Жүктеу: 1 — Жандос, 2 — Қарақат, 3 — Арай
 
 ```text
-Ultra-realistic live-action cinematic film footage, 15 seconds, 16:9 landscape, real-time natural motion.
+Ultra-realistic live-action cinematic film footage, 15 seconds, 16:9 landscape.
 
-REFERENCES: @image1 = ZHANDOS, @image2 = QARAKAT, @image3 = ARAI. These are character sheets showing several views of the same person: use them for each person's exact face, hair, body and outfit, and keep all of it identical in every shot.
+REFERENCES: @image1 = ZHANDOS, @image2 = QARAKAT, @image3 = ARAI — character sheets, several views of one person each; copy each person's face, hair, body and outfit exactly and keep them identical in every shot.
 IN THIS CLIP: ZHANDOS (@image1), QARAKAT (@image2) only. Not in this clip: ARAI (@image3).
 
 CHARACTERS & WARDROBE:
-- ZHANDOS (@image1): the young man from @image1 — keep his exact face, facial structure, hair and body proportions; never a look-alike. Twenties, tall and lean; long oval face, straight thick dark eyebrows, narrow calm dark-brown eyes, a few small dark moles on his cheeks, clean-shaven; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead, exactly as in @image1 — not swept back, not short and neat on top. Outfit: exactly the outfit from @image1, unchanged: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes.
-- QARAKAT (@image2): the young woman from @image2 — keep her exact face, facial structure and body proportions; never a look-alike. Twenties, slim, a little shorter than Zhandos; jet-black hair always pulled back into a high round bun; calm almond-shaped dark eyes; large thin silver hoop earrings in every shot. Outfit: exactly the outfit from @image2, unchanged: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose medium heather-grey jogger sweatpants with elastic cuffs — clearly grey, visibly darker than her white sneakers, not white, not cream, not beige, plain white low-top sneakers; she carries no bag or backpack.
+- ZHANDOS (@image1): exact face, hair and build from @image1, never a look-alike — twenties, tall and lean, long oval face, straight thick brows, narrow calm dark eyes, small dark moles on his cheeks, clean-shaven; thick messy jet-black hair falling forward over his forehead (not swept back, not short and neat). Outfit: exactly as in @image1 — black adidas hoodie with three white sleeve stripes and a small white trefoil on the chest, black track pants with three white side stripes, white sneakers with three black stripes.
+- QARAKAT (@image2): exact face and build from @image2, never a look-alike — twenties, slim, a little shorter than Zhandos; jet-black hair always in a high round bun; calm almond-shaped dark eyes; large thin silver hoop earrings in every shot. Outfit: exactly as in @image2 — oversized plain dark-navy hoodie, a silver dog-tag pendant on a long chain over it, loose medium-grey joggers (clearly grey, never white or cream), plain white sneakers; no bag.
 
 LOCATION: A quiet sandy seashore at sunset: a calm sea, the sun low over the horizon, a golden-pink sky; a romantic picnic on the sand — a low wooden table on a cream blanket with cushions, white and blush flowers, plates of sweets, glowing candle jars. Zhandos sits on the left, Qarakat on the right. No other people.
 
@@ -423,8 +423,8 @@ CAMERA: 35mm wide from behind with a slow push-in, then an 85mm-feel over-the-sh
 LIGHTING: Warm low sun backlighting them, a golden rim on hair and shoulders, soft candle fill on faces, no lens flares.
 SOUND: Gentle waves, a light breeze, her soft laugh; slow strings that drop very low under his voice. Dialogue in Kazakh with the exact words above.
 
-STYLE: Characters never look into the camera lens — their eyes go to the person or place the action describes. One continuous real scene, each person appears only once (the reference images are character sheets — never show a grid, collage or duplicate copies). Photorealistic live-action romantic film, natural skin texture with visible pores, natural real-time motion (no slow motion), realistic hands and physics, motivated natural light, subtle film grain, cinematic 16:9 composition.
-AVOID: face changes or look-alike actors, changed hairstyles or outfits, distorted hands or extra fingers, duplicate people, warped backgrounds, slow motion, exaggerated acting, waxy skin, cartoon look, readable text on screens or signs, subtitles, watermarks, logos other than those on the reference outfits, character-sheet grids or split panels, duplicate copies of a person, eye contact with the camera, other people on the beach, oversaturated sky.
+STYLE: Photorealistic live-action romantic film; natural skin texture with visible pores; real-time motion; realistic hands and physics; motivated natural light; subtle film grain. Nobody looks into the lens. Shots are joined by instant hard cuts. Each person appears once, as a real person in a real place — never a grid or collage of the reference sheets.
+AVOID: look-alike faces, changed hair or outfits, distorted hands or extra fingers, duplicate people, character-sheet grids, warped backgrounds, slow motion, dissolves or double exposures, eye contact with the camera, exaggerated acting, waxy skin, cartoon look, readable text, subtitles, watermarks, extra logos, other people on the beach, oversaturated sky.
 ```
 
 **G13 — «Келісесің бе?» · 03:00–03:15**  
@@ -432,14 +432,14 @@ AVOID: face changes or look-alike actors, changed hairstyles or outfits, distort
 Кадрда: Жандос, Қарақат · Жүктеу: 1 — Жандос, 2 — Қарақат, 3 — Арай
 
 ```text
-Ultra-realistic live-action cinematic film footage, 15 seconds, 16:9 landscape, real-time natural motion.
+Ultra-realistic live-action cinematic film footage, 15 seconds, 16:9 landscape.
 
-REFERENCES: @image1 = ZHANDOS, @image2 = QARAKAT, @image3 = ARAI. These are character sheets showing several views of the same person: use them for each person's exact face, hair, body and outfit, and keep all of it identical in every shot.
+REFERENCES: @image1 = ZHANDOS, @image2 = QARAKAT, @image3 = ARAI — character sheets, several views of one person each; copy each person's face, hair, body and outfit exactly and keep them identical in every shot.
 IN THIS CLIP: ZHANDOS (@image1), QARAKAT (@image2) only. Not in this clip: ARAI (@image3).
 
 CHARACTERS & WARDROBE:
-- ZHANDOS (@image1): the young man from @image1 — keep his exact face, facial structure, hair and body proportions; never a look-alike. Twenties, tall and lean; long oval face, straight thick dark eyebrows, narrow calm dark-brown eyes, a few small dark moles on his cheeks, clean-shaven; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead, exactly as in @image1 — not swept back, not short and neat on top. Outfit: exactly the outfit from @image1, unchanged: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes.
-- QARAKAT (@image2): the young woman from @image2 — keep her exact face, facial structure and body proportions; never a look-alike. Twenties, slim, a little shorter than Zhandos; jet-black hair always pulled back into a high round bun; calm almond-shaped dark eyes; large thin silver hoop earrings in every shot. Outfit: exactly the outfit from @image2, unchanged: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose medium heather-grey jogger sweatpants with elastic cuffs — clearly grey, visibly darker than her white sneakers, not white, not cream, not beige, plain white low-top sneakers; she carries no bag or backpack.
+- ZHANDOS (@image1): exact face, hair and build from @image1, never a look-alike — twenties, tall and lean, long oval face, straight thick brows, narrow calm dark eyes, small dark moles on his cheeks, clean-shaven; thick messy jet-black hair falling forward over his forehead (not swept back, not short and neat). Outfit: exactly as in @image1 — black adidas hoodie with three white sleeve stripes and a small white trefoil on the chest, black track pants with three white side stripes, white sneakers with three black stripes.
+- QARAKAT (@image2): exact face and build from @image2, never a look-alike — twenties, slim, a little shorter than Zhandos; jet-black hair always in a high round bun; calm almond-shaped dark eyes; large thin silver hoop earrings in every shot. Outfit: exactly as in @image2 — oversized plain dark-navy hoodie, a silver dog-tag pendant on a long chain over it, loose medium-grey joggers (clearly grey, never white or cream), plain white sneakers; no bag.
 
 LOCATION: The same sunset seashore picnic: candles, flowers, sweets on the low table, the calm sea and the low sun.
 
@@ -451,8 +451,8 @@ CAMERA: 85mm-feel over-the-shoulder close-up on Qarakat, static; then a 50mm sta
 LIGHTING: Warm sunset light on her face, candle fill, golden backlight in the profile shot.
 SOUND: Waves; strings slowly rising, then near-silence before the question. Dialogue in Kazakh with the exact words above.
 
-STYLE: Characters never look into the camera lens — their eyes go to the person or place the action describes. One continuous real scene, each person appears only once (the reference images are character sheets — never show a grid, collage or duplicate copies). Photorealistic live-action romantic film, natural skin texture with visible pores, natural real-time motion (no slow motion), realistic hands and physics, motivated natural light, subtle film grain, cinematic 16:9 composition.
-AVOID: face changes or look-alike actors, changed hairstyles or outfits, distorted hands or extra fingers, duplicate people, warped backgrounds, slow motion, exaggerated acting, waxy skin, cartoon look, readable text on screens or signs, subtitles, watermarks, logos other than those on the reference outfits, character-sheet grids or split panels, duplicate copies of a person, eye contact with the camera, an oversized or glowing ring, magical sparkles.
+STYLE: Photorealistic live-action romantic film; natural skin texture with visible pores; real-time motion; realistic hands and physics; motivated natural light; subtle film grain. Nobody looks into the lens. Shots are joined by instant hard cuts. Each person appears once, as a real person in a real place — never a grid or collage of the reference sheets.
+AVOID: look-alike faces, changed hair or outfits, distorted hands or extra fingers, duplicate people, character-sheet grids, warped backgrounds, slow motion, dissolves or double exposures, eye contact with the camera, exaggerated acting, waxy skin, cartoon look, readable text, subtitles, watermarks, extra logos, an oversized or glowing ring, magical sparkles.
 ```
 
 **G14 — «Иә» · 03:15–03:30**  
@@ -460,14 +460,14 @@ AVOID: face changes or look-alike actors, changed hairstyles or outfits, distort
 Кадрда: Жандос, Қарақат · Жүктеу: 1 — Жандос, 2 — Қарақат, 3 — Арай
 
 ```text
-Ultra-realistic live-action cinematic film footage, 15 seconds, 16:9 landscape, real-time natural motion.
+Ultra-realistic live-action cinematic film footage, 15 seconds, 16:9 landscape.
 
-REFERENCES: @image1 = ZHANDOS, @image2 = QARAKAT, @image3 = ARAI. These are character sheets showing several views of the same person: use them for each person's exact face, hair, body and outfit, and keep all of it identical in every shot.
+REFERENCES: @image1 = ZHANDOS, @image2 = QARAKAT, @image3 = ARAI — character sheets, several views of one person each; copy each person's face, hair, body and outfit exactly and keep them identical in every shot.
 IN THIS CLIP: ZHANDOS (@image1), QARAKAT (@image2) only. Not in this clip: ARAI (@image3).
 
 CHARACTERS & WARDROBE:
-- ZHANDOS (@image1): the young man from @image1 — keep his exact face, facial structure, hair and body proportions; never a look-alike. Twenties, tall and lean; long oval face, straight thick dark eyebrows, narrow calm dark-brown eyes, a few small dark moles on his cheeks, clean-shaven; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead, exactly as in @image1 — not swept back, not short and neat on top. Outfit: exactly the outfit from @image1, unchanged: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes.
-- QARAKAT (@image2): the young woman from @image2 — keep her exact face, facial structure and body proportions; never a look-alike. Twenties, slim, a little shorter than Zhandos; jet-black hair always pulled back into a high round bun; calm almond-shaped dark eyes; large thin silver hoop earrings in every shot. Outfit: exactly the outfit from @image2, unchanged: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose medium heather-grey jogger sweatpants with elastic cuffs — clearly grey, visibly darker than her white sneakers, not white, not cream, not beige, plain white low-top sneakers; she carries no bag or backpack.
+- ZHANDOS (@image1): exact face, hair and build from @image1, never a look-alike — twenties, tall and lean, long oval face, straight thick brows, narrow calm dark eyes, small dark moles on his cheeks, clean-shaven; thick messy jet-black hair falling forward over his forehead (not swept back, not short and neat). Outfit: exactly as in @image1 — black adidas hoodie with three white sleeve stripes and a small white trefoil on the chest, black track pants with three white side stripes, white sneakers with three black stripes.
+- QARAKAT (@image2): exact face and build from @image2, never a look-alike — twenties, slim, a little shorter than Zhandos; jet-black hair always in a high round bun; calm almond-shaped dark eyes; large thin silver hoop earrings in every shot. Outfit: exactly as in @image2 — oversized plain dark-navy hoodie, a silver dog-tag pendant on a long chain over it, loose medium-grey joggers (clearly grey, never white or cream), plain white sneakers; no bag.
 
 LOCATION: The same sunset seashore picnic.
 
@@ -479,8 +479,8 @@ CAMERA: 85mm-feel close two-shot with a very slow push-in, then one smooth, slow
 LIGHTING: Golden sunset rim light, candles glowing warmer as the light fades, real tears, natural skin.
 SOUND: No words. Waves; the strings swell on her nod and resolve into a warm chord.
 
-STYLE: Characters never look into the camera lens — their eyes go to the person or place the action describes. One continuous real scene, each person appears only once (the reference images are character sheets — never show a grid, collage or duplicate copies). Photorealistic live-action romantic film, natural skin texture with visible pores, natural real-time motion (no slow motion), realistic hands and physics, motivated natural light, subtle film grain, cinematic 16:9 composition.
-AVOID: face changes or look-alike actors, changed hairstyles or outfits, distorted hands or extra fingers, duplicate people, warped backgrounds, slow motion, exaggerated acting, waxy skin, cartoon look, readable text on screens or signs, subtitles, watermarks, logos other than those on the reference outfits, character-sheet grids or split panels, duplicate copies of a person, eye contact with the camera, distorted fingers, the ring changing shape, a drone circling them.
+STYLE: Photorealistic live-action romantic film; natural skin texture with visible pores; real-time motion; realistic hands and physics; motivated natural light; subtle film grain. Nobody looks into the lens. Shots are joined by instant hard cuts. Each person appears once, as a real person in a real place — never a grid or collage of the reference sheets.
+AVOID: look-alike faces, changed hair or outfits, distorted hands or extra fingers, duplicate people, character-sheet grids, warped backgrounds, slow motion, dissolves or double exposures, eye contact with the camera, exaggerated acting, waxy skin, cartoon look, readable text, subtitles, watermarks, extra logos, distorted fingers, the ring changing shape, a drone circling them.
 ```
 
 ### 8-сцена · Тойға дайындық
@@ -490,14 +490,14 @@ AVOID: face changes or look-alike actors, changed hairstyles or outfits, distort
 Кадрда: Жандос, Қарақат · Жүктеу: 1 — Жандос, 2 — Қарақат, 3 — Арай
 
 ```text
-Ultra-realistic live-action cinematic film footage, 15 seconds, 16:9 landscape, real-time natural motion.
+Ultra-realistic live-action cinematic film footage, 15 seconds, 16:9 landscape.
 
-REFERENCES: @image1 = ZHANDOS, @image2 = QARAKAT, @image3 = ARAI. These are character sheets showing several views of the same person: use them for each person's exact face, hair and body, and keep these identical in every shot; in this wedding-day clip only, the outfits are the wedding outfits described below.
+REFERENCES: @image1 = ZHANDOS, @image2 = QARAKAT, @image3 = ARAI — character sheets, several views of one person each; copy each person's face, hair and body exactly and keep them identical in every shot; in this wedding-day clip only, the outfits are the wedding outfits below.
 IN THIS CLIP: ZHANDOS (@image1), QARAKAT (@image2) only. Not in this clip: ARAI (@image3).
 
 CHARACTERS & WARDROBE:
-- ZHANDOS (@image1): the young man from @image1 — keep his exact face, facial structure, hair and body proportions; never a look-alike. Twenties, tall and lean; long oval face, straight thick dark eyebrows, narrow calm dark-brown eyes, a few small dark moles on his cheeks, clean-shaven; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead, exactly as in @image1 — not swept back, not short and neat on top. Outfit: WEDDING DAY ONLY — the story's single outfit change: classic black two-piece suit, white shirt, slim black tie, black leather shoes.
-- QARAKAT (@image2): the young woman from @image2 — keep her exact face, facial structure and body proportions; never a look-alike. Twenties, slim, a little shorter than Zhandos; jet-black hair always pulled back into a high round bun; calm almond-shaped dark eyes; large thin silver hoop earrings in every shot. Outfit: WEDDING DAY ONLY — the story's single outfit change: white wedding gown with a lace bodice and a full skirt, a sheer veil pinned under her high bun, her silver hoop earrings.
+- ZHANDOS (@image1): exact face, hair and build from @image1, never a look-alike — twenties, tall and lean, long oval face, straight thick brows, narrow calm dark eyes, small dark moles on his cheeks, clean-shaven; thick messy jet-black hair falling forward over his forehead (not swept back, not short and neat). Outfit: WEDDING DAY ONLY — the story's single outfit change: classic black two-piece suit, white shirt, slim black tie, black leather shoes.
+- QARAKAT (@image2): exact face and build from @image2, never a look-alike — twenties, slim, a little shorter than Zhandos; jet-black hair always in a high round bun; calm almond-shaped dark eyes; large thin silver hoop earrings in every shot. Outfit: WEDDING DAY ONLY — the story's single outfit change: white wedding gown with a lace bodice and a full skirt, a sheer veil pinned under her high bun, her silver hoop earrings.
 - A helper: only her hands are visible, never her face.
 
 LOCATION: A bright bridal room with a full-length mirror; a hotel room with a mirror; a white table by a window.
@@ -512,8 +512,8 @@ CAMERA: 50mm over-the-shoulder into mirrors; macro for the rings; 85mm close-up 
 LIGHTING: Bright soft window light, white and warm gold tones.
 SOUND: Celebratory wedding music; fabric rustle. No dialogue.
 
-STYLE: Characters never look into the camera lens — their eyes go to the person or place the action describes. One continuous real scene, each person appears only once (the reference images are character sheets — never show a grid, collage or duplicate copies). Photorealistic live-action romantic film, natural skin texture with visible pores, natural real-time motion (no slow motion), realistic hands and physics, motivated natural light, subtle film grain, cinematic 16:9 composition.
-AVOID: face changes or look-alike actors, changed hairstyles, any outfit other than the wedding outfits described, distorted hands or extra fingers, duplicate people, warped backgrounds, slow motion, exaggerated acting, waxy skin, cartoon look, readable text on screens or signs, subtitles, watermarks, logos other than those on the reference outfits, character-sheet grids or split panels, duplicate copies of a person, eye contact with the camera, mismatched mirror reflections, the helper's face, text on the ring box, Arai appearing.
+STYLE: Photorealistic live-action romantic film; natural skin texture with visible pores; real-time motion; realistic hands and physics; motivated natural light; subtle film grain. Nobody looks into the lens. Shots are joined by instant hard cuts. Each person appears once, as a real person in a real place — never a grid or collage of the reference sheets.
+AVOID: look-alike faces, changed hair, any outfit other than the wedding outfits, distorted hands or extra fingers, duplicate people, character-sheet grids, warped backgrounds, slow motion, dissolves or double exposures, eye contact with the camera, exaggerated acting, waxy skin, cartoon look, readable text, subtitles, watermarks, extra logos, mismatched mirror reflections, the helper's face, text on the ring box, Arai appearing.
 ```
 
 **G16 — Бірге алға · 03:45–04:00**  
@@ -521,14 +521,14 @@ AVOID: face changes or look-alike actors, changed hairstyles, any outfit other t
 Кадрда: Жандос, Қарақат · Жүктеу: 1 — Жандос, 2 — Қарақат, 3 — Арай
 
 ```text
-Ultra-realistic live-action cinematic film footage, 15 seconds, 16:9 landscape, real-time natural motion.
+Ultra-realistic live-action cinematic film footage, 15 seconds, 16:9 landscape.
 
-REFERENCES: @image1 = ZHANDOS, @image2 = QARAKAT, @image3 = ARAI. These are character sheets showing several views of the same person: use them for each person's exact face, hair and body, and keep these identical in every shot; in this wedding-day clip only, the outfits are the wedding outfits described below.
+REFERENCES: @image1 = ZHANDOS, @image2 = QARAKAT, @image3 = ARAI — character sheets, several views of one person each; copy each person's face, hair and body exactly and keep them identical in every shot; in this wedding-day clip only, the outfits are the wedding outfits below.
 IN THIS CLIP: ZHANDOS (@image1), QARAKAT (@image2) only. Not in this clip: ARAI (@image3).
 
 CHARACTERS & WARDROBE:
-- ZHANDOS (@image1): the young man from @image1 — keep his exact face, facial structure, hair and body proportions; never a look-alike. Twenties, tall and lean; long oval face, straight thick dark eyebrows, narrow calm dark-brown eyes, a few small dark moles on his cheeks, clean-shaven; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead, exactly as in @image1 — not swept back, not short and neat on top. Outfit: WEDDING DAY ONLY — the story's single outfit change: classic black two-piece suit, white shirt, slim black tie, black leather shoes.
-- QARAKAT (@image2): the young woman from @image2 — keep her exact face, facial structure and body proportions; never a look-alike. Twenties, slim, a little shorter than Zhandos; jet-black hair always pulled back into a high round bun; calm almond-shaped dark eyes; large thin silver hoop earrings in every shot. Outfit: WEDDING DAY ONLY — the story's single outfit change: white wedding gown with a lace bodice and a full skirt, a sheer veil pinned under her high bun, her silver hoop earrings.
+- ZHANDOS (@image1): exact face, hair and build from @image1, never a look-alike — twenties, tall and lean, long oval face, straight thick brows, narrow calm dark eyes, small dark moles on his cheeks, clean-shaven; thick messy jet-black hair falling forward over his forehead (not swept back, not short and neat). Outfit: WEDDING DAY ONLY — the story's single outfit change: classic black two-piece suit, white shirt, slim black tie, black leather shoes.
+- QARAKAT (@image2): exact face and build from @image2, never a look-alike — twenties, slim, a little shorter than Zhandos; jet-black hair always in a high round bun; calm almond-shaped dark eyes; large thin silver hoop earrings in every shot. Outfit: WEDDING DAY ONLY — the story's single outfit change: white wedding gown with a lace bodice and a full skirt, a sheer veil pinned under her high bun, her silver hoop earrings.
 - Relatives of both families and two staff members (supporting, generic faces).
 
 LOCATION: A grand wedding banquet hall: crystal chandeliers, round tables with white tablecloths and gold accents, white and blush flowers, a wide aisle leading to tall double doors.
@@ -542,8 +542,8 @@ CAMERA: 24–35mm rectilinear dolly forward; 50mm slow lateral drift past the gu
 LIGHTING: Warm chandelier light and a warm backlight from the doorway, white and gold, natural skin.
 SOUND: Wedding music building to its peak, applause, joyful voices (no clear words).
 
-STYLE: Characters never look into the camera lens — their eyes go to the person or place the action describes. One continuous real scene, each person appears only once (the reference images are character sheets — never show a grid, collage or duplicate copies). Photorealistic live-action romantic film, natural skin texture with visible pores, natural real-time motion (no slow motion), realistic hands and physics, motivated natural light, subtle film grain, cinematic 16:9 composition.
-AVOID: face changes or look-alike actors, changed hairstyles, any outfit other than the wedding outfits described, distorted hands or extra fingers, duplicate people, warped backgrounds, slow motion, exaggerated acting, waxy skin, cartoon look, readable text on screens or signs, subtitles, watermarks, logos other than those on the reference outfits, character-sheet grids or split panels, duplicate copies of a person, eye contact with the camera, an extra bride or groom, duplicate faces, fisheye distortion.
+STYLE: Photorealistic live-action romantic film; natural skin texture with visible pores; real-time motion; realistic hands and physics; motivated natural light; subtle film grain. Nobody looks into the lens. Shots are joined by instant hard cuts. Each person appears once, as a real person in a real place — never a grid or collage of the reference sheets.
+AVOID: look-alike faces, changed hair, any outfit other than the wedding outfits, distorted hands or extra fingers, duplicate people, character-sheet grids, warped backgrounds, slow motion, dissolves or double exposures, eye contact with the camera, exaggerated acting, waxy skin, cartoon look, readable text, subtitles, watermarks, extra logos, an extra bride or groom, duplicate faces, fisheye distortion.
 ```
 > Финалдық жазу монтажда қосылады (қара экран, ~5 с): «ЖАНДОС ❤️ ҚАРАҚАТ / Бір кездейсоқ көзқарастан басталған махаббат... / Бүгін мәңгілікке жалғасты. / Енді олар бір-бірінің өмірлік серігі! / Бақытты болыңыздар!» Нағыз той болса, 4–8 с бөлігін шынайы туыстардың бейнежазбасымен ауыстырған жақсы.
 
@@ -551,7 +551,7 @@ AVOID: face changes or look-alike actors, changed hairstyles, any outfit other t
 
 ## Клиптердің жалғануы
 
-- **G01 → G02:** G02 сол үш адамдық кадрдан, сол позициялардан басталады — монтажда тікелей кесу.
+- **G01 → G02:** G02 сол үш адамдық кадрдан, сол позициялардан (тұрып) басталады — монтажда тікелей кесу.
 - **G02 → G03:** Түннен күндізге тікелей кесу; кафе есігінің қоңырауы кесуден сәл бұрын естіледі (J-cut).
 - **G03 → G04:** Арайдың «Неге?» деген сөзінен кейінгі кідірісте Жандостың иығы үстінен түсірілген кадрға кесу.
 - **G04 → G05:** Есік арқылы өту: спорт кешенінің шыны есігі ашылып, Жандос шығады; ойнақы әуен екі клипке ортақ.

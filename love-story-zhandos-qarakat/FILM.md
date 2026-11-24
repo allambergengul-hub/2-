@@ -455,15 +455,15 @@ The opening of the film: a women's volleyball game has just ended and the player
 CHARACTER IDENTITY:
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
 - ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; long oval face; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead (not swept back, not short and neat on top); straight thick dark eyebrows, narrow calm dark-brown eyes, straight nose, natural light skin with a few small dark moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
-- QARAKAT'S TEAMMATES (supporting, kept at mid-distance or soft focus): two or three young women in mixed training wear — black leggings, white and grey T-shirts, sports bags. None of them wears a dark-navy hoodie, a high bun or hoop earrings.
-- ZHANDOS'S TWO FRIENDS (supporting, generic faces, never in close-up): FRIEND 1 — buzz-cut black hair, grey pullover hoodie, black joggers; FRIEND 2 — black baseball cap, dark-green zip-up track jacket, black joggers.
+- QARAKAT'S TWO TEAMMATES (supporting, kept at mid-distance or soft focus): young women in plain white T-shirts and black leggings with white sneakers — no hoodies, no high bun, no hoop earrings, nothing that looks like Qarakat or Arai.
+- ZHANDOS'S TWO FRIENDS (supporting, generic faces, never in close-up, no jewellery or necklaces): FRIEND 1 — buzz-cut black hair, plain grey pullover hoodie, black joggers; FRIEND 2 — black baseball cap, dark-green zip-up track jacket, black joggers.
 
 WARDROBE & PROPS:
 - Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose medium heather-grey jogger sweatpants with elastic cuffs — clearly grey, visibly darker than her white sneakers, not white, not cream, not beige, plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged; she carries no bag or backpack.
 - Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
 
 LOCATION & ENVIRONMENT:
-An indoor volleyball gym in the evening: honey-coloured polished wooden floor with white court lines, a volleyball net across the middle, pale grey-green walls, tall windows high up showing a dark evening sky, wooden bleachers along the right wall, exit double doors in the left wall. Screen direction: the exit is always screen-left, the bleachers screen-right.
+A mid-size indoor volleyball gym in the evening. Floor: honey-coloured polished wooden boards with white court lines. Back wall: six rows of plain wooden bench bleachers on grey metal frames, completely empty and open — nothing hangs in front of them. Above the bleachers: a row of tall windows, dark with evening. Walls: pale beige. Ceiling: square white LED panels. LEFT end wall: a grey metal double exit door with a small green exit sign above it. The volleyball net is NOT visible anywhere in this shot — it stands far to the right, outside the frame; there is no net or mesh in front of the bleachers, behind the people or across the seats. Exactly one volleyball (white, blue and yellow). No people other than those named in the shot. Screen direction: the exit is always screen-left, the bleachers along the back; Zhandos and his friends stand at the right end of the bleachers.
 
 ACTION — ONE CONTINUOUS TAKE:
 Opening frame: low angle near the floor — a volleyball already lying on the polished wooden floor in the foreground bounces twice, low, and rolls out of frame screen-left — nobody throws it. Behind it the women's team is collecting their bags after the game. Qarakat, mid-ground and slightly right of centre, carrying nothing, walks from right to left across the frame, side-on to the camera, toward the exit doors with two teammates, laughing at something one of them says. In the soft background at screen-right, by the bleachers, Zhandos stands with his two friends, small in frame. As the girls pass, Zhandos turns his head to look at Qarakat. Final frame: Qarakat and her teammates walking out of frame screen-left; Zhandos, small and soft in the background at screen-right, looking after her.
@@ -484,7 +484,7 @@ CONTINUITY:
 Evening. Qarakat moves right-to-left toward the exit (screen-left); Zhandos and his friends stay by the bleachers at screen-right. The next shot is Zhandos noticing her. Identity anchors: Qarakat keeps her exact face, the high round bun and the silver hoop earrings; Zhandos keeps his exact face and hair; outfits exactly as listed above.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects, a crowd of extra players, a second woman with a high bun and silver hoop earrings, readable signs on the walls.
@@ -502,13 +502,13 @@ Zhandos notices Qarakat for the first time — the moment the love story begins.
 
 CHARACTER IDENTITY:
 - ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; long oval face; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead (not swept back, not short and neat on top); straight thick dark eyebrows, narrow calm dark-brown eyes, straight nose, natural light skin with a few small dark moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
-- ZHANDOS'S TWO FRIENDS (supporting, generic faces, never in close-up): FRIEND 1 — buzz-cut black hair, grey pullover hoodie, black joggers; FRIEND 2 — black baseball cap, dark-green zip-up track jacket, black joggers.
+- ZHANDOS'S TWO FRIENDS (supporting, generic faces, never in close-up, no jewellery or necklaces): FRIEND 1 — buzz-cut black hair, plain grey pullover hoodie, black joggers; FRIEND 2 — black baseball cap, dark-green zip-up track jacket, black joggers.
 
 WARDROBE & PROPS:
 - Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
 
 LOCATION & ENVIRONMENT:
-An indoor volleyball gym in the evening: honey-coloured polished wooden floor with white court lines, a volleyball net across the middle, pale grey-green walls, tall windows high up showing a dark evening sky, wooden bleachers along the right wall, exit double doors in the left wall. Screen direction: the exit is always screen-left, the bleachers screen-right.
+A mid-size indoor volleyball gym in the evening. Floor: honey-coloured polished wooden boards with white court lines. Back wall: six rows of plain wooden bench bleachers on grey metal frames, completely empty and open — nothing hangs in front of them. Above the bleachers: a row of tall windows, dark with evening. Walls: pale beige. Ceiling: square white LED panels. LEFT end wall: a grey metal double exit door with a small green exit sign above it. The volleyball net is NOT visible anywhere in this shot — it stands far to the right, outside the frame; there is no net or mesh in front of the bleachers, behind the people or across the seats. Exactly one volleyball (white, blue and yellow). No people other than those named in the shot. Screen direction: the exit is always screen-left, the bleachers along the back; Zhandos and his friends stand at the right end of the bleachers.
 
 ACTION — ONE CONTINUOUS TAKE:
 Opening frame: medium shot of Zhandos standing by the bleachers, laughing at a friend's joke; his two friends' shoulders are at the frame edges. His eyes drift screen-left and stop. His laugh fades, his lips part slightly, he blinks once, and his gaze slowly follows someone moving further screen-left (Qarakat walking to the exit, off-screen). The camera pushes in slowly from a medium shot to a close-up of his face. In the last two seconds, without looking away, he says quietly in Kazakh: "Анау қыз кім өзі?" Final frame: close-up of Zhandos, eyes fixed screen-left, a faint hopeful curiosity on his face.
@@ -529,7 +529,7 @@ CONTINUITY:
 Same evening gym. Eyeline always screen-left, toward the exit where Qarakat walks. The next shot is his friends answering. Identity anchors: Zhandos keeps his exact face and hair; outfits exactly as listed above.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects.
@@ -546,13 +546,13 @@ Zhandos's friends tell him the girl is Qarakat, an acquaintance of theirs — bu
 
 CHARACTER IDENTITY:
 - ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; long oval face; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead (not swept back, not short and neat on top); straight thick dark eyebrows, narrow calm dark-brown eyes, straight nose, natural light skin with a few small dark moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
-- ZHANDOS'S TWO FRIENDS (supporting, generic faces, never in close-up): FRIEND 1 — buzz-cut black hair, grey pullover hoodie, black joggers; FRIEND 2 — black baseball cap, dark-green zip-up track jacket, black joggers.
+- ZHANDOS'S TWO FRIENDS (supporting, generic faces, never in close-up, no jewellery or necklaces): FRIEND 1 — buzz-cut black hair, plain grey pullover hoodie, black joggers; FRIEND 2 — black baseball cap, dark-green zip-up track jacket, black joggers.
 
 WARDROBE & PROPS:
 - Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
 
 LOCATION & ENVIRONMENT:
-An indoor volleyball gym in the evening: honey-coloured polished wooden floor with white court lines, a volleyball net across the middle, pale grey-green walls, tall windows high up showing a dark evening sky, wooden bleachers along the right wall, exit double doors in the left wall. Screen direction: the exit is always screen-left, the bleachers screen-right.
+A mid-size indoor volleyball gym in the evening. Floor: honey-coloured polished wooden boards with white court lines. Back wall: six rows of plain wooden bench bleachers on grey metal frames, completely empty and open — nothing hangs in front of them. Above the bleachers: a row of tall windows, dark with evening. Walls: pale beige. Ceiling: square white LED panels. LEFT end wall: a grey metal double exit door with a small green exit sign above it. The volleyball net is NOT visible anywhere in this shot — it stands far to the right, outside the frame; there is no net or mesh in front of the bleachers, behind the people or across the seats. Exactly one volleyball (white, blue and yellow). No people other than those named in the shot. Screen direction: the exit is always screen-left, the bleachers along the back; Zhandos and his friends stand at the right end of the bleachers.
 
 ACTION — ONE CONTINUOUS TAKE:
 Opening frame: a medium three-shot by the bleachers — FRIEND 1 (buzz-cut, grey hoodie) at screen-left, Zhandos centre-right, FRIEND 2 (black cap, dark-green track jacket) at screen-right. Friend 1 follows Zhandos's gaze screen-left and answers casually. Zhandos turns to him quickly and asks, eager. Friend 2 shrugs and shakes his head as he answers. Zhandos glances back toward the exit, makes a decision and takes a first quick step screen-left. Final frame: Zhandos stepping out of frame screen-left; the two friends exchange an amused look.
@@ -573,7 +573,7 @@ CONTINUITY:
 Zhandos exits screen-left, toward the exit; in the next shot he comes out of the building still moving screen-left. Identity anchors: Zhandos keeps his exact face and hair; outfits exactly as listed above.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects.
@@ -591,7 +591,7 @@ Zhandos runs out after Qarakat, but she has already left in a taxi with her frie
 CHARACTER IDENTITY:
 - ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; long oval face; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead (not swept back, not short and neat on top); straight thick dark eyebrows, narrow calm dark-brown eyes, straight nose, natural light skin with a few small dark moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
-- QARAKAT'S TEAMMATES (supporting, kept at mid-distance or soft focus): two or three young women in mixed training wear — black leggings, white and grey T-shirts, sports bags. None of them wears a dark-navy hoodie, a high bun or hoop earrings.
+- QARAKAT'S TWO TEAMMATES (supporting, kept at mid-distance or soft focus): young women in plain white T-shirts and black leggings with white sneakers — no hoodies, no high bun, no hoop earrings, nothing that looks like Qarakat or Arai.
 
 WARDROBE & PROPS:
 - Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
@@ -619,7 +619,7 @@ CONTINUITY:
 Night. Everything moves screen-left (the taxi and Zhandos), continuing the direction from inside the gym. Identity anchors: Zhandos keeps his exact face and hair; Qarakat keeps her exact face, the high round bun and the silver hoop earrings; outfits exactly as listed above.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects, readable licence plates, readable taxi branding.
@@ -640,7 +640,7 @@ CHARACTER IDENTITY:
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
 - ARAI (CHARACTER_C): a young Kazakh woman in her twenties with East Asian features; soft rounded face with a warm smile and light freckles across her nose and cheeks, defined dark brows, dark-brown almond eyes; long voluminous curly chestnut-brown hair tied in a high curly ponytail tied with a black hair tie, loose curly strands framing her face. Signature details, keep in every frame: the freckles and the curly chestnut ponytail. Use supplied reference image 3 (her character sheet) as the identity reference and preserve her exact face and features.
 - ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; long oval face; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead (not swept back, not short and neat on top); straight thick dark eyebrows, narrow calm dark-brown eyes, straight nose, natural light skin with a few small dark moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
-- QARAKAT'S TEAMMATES (supporting, kept at mid-distance or soft focus): two or three young women in mixed training wear — black leggings, white and grey T-shirts, sports bags. None of them wears a dark-navy hoodie, a high bun or hoop earrings.
+- QARAKAT'S TWO TEAMMATES (supporting, kept at mid-distance or soft focus): young women in plain white T-shirts and black leggings with white sneakers — no hoodies, no high bun, no hoop earrings, nothing that looks like Qarakat or Arai.
 
 WARDROBE & PROPS:
 - Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose medium heather-grey jogger sweatpants with elastic cuffs — clearly grey, visibly darker than her white sneakers, not white, not cream, not beige, plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged; she carries no bag or backpack.
@@ -669,7 +669,7 @@ CONTINUITY:
 Daytime, the next day. Qarakat exits screen-right. Arai and Qarakat must look clearly different: curly chestnut ponytail and cream hoodie versus high black bun and navy hoodie. Identity anchors: Qarakat keeps her exact face, the high round bun and the silver hoop earrings; Arai keeps her exact face, freckles and the curly chestnut ponytail; Zhandos keeps his exact face and hair; outfits exactly as listed above.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects, readable café name or menu text.
@@ -714,7 +714,7 @@ CONTINUITY:
 Zhandos always screen-left, Arai screen-right. Daylight, the café front behind them. Identity anchors: Zhandos keeps his exact face and hair; Arai keeps her exact face, freckles and the curly chestnut ponytail; outfits exactly as listed above.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects.
@@ -759,7 +759,7 @@ CONTINUITY:
 Arai exits screen-right; in the next shot she keeps the same direction as she walks up to Qarakat. Identity anchors: Zhandos keeps his exact face and hair; Arai keeps her exact face, freckles and the curly chestnut ponytail; outfits exactly as listed above.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects.
@@ -804,7 +804,7 @@ CONTINUITY:
 Daytime, the same day. The two women must stay clearly different: Qarakat — high black bun, silver hoops, navy hoodie; Arai — curly chestnut ponytail, freckles, cream hoodie. Identity anchors: Arai keeps her exact face, freckles and the curly chestnut ponytail; Qarakat keeps her exact face, the high round bun and the silver hoop earrings; outfits exactly as listed above.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects.
@@ -824,7 +824,7 @@ The third day: Zhandos comes out of the volleyball hall, spots Arai and asks wha
 CHARACTER IDENTITY:
 - ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; long oval face; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead (not swept back, not short and neat on top); straight thick dark eyebrows, narrow calm dark-brown eyes, straight nose, natural light skin with a few small dark moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 - ARAI (CHARACTER_C): a young Kazakh woman in her twenties with East Asian features; soft rounded face with a warm smile and light freckles across her nose and cheeks, defined dark brows, dark-brown almond eyes; long voluminous curly chestnut-brown hair tied in a high curly ponytail tied with a black hair tie, loose curly strands framing her face. Signature details, keep in every frame: the freckles and the curly chestnut ponytail. Use supplied reference image 3 (her character sheet) as the identity reference and preserve her exact face and features.
-- ZHANDOS'S TWO FRIENDS (supporting, generic faces, never in close-up): FRIEND 1 — buzz-cut black hair, grey pullover hoodie, black joggers; FRIEND 2 — black baseball cap, dark-green zip-up track jacket, black joggers.
+- ZHANDOS'S TWO FRIENDS (supporting, generic faces, never in close-up, no jewellery or necklaces): FRIEND 1 — buzz-cut black hair, plain grey pullover hoodie, black joggers; FRIEND 2 — black baseball cap, dark-green zip-up track jacket, black joggers.
 
 WARDROBE & PROPS:
 - Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
@@ -852,7 +852,7 @@ CONTINUITY:
 Third day, late afternoon. Zhandos screen-left, Arai screen-right — the same sides as at the café. Identity anchors: Zhandos keeps his exact face and hair; Arai keeps her exact face, freckles and the curly chestnut ponytail; outfits exactly as listed above.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects.
@@ -870,7 +870,7 @@ Zhandos tries to buy Qarakat's number from Arai with money; Arai plays hard to g
 CHARACTER IDENTITY:
 - ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; long oval face; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead (not swept back, not short and neat on top); straight thick dark eyebrows, narrow calm dark-brown eyes, straight nose, natural light skin with a few small dark moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 - ARAI (CHARACTER_C): a young Kazakh woman in her twenties with East Asian features; soft rounded face with a warm smile and light freckles across her nose and cheeks, defined dark brows, dark-brown almond eyes; long voluminous curly chestnut-brown hair tied in a high curly ponytail tied with a black hair tie, loose curly strands framing her face. Signature details, keep in every frame: the freckles and the curly chestnut ponytail. Use supplied reference image 3 (her character sheet) as the identity reference and preserve her exact face and features.
-- ZHANDOS'S TWO FRIENDS (supporting, generic faces, never in close-up): FRIEND 1 — buzz-cut black hair, grey pullover hoodie, black joggers; FRIEND 2 — black baseball cap, dark-green zip-up track jacket, black joggers.
+- ZHANDOS'S TWO FRIENDS (supporting, generic faces, never in close-up, no jewellery or necklaces): FRIEND 1 — buzz-cut black hair, plain grey pullover hoodie, black joggers; FRIEND 2 — black baseball cap, dark-green zip-up track jacket, black joggers.
 
 WARDROBE & PROPS:
 - Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
@@ -898,7 +898,7 @@ CONTINUITY:
 Same positions as the previous shot. The banknotes are plain folded paper money in his right hand. The next shot starts with Arai's palm still open. Identity anchors: Zhandos keeps his exact face and hair; Arai keeps her exact face, freckles and the curly chestnut ponytail; outfits exactly as listed above.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects, close-up readable or fake-looking banknote designs.
@@ -943,7 +943,7 @@ CONTINUITY:
 Arai exits screen-right. Late-afternoon golden light from screen-left. Phone screens are never readable. Identity anchors: Zhandos keeps his exact face and hair; Arai keeps her exact face, freckles and the curly chestnut ponytail; outfits exactly as listed above.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects, readable phone screens or numbers.
@@ -986,7 +986,7 @@ CONTINUITY:
 Same late afternoon. The phone stays in his right hand. Identity anchors: Zhandos keeps his exact face and hair; outfits exactly as listed above.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects, readable phone screen.
@@ -1031,7 +1031,7 @@ CONTINUITY:
 Same day, evening. The phone screen faces him and is never readable — the messages are added as graphics in editing. Identity anchors: Zhandos keeps his exact face and hair; outfits exactly as listed above.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects, readable phone screen or on-screen text.
@@ -1075,7 +1075,7 @@ CONTINUITY:
 Evening. The phone screen is never readable. Identity anchors: Qarakat keeps her exact face, the high round bun and the silver hoop earrings; outfits exactly as listed above.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects, readable phone screen.
@@ -1118,7 +1118,7 @@ CONTINUITY:
 Several days later, daytime. The phone screen is never readable. Identity anchors: Zhandos keeps his exact face and hair; outfits exactly as listed above.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects, readable phone screen.
@@ -1164,7 +1164,7 @@ CONTINUITY:
 The same park alley as before, another day. Arai screen-left, Qarakat screen-right; the two women stay clearly different. Identity anchors: Arai keeps her exact face, freckles and the curly chestnut ponytail; Qarakat keeps her exact face, the high round bun and the silver hoop earrings; outfits exactly as listed above.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects.
@@ -1207,7 +1207,7 @@ CONTINUITY:
 The same evening as the park walk. The phone screen is never readable. Identity anchors: Qarakat keeps her exact face, the high round bun and the silver hoop earrings; outfits exactly as listed above.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects, readable phone screen.
@@ -1250,7 +1250,7 @@ CONTINUITY:
 Evening. The phone screen is never readable. His typing here is the invitation to a first date. Identity anchors: Zhandos keeps his exact face and hair; outfits exactly as listed above.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects, readable phone screen.
@@ -1295,7 +1295,7 @@ CONTINUITY:
 Date day. Her reflection must match her exactly; keep her face as in the reference. Identity anchors: Qarakat keeps her exact face, the high round bun and the silver hoop earrings; outfits exactly as listed above.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects, mismatched mirror reflection, a second person in the room.
@@ -1338,7 +1338,7 @@ CONTINUITY:
 First-date evening. Eyeline screen-right — Qarakat arrives from screen-right in the next shot. Identity anchors: Zhandos keeps his exact face and hair; outfits exactly as listed above.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects, readable cinema signage or film posters.
@@ -1383,7 +1383,7 @@ CONTINUITY:
 From this shot to the end of the film Zhandos is always screen-left and Qarakat screen-right whenever they are together. Identity anchors: Zhandos keeps his exact face and hair; Qarakat keeps her exact face, the high round bun and the silver hoop earrings; outfits exactly as listed above.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects, readable signage, film posters.
@@ -1428,7 +1428,7 @@ CONTINUITY:
 Date evening. Zhandos screen-left, Qarakat screen-right. Identity anchors: Zhandos keeps his exact face and hair; Qarakat keeps her exact face, the high round bun and the silver hoop earrings; outfits exactly as listed above.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects, the cinema screen or any film footage visible in frame.
@@ -1473,7 +1473,7 @@ CONTINUITY:
 Same date evening. Zhandos screen-left, Qarakat screen-right. Identity anchors: Zhandos keeps his exact face and hair; Qarakat keeps her exact face, the high round bun and the silver hoop earrings; outfits exactly as listed above.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects.
@@ -1518,7 +1518,7 @@ CONTINUITY:
 Same date evening. Book covers and spines are plain and unreadable. Identity anchors: Zhandos keeps his exact face and hair; Qarakat keeps her exact face, the high round bun and the silver hoop earrings; outfits exactly as listed above.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects, readable book titles or text.
@@ -1563,7 +1563,7 @@ CONTINUITY:
 Night, the end of the first date. Zhandos screen-left, Qarakat screen-right. Identity anchors: Zhandos keeps his exact face and hair; Qarakat keeps her exact face, the high round bun and the silver hoop earrings; outfits exactly as listed above.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects.
@@ -1606,7 +1606,7 @@ CONTINUITY:
 Same night. Identity anchors: Zhandos keeps his exact face and hair; outfits exactly as listed above.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects.
@@ -1651,7 +1651,7 @@ CONTINUITY:
 Night. He faces screen-right, mirrored by Qarakat facing screen-left in the paired shot. Identity anchors: Zhandos keeps his exact face and hair; outfits exactly as listed above.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects.
@@ -1694,7 +1694,7 @@ CONTINUITY:
 Night. She faces screen-left, mirroring Zhandos. Identity anchors: Qarakat keeps her exact face, the high round bun and the silver hoop earrings; outfits exactly as listed above.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects.
@@ -1739,7 +1739,7 @@ CONTINUITY:
 Daytime. The horses walk calmly with a realistic gait. Identity anchors: Zhandos keeps his exact face and hair; Qarakat keeps her exact face, the high round bun and the silver hoop earrings; outfits exactly as listed above.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects, unnatural horse legs or gait, extra riders.
@@ -1784,7 +1784,7 @@ CONTINUITY:
 Night. The TV screen is never visible. Identity anchors: Zhandos keeps his exact face and hair; Qarakat keeps her exact face, the high round bun and the silver hoop earrings; outfits exactly as listed above.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects, the TV screen or any film footage in frame, recognisable film characters or logos.
@@ -1830,7 +1830,7 @@ CONTINUITY:
 Daytime. Identity anchors: Zhandos keeps his exact face and hair; Qarakat keeps her exact face, the high round bun and the silver hoop earrings; outfits exactly as listed above.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects.
@@ -1875,7 +1875,7 @@ CONTINUITY:
 Night. Their hands are joined between them (his left hand, her right hand). Identity anchors: Zhandos keeps his exact face and hair; Qarakat keeps her exact face, the high round bun and the silver hoop earrings; outfits exactly as listed above.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects, readable shop signs.
@@ -1922,7 +1922,7 @@ CONTINUITY:
 Sunset. Zhandos always screen-left, Qarakat always screen-right. The sea is in front of them. Identity anchors: Zhandos keeps his exact face and hair; Qarakat keeps her exact face, the high round bun and the silver hoop earrings; outfits exactly as listed above.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects, other people on the beach, lens flares, oversaturated sky.
@@ -1967,7 +1967,7 @@ CONTINUITY:
 Sunset, same picnic. Zhandos screen-left facing right; Qarakat screen-right facing left (her shoulder in the foreground). Identity anchors: Zhandos keeps his exact face and hair; Qarakat keeps her exact face, the high round bun and the silver hoop earrings; outfits exactly as listed above.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects.
@@ -2012,7 +2012,7 @@ CONTINUITY:
 Sunset, same picnic. Qarakat screen-right facing left. Identity anchors: Qarakat keeps her exact face, the high round bun and the silver hoop earrings; Zhandos keeps his exact face and hair; outfits exactly as listed above.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects.
@@ -2057,7 +2057,7 @@ CONTINUITY:
 Sunset. The ring is a simple gold band with a small stone. Identity anchors: Zhandos keeps his exact face and hair; Qarakat keeps her exact face, the high round bun and the silver hoop earrings; outfits exactly as listed above.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects, an oversized or glowing ring, magical sparkles.
@@ -2102,7 +2102,7 @@ CONTINUITY:
 Sunset. From now on the ring stays on her ring finger. Identity anchors: Qarakat keeps her exact face, the high round bun and the silver hoop earrings; Zhandos keeps his exact face and hair; outfits exactly as listed above.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects, distorted fingers, the ring changing shape, extra hands.
@@ -2147,7 +2147,7 @@ CONTINUITY:
 Sunset. The ring on her finger. Zhandos on the left, Qarakat on the right. Identity anchors: Zhandos keeps his exact face and hair; Qarakat keeps her exact face, the high round bun and the silver hoop earrings; outfits exactly as listed above.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects, lens flares, other people on the beach, a drone circling them.
@@ -2193,7 +2193,7 @@ CONTINUITY:
 Wedding day. She faces screen-right in the mirror composition. Identity anchors: Qarakat keeps her exact face, the high round bun and the silver hoop earrings; outfits exactly as listed above.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects, mismatched mirror reflection, the helper's face.
@@ -2236,7 +2236,7 @@ CONTINUITY:
 Wedding day. He faces screen-left in the mirror composition, mirroring Qarakat's shot. Identity anchors: Zhandos keeps his exact face and hair; outfits exactly as listed above.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects, mismatched mirror reflection.
@@ -2270,7 +2270,7 @@ CONTINUITY:
 Wedding day. Two plain gold bands.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects, people, hands, text on the box, glowing or magical sparkles.
@@ -2310,7 +2310,7 @@ CONTINUITY:
 Wedding day. Only her hands, the bouquet and the gown are in frame. Identity anchors: Qarakat keeps her exact face, the high round bun and the silver hoop earrings; outfits exactly as listed above.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects, distorted fingers.
@@ -2347,7 +2347,7 @@ CONTINUITY:
 Wedding day.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects, fisheye distortion, warped tables or chandeliers, text.
@@ -2388,7 +2388,7 @@ CONTINUITY:
 Wedding day. Zhandos and Qarakat are not in this shot. Everyone looks toward the doors.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects, duplicate faces, distorted hands, text.
@@ -2434,7 +2434,7 @@ CONTINUITY:
 Wedding day. Zhandos screen-left, Qarakat screen-right — the same sides as through the whole second half of the film. Identity anchors: Zhandos keeps his exact face and hair; Qarakat keeps her exact face, the high round bun and the silver hoop earrings; outfits exactly as listed above.
 
 VISUAL QUALITY:
-High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.
+High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition, one continuous take with no dissolves or double exposure. Characters never look into the camera lens; their eyes go to the person or place the action describes.
 
 AVOID:
 Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects, an extra bride or groom, distorted hands, text.
