@@ -28,7 +28,7 @@
 
 | Клип | Тайм-код | Сцена | Не болады | Кадрда | Резерв (FILM.md) |
 |---|---|---|---|---|---|
-| G01 | 00:00–00:15 | 1 | Ойын бітті, Қарақат Арай және бір құрбысымен шығып барады; Жандос оны көріп, бір көргеннен ғашық болады: «Анау қыз кім өзі?» | Жандос, Қарақат, Арай | 01, 02, 03 |
+| G01 | 00:00–00:15 | 1 | Ойынның соңғы ұпайы — Қарақат допты соғады; доп Жандостың аяғына домалап келеді, ол басын көтеріп, оны көреді: «Анау қыз кім өзі?» | Жандос, Қарақат, Арай | 01, 02, 03 |
 | G02 | 00:15–00:30 | 1 | Достарында нөмір жоқ; Жандос сыртқа жүгіреді, бірақ Қарақат Араймен бірге таксиге отырып кетіп қалады. | Жандос, Қарақат, Арай | 03, 04 |
 | G03 | 00:30–00:45 | 2 | Келесі күні Қарақат кафеден кетеді, Арай жалғыз шығады; Жандос онымен танысып, Қарақатты сұрайды. | Жандос, Қарақат, Арай | 05, 06 |
 | G04 | 00:45–01:00 | 2 | Арай нөмірді рұқсатсыз бермейді; саябақта Қарақатқа айтады — Қарақат бас тартады. | Жандос, Қарақат, Арай | 07, 08 |
@@ -53,7 +53,7 @@
 ### 1-сцена · Алғашқы көзқарас
 
 **G01 — Алғашқы көзқарас · 00:00–00:15**  
-Ойын бітті, Қарақат Арай және бір құрбысымен шығып барады; Жандос оны көріп, бір көргеннен ғашық болады: «Анау қыз кім өзі?»  
+Ойынның соңғы ұпайы — Қарақат допты соғады; доп Жандостың аяғына домалап келеді, ол басын көтеріп, оны көреді: «Анау қыз кім өзі?»  
 Кадрда: Жандос, Қарақат, Арай · Жүктеу: 1 — Жандос, 2 — Қарақат, 3 — Арай
 
 ```text
@@ -70,21 +70,23 @@ CHARACTERS & WARDROBE:
 - Zhandos's two friends (never in close-up, no necklaces): FRIEND 1 — buzz-cut, plain grey hoodie, black joggers; FRIEND 2 — black cap, dark-green track jacket, black joggers.
 
 LOCATION: Indoor volleyball gym, evening; same layout in every shot. Honey-coloured wooden court. The NET stretches ACROSS the middle of the court between two padded poles at the sidelines — never in front of the bleachers. Wooden bench bleachers run along the RIGHT side wall. Grey double exit door with a green exit sign in the LEFT side wall. Background: beyond the net, five or six students in red, blue, green or yellow T-shirts pass their own ball; a few sit on the bleachers — small, blurred, never dressed like the main characters.
-SPACE & EYELINES: The boys SIT on the lowest bench of the bleachers on the RIGHT all clip, from frame-left: ZHANDOS, FRIEND 1, FRIEND 2. The three girls start mid-court by the net, far from the boys, and walk to the exit on the LEFT — Qarakat is always to Zhandos's LEFT, Friend 1 to his RIGHT.
+SPACE & EYELINES: The boys SIT on the lowest bench of the bleachers on the RIGHT all clip, from frame-left: ZHANDOS, FRIEND 1, FRIEND 2. The girls play on the near side of the net, then walk to the exit on the LEFT. The girls NEVER look at the boys or the camera and never turn around — they do not notice the boys at all. Qarakat is always to Zhandos's LEFT, Friend 1 to his RIGHT.
 
 TIMELINE:
-0–3 s: SHOT 1 — wide from behind the near end line: net across the middle distance, students practising beyond it, the boys seated on the bench (frame-right), exit door frame-left. A volleyball bounces twice, low, in the foreground. The three girls set off from mid-court and walk side-on toward the exit, laughing: QARAKAT nearest the camera, ARAI beside her, the teammate beyond.
-3–6 s: SHOT 2 — THE MOMENT HE SEES HER. Over-the-shoulder from behind the seated ZHANDOS, his head and shoulder soft in the right foreground. Sharp in the middle distance, Qarakat walks toward the exit with Arai and the teammate; she laughs at something Arai says and tilts her head, the light catching her silver hoop earring. This shot alone plays in a gentle slow motion (about 70% speed) — time slows for him.
-6–9.5 s: SHOT 3 — close-up of ZHANDOS in three-quarter profile facing frame-LEFT, back to real time, no words. He is still half-laughing at his friend's joke when his eyes find her: the laugh stops mid-breath; a tiny double take — his eyes flick away and snap back; they widen a fraction and brighten, catching the light; brows lift, lips part, he forgets to breathe; then a slow, astonished, helpless smile spreads across his face and he swallows.
-9.5–15 s: SHOT 4 — medium shot of the boys on the bench, Zhandos at frame-left, Friend 1 beside him, Friend 2 at frame-right. Eyes still on her, Zhandos gropes for Friend 1's arm and taps it twice; glances at him, looks back toward her (frame-left) and asks in an excited half-whisper: "Анау қыз... кім өзі?" — then snaps his eyes back to Friend 1, eyebrows up, a grin he cannot hide. Friend 1 leans forward to look where he looks, smirks knowingly and answers casually: "Қайсы? Қарақат па? Ол біздің танысымыз ғой." Zhandos turns back toward her, smiling; Friend 2 shakes his head with a grin.
+0–2.5 s: SHOT 1 — ACTION. Low handheld angle at the net: the final point of the girls' game. QARAKAT leaps and spikes the ball hard over the net; it slams into the floor on the far side. She lands; ARAI and the teammate rush in, cheering, and high-five her. Game over.
+2.5–4 s: SHOT 2 — fast insert at floor level: the ball smacks the wooden floor, bounces past the lens and rolls toward the bench.
+4–6.5 s: SHOT 3 — ZHANDOS on the bench, laughing with his friends, stops the rolling ball with his sneaker and glances up — and sees her. Quick push-in to his face: the laugh fades, his eyes soften and stay on her, a small involuntary smile; he lets out a quiet breath.
+6.5–9 s: SHOT 4 — his point of view over his shoulder: Qarakat walks toward the exit with Arai and the teammate, chatting among themselves, their backs to us; she pushes up her sleeves. This shot alone is in gentle slow motion. None of the girls looks back.
+9–10.5 s: SHOT 5 — extreme close-up of Zhandos's eyes following her; he bites his lower lip and smiles to himself, a little shy.
+10.5–15 s: SHOT 6 — medium shot of the boys on the bench. Eyes still on her, Zhandos nudges Friend 1 with his elbow, glances at him, looks back toward her and asks, low and eager: "Анау қыз... кім өзі?" — then back at Friend 1, grinning. Friend 1 leans to look and answers casually: "Қайсы? Қарақат па? Ол біздің танысымыз ғой." Friend 2 shakes his head with a grin.
 
-PERFORMANCE: Romantic-lead acting, readable, never exaggerated: love at first sight told through the eyes, then boyish excitement (tapping his friend, glancing friend–girl–friend). Natural blinking, active brows.
-CAMERA: 24mm wide → 50mm over-the-shoulder (slow motion) → 85mm close-up, slow push-in → 40mm medium; instant hard cuts.
-LIGHTING: Overhead LED panels, warm floor bounce, natural skin; a soft catchlight in Zhandos's eyes in Shot 3.
-SOUND: Ball bounces, squeaking sneakers, distant practice calls; in Shot 2 the sound fades to a hush and one soft piano note rings; normal sound returns in Shot 4. Kazakh dialogue, exact words, slow and clear: "Анау қыз кім өзі?" is four separate words, never merged; "..." is a short pause.
+PERFORMANCE: Natural, understated feeling — the quiet jolt of falling for someone: softened eyes, a small smile he cannot stop, a breath, a lip-bite, restless excitement. No wide-eyed shock, no open mouth, no theatrical gasp. The girls act natural and ignore the boys completely.
+CAMERA: Energetic and fast: handheld action at the net → whip-fast floor insert → quick push-in → over-the-shoulder slow motion → extreme close-up → medium; quick hard cuts on movement; the camera always has some motion except in Shot 5.
+LIGHTING: Overhead LED panels, warm floor bounce, natural skin; a soft catchlight in Zhandos's eyes.
+SOUND: The hard SMACK of the spike, cheers, squeaking sneakers, the ball bouncing; when he sees her the noise drops away to a hush with one soft piano note; normal sound returns in Shot 6. Kazakh dialogue, exact words, slow and clear: "Анау қыз кім өзі?" is four separate words, never merged; "..." is a short pause.
 
-STYLE: Photorealistic live-action romantic film; natural skin with visible pores; real-time motion except the gentle slow motion of Shot 2; realistic hands and physics; motivated light; subtle film grain. Nobody looks into the lens. Instant hard cuts between shots. Each person appears once, never as a grid of the reference sheets.
-AVOID: look-alike faces, changed hair or outfits, distorted hands or extra fingers, duplicate people, character-sheet grids, warped backgrounds, slow motion outside Shot 2, dissolves or double exposures, eye contact with the camera, exaggerated acting, waxy skin, cartoon look, readable text, subtitles, watermarks, extra logos, a net in front of the bleachers, a fourth girl, hair changing between shots, the girls passing the boys, the boys standing up, necklaces on the friends, Qarakat behind Zhandos in his close-up, a blank expression on Zhandos.
+STYLE: Photorealistic live-action romantic film; natural skin with visible pores; real-time motion except the slow motion of Shot 4; realistic hands and physics; motivated light; subtle film grain. Nobody looks into the lens. Instant hard cuts between shots. Each person appears once, never as a grid of the reference sheets.
+AVOID: look-alike faces, changed hair or outfits, distorted hands or extra fingers, duplicate people, character-sheet grids, warped backgrounds, slow motion outside Shot 4, dissolves or double exposures, eye contact with the camera, exaggerated acting, waxy skin, cartoon look, readable text, subtitles, watermarks, extra logos, the girls looking back or laughing toward the boys, a fourth girl on Qarakat's side, shocked or frightened expressions, mouths hanging open, the boys standing up, necklaces on the friends, Qarakat behind Zhandos in his close-ups, static long shots.
 ```
 
 **G02 — Кешікті · 00:15–00:30**  

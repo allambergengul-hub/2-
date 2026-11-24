@@ -477,7 +477,7 @@ LIGHTING & COLOR:
 Even overhead LED panels, neutral white with a warm bounce from the wooden floor; natural skin tones with visible skin texture.
 
 PERFORMANCE & EMOTION:
-Relaxed post-game energy: real, unforced laughter, a little tiredness in the shoulders. Qarakat's smile is small and genuine. Zhandos's head turn is subtle and unhurried.
+Relaxed post-game energy: real, unforced laughter, a little tiredness in the shoulders. Qarakat's smile is small and genuine. The girls never look toward the boys — they do not notice them at all. Zhandos's head turn is subtle and unhurried.
 
 AUDIO:
 Two hollow ball bounces echoing in the gym, sneakers squeaking, the teammates' happy chatter kept low and indistinct (no clear words), gym reverb. No music yet.
@@ -513,7 +513,7 @@ LOCATION & ENVIRONMENT:
 Indoor volleyball gym, evening; keep this layout identical in every shot of the film. A honey-coloured wooden court with white lines. The volleyball NET stretches ACROSS the middle of the court, from the left side wall toward the right side wall, on two padded poles at the sidelines, dividing the court into a near half and a far half — it never hangs in front of the bleachers. Wooden bench bleachers run along the RIGHT side wall. A grey double exit door with a green exit sign is in the LEFT side wall, in the near half. Pale beige walls, tall dark windows high up, square white LED ceiling panels. Background life: in the far half, beyond the net, five or six other students in coloured sports T-shirts (red, blue, green, yellow) with shorts casually practise, passing their own ball over the net; three or four more sit on the bleachers chatting. All background people stay small, soft-focus and anonymous, never look at the camera, never wear white T-shirts with black leggings, and none wears a navy, black three-stripe or cream hoodie, a high bun, a curly ponytail or hoop earrings. Zhandos and his friends sit on the lowest bench at the near end of the bleachers (screen-right); the exit is screen-left.
 
 ACTION — ONE CONTINUOUS TAKE:
-Opening frame: medium shot of Zhandos sitting on the lowest bench of the bleachers, laughing at a friend's joke; his two friends' shoulders are at the frame edges. His eyes drift screen-left and find her: the laugh stops mid-breath; a tiny double take — his eyes flick away and snap back; they widen a fraction and brighten, catching the light; lips part, he forgets to breathe, then a slow, astonished smile spreads as his gaze follows someone moving further screen-left (Qarakat walking to the exit, off-screen). The camera pushes in slowly from a medium shot to a close-up of his face. In the last two seconds he taps his friend's arm, glances at him, looks back toward her and asks in an excited half-whisper in Kazakh: "Анау қыз кім өзі?" Final frame: close-up of Zhandos, eyes fixed screen-left, a faint hopeful curiosity on his face.
+Opening frame: medium shot of Zhandos sitting on the lowest bench of the bleachers, laughing at a friend's joke; his two friends' shoulders are at the frame edges. His eyes drift screen-left and find her: the laugh stops mid-breath; a tiny double take — his eyes flick away and snap back; his eyes soften and stay on her, he lets out a quiet breath, and a small smile he cannot stop spreads as his gaze follows someone moving further screen-left (Qarakat walking to the exit, off-screen). The camera pushes in slowly from a medium shot to a close-up of his face. In the last two seconds he taps his friend's arm, glances at him, looks back toward her and asks in an excited half-whisper in Kazakh: "Анау қыз кім өзі?" Final frame: close-up of Zhandos, eyes fixed screen-left, a faint hopeful curiosity on his face.
 
 CAMERA:
 Starts as a 50mm medium shot at eye level and pushes in slowly on a dolly to an 85mm-feel close-up; shallow depth of field, the gym lights behind him melting into soft bokeh; composed slightly right of centre, leaving looking room on the left.
@@ -522,7 +522,7 @@ LIGHTING & COLOR:
 Overhead LED panels with a soft edge light from the gym lights behind him; natural skin tones with visible skin texture.
 
 PERFORMANCE & EMOTION:
-Romantic-lead acting, readable but never exaggerated: love at first sight told through the eyes — widening, brightening, a held breath, a disbelieving smile — then boyish excitement as he taps his friend and glances friend–girl–friend.
+Natural, understated feeling — the quiet jolt of falling for someone: softened eyes, a small smile he cannot stop, a breath, then boyish excitement as he taps his friend and glances friend–girl–friend. No wide-eyed shock, no open mouth, no theatrical gasp.
 
 AUDIO:
 The gym noise and the friends' chatter gradually muffle as the camera moves in; a soft single piano note enters around the midpoint. Kazakh dialogue, spoken in Kazakh with these exact words — ZHANDOS (quiet, almost to himself, curious, slow and clearly articulated — four separate words, never merged): "Анау қыз... кім өзі?"
