@@ -13,18 +13,18 @@ ASPECT = "16:9"
 CHAR = {
     "ZH": dict(
         kk="Жандос", ref=1,
-        short="ZHANDOS (man, ref image 1): twenties, tall and lean, thick messy jet-black hair, calm dark eyes, small moles on his cheeks; keep his exact face from the reference.",
-        id='''ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; long oval face; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead (not swept back, not short and neat on top); straight thick dark eyebrows, narrow calm dark-brown eyes, straight nose, natural light skin with a few small dark moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.''',
+        short="ZHANDOS (man, ref image 1): twenties, 178 cm, lean, thick messy jet-black hair, calm dark eyes, small moles on his cheeks; keep his exact face from the reference.",
+        id='''ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; 178 cm tall, lean build, upright relaxed posture; long oval face; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead (not swept back, not short and neat on top); straight thick dark eyebrows, narrow calm dark-brown eyes, straight nose, natural light skin with a few small dark moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.''',
     ),
     "QA": dict(
         kk="Қарақат", ref=2,
-        short="QARAKAT (woman, ref image 2): twenties, slim, jet-black hair in a high round bun, large thin silver hoop earrings, calm almond eyes; keep her exact face from the reference.",
-        id='''QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.''',
+        short="QARAKAT (woman, ref image 2): twenties, 165 cm, slim, jet-black hair in a high round bun, large thin silver hoop earrings, calm almond eyes; keep her exact face from the reference.",
+        id='''QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; 165 cm tall, slim build (13 cm shorter than Zhandos); jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.''',
     ),
     "AR": dict(
         kk="Арай", ref=3,
-        short="ARAI (woman, ref image 3): twenties, freckles, long curly chestnut-brown hair in a high ponytail; keep her exact face from the reference.",
-        id='''ARAI (CHARACTER_C): a young Kazakh woman in her twenties with East Asian features; soft rounded face with a warm smile and light freckles across her nose and cheeks, defined dark brows, dark-brown almond eyes; long voluminous curly chestnut-brown hair tied in a high curly ponytail tied with a black hair tie, loose curly strands framing her face. Signature details, keep in every frame: the freckles and the curly chestnut ponytail. Use supplied reference image 3 (her character sheet) as the identity reference and preserve her exact face and features.''',
+        short="ARAI (woman, ref image 3): twenties, 170 cm, freckles, long curly chestnut-brown hair in a high ponytail; keep her exact face from the reference.",
+        id='''ARAI (CHARACTER_C): a young Kazakh woman in her twenties with East Asian features; 170 cm tall; soft rounded face with a warm smile and light freckles across her nose and cheeks, defined dark brows, dark-brown almond eyes; long voluminous curly chestnut-brown hair tied in a high curly ponytail tied with a black hair tie, loose curly strands framing her face. Signature details, keep in every frame: the freckles and the curly chestnut ponytail. Use supplied reference image 3 (her character sheet) as the identity reference and preserve her exact face and features.''',
     ),
 }
 

@@ -8,9 +8,9 @@ Run:  python3 build_grok.py
 import os
 
 ID = {
-    "ZH": '''ZHANDOS (@image1): exact face, hair and build from @image1, never a look-alike — twenties, tall and lean, long oval face, straight thick brows, narrow calm dark eyes, small dark moles on his cheeks, clean-shaven; thick messy jet-black hair falling forward over his forehead (not swept back, not short and neat).''',
-    "QA": '''QARAKAT (@image2): exact face and build from @image2, never a look-alike — twenties, slim, a little shorter than Zhandos; jet-black hair always in a high round bun; calm almond-shaped dark eyes; large thin silver hoop earrings in every shot.''',
-    "AR": '''ARAI (@image3): exact face and build from @image3, never a look-alike — twenties, warm smile, light freckles, long curly chestnut-brown hair in a high ponytail with a black hair tie.''',
+    "ZH": '''ZHANDOS (@image1): exact face, hair and build from @image1, never a look-alike — twenties, 178 cm, lean, long oval face, straight thick brows, narrow calm dark eyes, small dark moles on his cheeks, clean-shaven; thick messy jet-black hair falling forward over his forehead (not swept back, not short and neat).''',
+    "QA": '''QARAKAT (@image2): exact face and build from @image2, never a look-alike — twenties, 165 cm, slim (13 cm shorter than Zhandos); jet-black hair always in a high round bun; calm almond-shaped dark eyes; large thin silver hoop earrings in every shot.''',
+    "AR": '''ARAI (@image3): exact face and build from @image3, never a look-alike — twenties, 170 cm, warm smile, light freckles, long curly chestnut-brown hair in a high ponytail with a black hair tie.''',
 }
 KK = {"ZH": "Жандос", "QA": "Қарақат", "AR": "Арай"}
 ORDER = ["ZH", "QA", "AR"]
