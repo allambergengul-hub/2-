@@ -8,7 +8,7 @@ Run:  python3 build_grok.py
 import os
 
 ID = {
-    "ZH": '''ZHANDOS (@image1): the young man from @image1 — keep his exact face, facial structure, hair and body proportions; never a look-alike. Twenties, tall and lean, thick slightly messy jet-black hair, calm dark-brown eyes, a few small moles on his cheeks, clean-shaven.''',
+    "ZH": '''ZHANDOS (@image1): the young man from @image1 — keep his exact face, facial structure, hair and body proportions; never a look-alike. Twenties, tall and lean; long oval face, straight thick dark eyebrows, narrow calm dark-brown eyes, a few small dark moles on his cheeks, clean-shaven; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead, exactly as in @image1 — not swept back, not short and neat on top.''',
     "QA": '''QARAKAT (@image2): the young woman from @image2 — keep her exact face, facial structure and body proportions; never a look-alike. Twenties, slim, a little shorter than Zhandos; jet-black hair always pulled back into a high round bun; calm almond-shaped dark eyes; large thin silver hoop earrings in every shot.''',
     "AR": '''ARAI (@image3): the young woman from @image3 — keep her exact face and body proportions; never a look-alike. Twenties, warm smiley face with light freckles, long curly chestnut-brown hair in a high curly ponytail tied with a black hair tie.''',
 }
@@ -16,7 +16,7 @@ KK = {"ZH": "Жандос", "QA": "Қарақат", "AR": "Арай"}
 ORDER = ["ZH", "QA", "AR"]
 
 ZH_REF = "exactly the outfit from @image1, unchanged: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes"
-QA_REF = "exactly the outfit from @image2, unchanged: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs, plain white low-top sneakers"
+QA_REF = "exactly the outfit from @image2, unchanged: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs (medium-light grey, not white, not cream), plain white low-top sneakers; she carries no bag or backpack"
 AR_REF = "exactly the outfit from @image3, unchanged: oversized cream-ivory hoodie with pale-pink drawstrings and a small pale-pink heart on the left chest, black track pants with two white side stripes, pink-and-white low-top sneakers"
 WARD = {
     "ZH_SPORT": ZH_REF, "ZH_DATE": ZH_REF, "ZH_SEA": ZH_REF,
@@ -43,13 +43,13 @@ G(n=1, scene=1, kk="Алғашқы көзқарас", en="The First Look",
   cast=[("ZH", "ZH_SPORT"), ("QA", "QA_SPORT")], extra=[TEAM, FRIENDS],
   sum="Ойын бітті, Қарақат құрбыларымен шығып барады; Жандос оны көріп қалады: «Анау қыз кім өзі?»",
   loc="An indoor volleyball gym in the evening: polished honey-coloured wooden floor with white court lines, a net, wooden bleachers along the right wall, exit doors on the left, dark windows high up.",
-  tl=[("0–5 s", "Low angle at floor level: a volleyball bounces twice on the wooden floor and rolls out of frame. The women's game has just ended; QARAKAT slings her sports bag over her shoulder and walks screen-left toward the exit with two teammates, laughing. The camera tracks slowly left with them."),
-      ("5–10 s", "CUT TO a medium shot of ZHANDOS by the bleachers at screen-right, laughing with his two friends. His eyes drift screen-left and stop on Qarakat; his laugh fades and he blinks once. The camera pushes in slowly to a close-up of his face as the gym noise fades."),
-      ("10–15 s", 'Close-up, eyes still on her, Zhandos says quietly: "Анау қыз кім өзі?" CUT TO a medium three-shot: FRIEND 1 follows his gaze and answers casually: "Қайсы? Қарақат па? Ол біздің танысымыз ғой." Final frame: Zhandos turning to his friend, interested.')],
+  tl=[("0–5 s", "Wide shot from the edge of the court at floor level. A white-and-blue volleyball already lying on the floor in the foreground bounces twice, low, and rolls out of frame screen-left — nobody throws it. The women's game has just ended: QARAKAT and two teammates walk from screen-RIGHT to screen-LEFT across the frame, side-on to the camera, toward the exit double doors in the LEFT wall, laughing. Qarakat carries nothing. Far in the background at screen-right, ZHANDOS and his two friends stand still by the bleachers, small in frame — they stay there and do not walk onto the court."),
+      ("5–10 s", "CUT TO a medium shot of ZHANDOS standing by the bleachers, laughing with his two friends. His eyes drift screen-left and stop on Qarakat, who is soft in the background still walking left toward the exit; his laugh fades and he blinks once. The camera pushes in slowly to a close-up of his face as the gym noise fades."),
+      ("10–15 s", 'Close-up, eyes still on her, Zhandos says quietly and slowly, every word clear and separate: "Анау қыз... кім өзі?" CUT TO a medium three-shot: FRIEND 1 — the buzz-cut friend in the grey hoodie at screen-left — follows his gaze and answers casually: "Қайсы? Қарақат па? Ол біздің танысымыз ғой." FRIEND 2 (black cap, screen-right) stays silent and smiles. Final frame: Zhandos turning to Friend 1, interested.')],
   cam="35mm wide tracking shot, then a slow 50→85mm push-in on Zhandos, then a 40mm three-shot with gentle handheld breathing; shallow depth of field.",
   light="Even overhead LED panels, warm bounce from the wooden floor, natural skin tones.",
-  sound="Two hollow ball bounces echoing, sneakers squeaking, indistinct happy chatter (no clear words); the gym reverb fades as one soft piano note begins. Dialogue in Kazakh with the exact words above.",
-  avoid="extra players crowding the frame, a second woman with a high bun",
+  sound="Two low hollow ball bounces echoing, sneakers squeaking, indistinct happy chatter (no clear words); the gym reverb fades as one soft piano note begins. Dialogue in Kazakh with the exact words above, slow and clearly articulated — \"Анау қыз кім өзі?\" is four separate words (Анау / қыз / кім / өзі), never merged; the \"...\" is only a short pause.",
+  avoid="extra players crowding the frame, a second woman with a high bun, Zhandos walking onto the court or beside the girls, the girls walking toward the camera or to the right, a ball thrown in the air, a bag or backpack on Qarakat, white or cream trousers on Qarakat, Zhandos with swept-back or short neat hair",
   fb="01, 02, 03",
   seam="G02 сол үш адамдық кадрдан, сол позициялардан басталады — монтажда тікелей кесу.")
 
@@ -87,7 +87,7 @@ G(n=4, scene=2, kk="«Рұқсатынсыз бере алмаймын»", en="N
   loc="First the café sidewalk in daylight, then a tree-lined park alley with a paved path and wooden benches, the same day.",
   tl=[("0–7 s", 'Over Zhandos\'s shoulder (soft in the left foreground) onto ARAI: Zhandos asks: "Сол қызбен танысқым келіп жүр. Нөмірін бере аласың ба?" Arai shakes her head, polite but firm: "Жоқ, рұқсатынсыз бере алмаймын. Алдымен өзінен сұрайын." She nods and walks away screen-right.'),
       ("7–11 s", 'CUT TO the park alley: QARAKAT stands by a bench at screen-right looking at her phone; Arai walks into frame from screen-left and leans in with a playful smile: "Қарақат, саған бір жігіт қызығып жүр. Аты Жандос. Нөміріңді сұрап жатыр."'),
-      ("11–15 s", 'Qarakat lifts her eyebrows in surprise, then shakes her head with a shy half-smile: "Жоқ, бермей-ақ қойшы. Танымаймын ғой." She looks down and adjusts her bag strap, hiding a smile. Final frame: Qarakat looking down, Arai shrugging.')],
+      ("11–15 s", 'Qarakat lifts her eyebrows in surprise, then shakes her head with a shy half-smile: "Жоқ, бермей-ақ қойшы. Танымаймын ғой." She looks down and tucks her hands into her hoodie pocket, hiding a smile. Final frame: Qarakat looking down, Arai shrugging.')],
   cam="50mm over-the-shoulder, static; then a 50mm medium two-shot at eye level with gentle handheld breathing.",
   light="Overcast daylight at the café, then dappled sunlight through the park trees.",
   sound="Dialogue in Kazakh with the exact words above; footsteps; birdsong and rustling leaves in the park; playful pizzicato.",

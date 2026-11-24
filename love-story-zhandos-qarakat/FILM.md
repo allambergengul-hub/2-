@@ -61,7 +61,7 @@
 ### Тұрақты сипаттамалар (әр промптқа сөзбе-сөз енгізілген)
 
 ```text
-ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
+ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; long oval face; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead (not swept back, not short and neat on top); straight thick dark eyebrows, narrow calm dark-brown eyes, straight nose, natural light skin with a few small dark moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 
 QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
 
@@ -454,19 +454,19 @@ The opening of the film: a women's volleyball game has just ended and the player
 
 CHARACTER IDENTITY:
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
-- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
+- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; long oval face; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead (not swept back, not short and neat on top); straight thick dark eyebrows, narrow calm dark-brown eyes, straight nose, natural light skin with a few small dark moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 - QARAKAT'S TEAMMATES (supporting, kept at mid-distance or soft focus): two or three young women in mixed training wear — black leggings, white and grey T-shirts, sports bags. None of them wears a dark-navy hoodie, a high bun or hoop earrings.
 - ZHANDOS'S TWO FRIENDS (supporting, generic faces, never in close-up): FRIEND 1 — buzz-cut black hair, grey pullover hoodie, black joggers; FRIEND 2 — black baseball cap, dark-green zip-up track jacket, black joggers.
 
 WARDROBE & PROPS:
-- Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs, plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged.
+- Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs (medium-light grey, not white, not cream), plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged; she carries no bag or backpack.
 - Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
 
 LOCATION & ENVIRONMENT:
 An indoor volleyball gym in the evening: honey-coloured polished wooden floor with white court lines, a volleyball net across the middle, pale grey-green walls, tall windows high up showing a dark evening sky, wooden bleachers along the right wall, exit double doors in the left wall. Screen direction: the exit is always screen-left, the bleachers screen-right.
 
 ACTION — ONE CONTINUOUS TAKE:
-Opening frame: low angle near the floor — a volleyball bounces twice on the polished wooden floor in the foreground and rolls out of frame screen-left. Behind it the women's team is collecting their bags after the game. Qarakat, mid-ground and slightly right of centre, slings a sports bag over her shoulder and walks screen-left toward the exit doors with two teammates, laughing at something one of them says. In the soft background at screen-right, by the bleachers, Zhandos stands with his two friends, small in frame. As the girls pass, Zhandos turns his head to look at Qarakat. Final frame: Qarakat and her teammates walking out of frame screen-left; Zhandos, small and soft in the background at screen-right, looking after her.
+Opening frame: low angle near the floor — a volleyball already lying on the polished wooden floor in the foreground bounces twice, low, and rolls out of frame screen-left — nobody throws it. Behind it the women's team is collecting their bags after the game. Qarakat, mid-ground and slightly right of centre, carrying nothing, walks from right to left across the frame, side-on to the camera, toward the exit doors with two teammates, laughing at something one of them says. In the soft background at screen-right, by the bleachers, Zhandos stands with his two friends, small in frame. As the girls pass, Zhandos turns his head to look at Qarakat. Final frame: Qarakat and her teammates walking out of frame screen-left; Zhandos, small and soft in the background at screen-right, looking after her.
 
 CAMERA:
 Wide shot starting low near the floor, rising gently to eye level as it tracks slowly left with the girls; 35mm natural perspective; focus pulls from the bouncing ball to Qarakat; Zhandos stays soft in the background.
@@ -501,7 +501,7 @@ STORY CONTEXT:
 Zhandos notices Qarakat for the first time — the moment the love story begins.
 
 CHARACTER IDENTITY:
-- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
+- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; long oval face; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead (not swept back, not short and neat on top); straight thick dark eyebrows, narrow calm dark-brown eyes, straight nose, natural light skin with a few small dark moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 - ZHANDOS'S TWO FRIENDS (supporting, generic faces, never in close-up): FRIEND 1 — buzz-cut black hair, grey pullover hoodie, black joggers; FRIEND 2 — black baseball cap, dark-green zip-up track jacket, black joggers.
 
 WARDROBE & PROPS:
@@ -523,7 +523,7 @@ PERFORMANCE & EMOTION:
 Understated: the change happens in his eyes, not in gestures. The laugh fades naturally. He does not grin — he is captivated.
 
 AUDIO:
-The gym noise and the friends' chatter gradually muffle as the camera moves in; a soft single piano note enters around the midpoint. Kazakh dialogue, spoken in Kazakh with these exact words — ZHANDOS (quiet, almost to himself, curious): "Анау қыз кім өзі?"
+The gym noise and the friends' chatter gradually muffle as the camera moves in; a soft single piano note enters around the midpoint. Kazakh dialogue, spoken in Kazakh with these exact words — ZHANDOS (quiet, almost to himself, curious, slow and clearly articulated — four separate words, never merged): "Анау қыз... кім өзі?"
 
 CONTINUITY:
 Same evening gym. Eyeline always screen-left, toward the exit where Qarakat walks. The next shot is his friends answering. Identity anchors: Zhandos keeps his exact face and hair; outfits exactly as listed above.
@@ -545,7 +545,7 @@ STORY CONTEXT:
 Zhandos's friends tell him the girl is Qarakat, an acquaintance of theirs — but nobody has her number.
 
 CHARACTER IDENTITY:
-- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
+- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; long oval face; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead (not swept back, not short and neat on top); straight thick dark eyebrows, narrow calm dark-brown eyes, straight nose, natural light skin with a few small dark moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 - ZHANDOS'S TWO FRIENDS (supporting, generic faces, never in close-up): FRIEND 1 — buzz-cut black hair, grey pullover hoodie, black joggers; FRIEND 2 — black baseball cap, dark-green zip-up track jacket, black joggers.
 
 WARDROBE & PROPS:
@@ -589,13 +589,13 @@ STORY CONTEXT:
 Zhandos runs out after Qarakat, but she has already left in a taxi with her friends.
 
 CHARACTER IDENTITY:
-- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
+- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; long oval face; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead (not swept back, not short and neat on top); straight thick dark eyebrows, narrow calm dark-brown eyes, straight nose, natural light skin with a few small dark moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
 - QARAKAT'S TEAMMATES (supporting, kept at mid-distance or soft focus): two or three young women in mixed training wear — black leggings, white and grey T-shirts, sports bags. None of them wears a dark-navy hoodie, a high bun or hoop earrings.
 
 WARDROBE & PROPS:
 - Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
-- Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs, plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged.
+- Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs (medium-light grey, not white, not cream), plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged; she carries no bag or backpack.
 
 LOCATION & ENVIRONMENT:
 Outside the sports complex at night: wide concrete entrance steps and glass doors glowing from inside at screen-right, a quiet city street running left–right in front, parked cars.
@@ -639,11 +639,11 @@ The next day: Qarakat and a friend leave a café; a moment later Arai comes out 
 CHARACTER IDENTITY:
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
 - ARAI (CHARACTER_C): a young Kazakh woman in her twenties with East Asian features; soft rounded face with a warm smile and light freckles across her nose and cheeks, defined dark brows, dark-brown almond eyes; long voluminous curly chestnut-brown hair tied in a high curly ponytail tied with a black hair tie, loose curly strands framing her face. Signature details, keep in every frame: the freckles and the curly chestnut ponytail. Use supplied reference image 3 (her character sheet) as the identity reference and preserve her exact face and features.
-- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
+- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; long oval face; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead (not swept back, not short and neat on top); straight thick dark eyebrows, narrow calm dark-brown eyes, straight nose, natural light skin with a few small dark moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 - QARAKAT'S TEAMMATES (supporting, kept at mid-distance or soft focus): two or three young women in mixed training wear — black leggings, white and grey T-shirts, sports bags. None of them wears a dark-navy hoodie, a high bun or hoop earrings.
 
 WARDROBE & PROPS:
-- Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs, plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged.
+- Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs (medium-light grey, not white, not cream), plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged; she carries no bag or backpack.
 - Arai: oversized cream-ivory hoodie with pale-pink drawstrings and a small pale-pink heart on the left chest, black track pants with two white side stripes, pink-and-white low-top sneakers — exactly as in reference image 3, unchanged.
 - Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
 
@@ -685,7 +685,7 @@ STORY CONTEXT:
 Zhandos introduces himself to Arai and asks whether she knows Qarakat.
 
 CHARACTER IDENTITY:
-- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
+- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; long oval face; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead (not swept back, not short and neat on top); straight thick dark eyebrows, narrow calm dark-brown eyes, straight nose, natural light skin with a few small dark moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 - ARAI (CHARACTER_C): a young Kazakh woman in her twenties with East Asian features; soft rounded face with a warm smile and light freckles across her nose and cheeks, defined dark brows, dark-brown almond eyes; long voluminous curly chestnut-brown hair tied in a high curly ponytail tied with a black hair tie, loose curly strands framing her face. Signature details, keep in every frame: the freckles and the curly chestnut ponytail. Use supplied reference image 3 (her character sheet) as the identity reference and preserve her exact face and features.
 
 WARDROBE & PROPS:
@@ -730,7 +730,7 @@ STORY CONTEXT:
 Zhandos asks Arai for Qarakat's number; she refuses until she has asked Qarakat herself.
 
 CHARACTER IDENTITY:
-- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
+- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; long oval face; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead (not swept back, not short and neat on top); straight thick dark eyebrows, narrow calm dark-brown eyes, straight nose, natural light skin with a few small dark moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 - ARAI (CHARACTER_C): a young Kazakh woman in her twenties with East Asian features; soft rounded face with a warm smile and light freckles across her nose and cheeks, defined dark brows, dark-brown almond eyes; long voluminous curly chestnut-brown hair tied in a high curly ponytail tied with a black hair tie, loose curly strands framing her face. Signature details, keep in every frame: the freckles and the curly chestnut ponytail. Use supplied reference image 3 (her character sheet) as the identity reference and preserve her exact face and features.
 
 WARDROBE & PROPS:
@@ -780,13 +780,13 @@ CHARACTER IDENTITY:
 
 WARDROBE & PROPS:
 - Arai: oversized cream-ivory hoodie with pale-pink drawstrings and a small pale-pink heart on the left chest, black track pants with two white side stripes, pink-and-white low-top sneakers — exactly as in reference image 3, unchanged.
-- Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs, plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged.
+- Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs (medium-light grey, not white, not cream), plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged; she carries no bag or backpack.
 
 LOCATION & ENVIRONMENT:
 A tree-lined park alley in daytime: a paved path, wooden benches, mature leafy trees, a few distant passers-by.
 
 ACTION — ONE CONTINUOUS TAKE:
-Opening frame: Qarakat standing by a bench on the park path at screen-right, scrolling her phone. Arai walks into frame from screen-left and stops beside her, facing her. Leaning in with a playful, conspiratorial smile, Arai tells her about Zhandos. Qarakat lowers her phone; her eyebrows lift in surprise, then she shakes her head with a shy, dismissive half-smile as she answers. She looks down and adjusts the strap of her bag. Final frame: Qarakat looking down with a faint smile she is trying to hide; Arai shrugging.
+Opening frame: Qarakat standing by a bench on the park path at screen-right, scrolling her phone. Arai walks into frame from screen-left and stops beside her, facing her. Leaning in with a playful, conspiratorial smile, Arai tells her about Zhandos. Qarakat lowers her phone; her eyebrows lift in surprise, then she shakes her head with a shy, dismissive half-smile as she answers. She looks down and tucks her hands into her hoodie pocket. Final frame: Qarakat looking down with a faint smile she is trying to hide; Arai shrugging.
 
 CAMERA:
 Medium two-shot at eye level, 50mm, static with gentle handheld breathing; Arai at screen-left, Qarakat at screen-right.
@@ -822,7 +822,7 @@ STORY CONTEXT:
 The third day: Zhandos comes out of the volleyball hall, spots Arai and asks what Qarakat said.
 
 CHARACTER IDENTITY:
-- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
+- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; long oval face; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead (not swept back, not short and neat on top); straight thick dark eyebrows, narrow calm dark-brown eyes, straight nose, natural light skin with a few small dark moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 - ARAI (CHARACTER_C): a young Kazakh woman in her twenties with East Asian features; soft rounded face with a warm smile and light freckles across her nose and cheeks, defined dark brows, dark-brown almond eyes; long voluminous curly chestnut-brown hair tied in a high curly ponytail tied with a black hair tie, loose curly strands framing her face. Signature details, keep in every frame: the freckles and the curly chestnut ponytail. Use supplied reference image 3 (her character sheet) as the identity reference and preserve her exact face and features.
 - ZHANDOS'S TWO FRIENDS (supporting, generic faces, never in close-up): FRIEND 1 — buzz-cut black hair, grey pullover hoodie, black joggers; FRIEND 2 — black baseball cap, dark-green zip-up track jacket, black joggers.
 
@@ -868,7 +868,7 @@ STORY CONTEXT:
 Zhandos tries to buy Qarakat's number from Arai with money; Arai plays hard to get.
 
 CHARACTER IDENTITY:
-- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
+- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; long oval face; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead (not swept back, not short and neat on top); straight thick dark eyebrows, narrow calm dark-brown eyes, straight nose, natural light skin with a few small dark moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 - ARAI (CHARACTER_C): a young Kazakh woman in her twenties with East Asian features; soft rounded face with a warm smile and light freckles across her nose and cheeks, defined dark brows, dark-brown almond eyes; long voluminous curly chestnut-brown hair tied in a high curly ponytail tied with a black hair tie, loose curly strands framing her face. Signature details, keep in every frame: the freckles and the curly chestnut ponytail. Use supplied reference image 3 (her character sheet) as the identity reference and preserve her exact face and features.
 - ZHANDOS'S TWO FRIENDS (supporting, generic faces, never in close-up): FRIEND 1 — buzz-cut black hair, grey pullover hoodie, black joggers; FRIEND 2 — black baseball cap, dark-green zip-up track jacket, black joggers.
 
@@ -914,7 +914,7 @@ STORY CONTEXT:
 Zhandos adds more money; Arai takes it and gives him Qarakat's number, making him promise not to tell.
 
 CHARACTER IDENTITY:
-- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
+- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; long oval face; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead (not swept back, not short and neat on top); straight thick dark eyebrows, narrow calm dark-brown eyes, straight nose, natural light skin with a few small dark moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 - ARAI (CHARACTER_C): a young Kazakh woman in her twenties with East Asian features; soft rounded face with a warm smile and light freckles across her nose and cheeks, defined dark brows, dark-brown almond eyes; long voluminous curly chestnut-brown hair tied in a high curly ponytail tied with a black hair tie, loose curly strands framing her face. Signature details, keep in every frame: the freckles and the curly chestnut ponytail. Use supplied reference image 3 (her character sheet) as the identity reference and preserve her exact face and features.
 
 WARDROBE & PROPS:
@@ -959,7 +959,7 @@ STORY CONTEXT:
 Zhandos finally has Qarakat's number.
 
 CHARACTER IDENTITY:
-- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
+- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; long oval face; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead (not swept back, not short and neat on top); straight thick dark eyebrows, narrow calm dark-brown eyes, straight nose, natural light skin with a few small dark moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 
 WARDROBE & PROPS:
 - Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
@@ -1004,7 +1004,7 @@ STORY CONTEXT:
 That evening Zhandos writes to Qarakat for the first time.
 
 CHARACTER IDENTITY:
-- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
+- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; long oval face; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead (not swept back, not short and neat on top); straight thick dark eyebrows, narrow calm dark-brown eyes, straight nose, natural light skin with a few small dark moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 
 WARDROBE & PROPS:
 - Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
@@ -1051,7 +1051,7 @@ CHARACTER IDENTITY:
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
 
 WARDROBE & PROPS:
-- Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs, plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged.
+- Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs (medium-light grey, not white, not cream), plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged; she carries no bag or backpack.
 
 LOCATION & ENVIRONMENT:
 Qarakat's bedroom: a bed with white bedding, a warm bedside lamp, a tall free-standing mirror, sheer curtains on the window, a small shelf with plants.
@@ -1091,7 +1091,7 @@ STORY CONTEXT:
 Several days pass with no reply; Zhandos keeps checking his phone.
 
 CHARACTER IDENTITY:
-- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
+- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; long oval face; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead (not swept back, not short and neat on top); straight thick dark eyebrows, narrow calm dark-brown eyes, straight nose, natural light skin with a few small dark moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 
 WARDROBE & PROPS:
 - Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
@@ -1140,7 +1140,7 @@ CHARACTER IDENTITY:
 
 WARDROBE & PROPS:
 - Arai: oversized cream-ivory hoodie with pale-pink drawstrings and a small pale-pink heart on the left chest, black track pants with two white side stripes, pink-and-white low-top sneakers — exactly as in reference image 3, unchanged.
-- Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs, plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged.
+- Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs (medium-light grey, not white, not cream), plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged; she carries no bag or backpack.
 
 LOCATION & ENVIRONMENT:
 A tree-lined park alley in daytime: a paved path, wooden benches, mature leafy trees, a few distant passers-by.
@@ -1183,7 +1183,7 @@ CHARACTER IDENTITY:
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
 
 WARDROBE & PROPS:
-- Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs, plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged.
+- Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs (medium-light grey, not white, not cream), plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged; she carries no bag or backpack.
 
 LOCATION & ENVIRONMENT:
 Qarakat's bedroom: a bed with white bedding, a warm bedside lamp, a tall free-standing mirror, sheer curtains on the window, a small shelf with plants.
@@ -1223,7 +1223,7 @@ STORY CONTEXT:
 Zhandos receives Qarakat's reply and immediately writes back to invite her out.
 
 CHARACTER IDENTITY:
-- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
+- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; long oval face; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead (not swept back, not short and neat on top); straight thick dark eyebrows, narrow calm dark-brown eyes, straight nose, natural light skin with a few small dark moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 
 WARDROBE & PROPS:
 - Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
@@ -1311,7 +1311,7 @@ STORY CONTEXT:
 Zhandos waits for Qarakat in front of the cinema for their first date.
 
 CHARACTER IDENTITY:
-- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
+- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; long oval face; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead (not swept back, not short and neat on top); straight thick dark eyebrows, narrow calm dark-brown eyes, straight nose, natural light skin with a few small dark moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 
 WARDROBE & PROPS:
 - Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
@@ -1354,7 +1354,7 @@ STORY CONTEXT:
 Zhandos and Qarakat meet for their first date; both are shy.
 
 CHARACTER IDENTITY:
-- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
+- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; long oval face; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead (not swept back, not short and neat on top); straight thick dark eyebrows, narrow calm dark-brown eyes, straight nose, natural light skin with a few small dark moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
 
 WARDROBE & PROPS:
@@ -1399,7 +1399,7 @@ STORY CONTEXT:
 On their first date they watch a film together.
 
 CHARACTER IDENTITY:
-- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
+- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; long oval face; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead (not swept back, not short and neat on top); straight thick dark eyebrows, narrow calm dark-brown eyes, straight nose, natural light skin with a few small dark moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
 
 WARDROBE & PROPS:
@@ -1444,7 +1444,7 @@ STORY CONTEXT:
 After the film they talk in a café.
 
 CHARACTER IDENTITY:
-- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
+- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; long oval face; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead (not swept back, not short and neat on top); straight thick dark eyebrows, narrow calm dark-brown eyes, straight nose, natural light skin with a few small dark moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
 
 WARDROBE & PROPS:
@@ -1489,7 +1489,7 @@ STORY CONTEXT:
 They wander through a bookstore together.
 
 CHARACTER IDENTITY:
-- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
+- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; long oval face; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead (not swept back, not short and neat on top); straight thick dark eyebrows, narrow calm dark-brown eyes, straight nose, natural light skin with a few small dark moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
 
 WARDROBE & PROPS:
@@ -1534,7 +1534,7 @@ STORY CONTEXT:
 Zhandos walks Qarakat home; at the door she shyly hugs him and goes inside.
 
 CHARACTER IDENTITY:
-- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
+- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; long oval face; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead (not swept back, not short and neat on top); straight thick dark eyebrows, narrow calm dark-brown eyes, straight nose, natural light skin with a few small dark moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
 
 WARDROBE & PROPS:
@@ -1579,7 +1579,7 @@ STORY CONTEXT:
 Zhandos stands outside her door, overwhelmed with happiness.
 
 CHARACTER IDENTITY:
-- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
+- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; long oval face; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead (not swept back, not short and neat on top); straight thick dark eyebrows, narrow calm dark-brown eyes, straight nose, natural light skin with a few small dark moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 
 WARDROBE & PROPS:
 - Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
@@ -1624,7 +1624,7 @@ STORY CONTEXT:
 Montage of their happy days: talking on the phone until midnight.
 
 CHARACTER IDENTITY:
-- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
+- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; long oval face; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead (not swept back, not short and neat on top); straight thick dark eyebrows, narrow calm dark-brown eyes, straight nose, natural light skin with a few small dark moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 
 WARDROBE & PROPS:
 - Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
@@ -1670,7 +1670,7 @@ CHARACTER IDENTITY:
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
 
 WARDROBE & PROPS:
-- Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs, plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged.
+- Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs (medium-light grey, not white, not cream), plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged; she carries no bag or backpack.
 
 LOCATION & ENVIRONMENT:
 Qarakat's bedroom: a bed with white bedding, a warm bedside lamp, a tall free-standing mirror, sheer curtains on the window, a small shelf with plants.
@@ -1710,12 +1710,12 @@ STORY CONTEXT:
 Montage: they go horseback riding together.
 
 CHARACTER IDENTITY:
-- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
+- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; long oval face; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead (not swept back, not short and neat on top); straight thick dark eyebrows, narrow calm dark-brown eyes, straight nose, natural light skin with a few small dark moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
 
 WARDROBE & PROPS:
 - Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
-- Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs, plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged.
+- Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs (medium-light grey, not white, not cream), plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged; she carries no bag or backpack.
 
 LOCATION & ENVIRONMENT:
 Open golden steppe grassland on a clear day, gentle hills on the horizon, a big blue sky.
@@ -1755,12 +1755,12 @@ STORY CONTEXT:
 Montage: they watch a film together at home (the film itself is never shown).
 
 CHARACTER IDENTITY:
-- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
+- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; long oval face; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead (not swept back, not short and neat on top); straight thick dark eyebrows, narrow calm dark-brown eyes, straight nose, natural light skin with a few small dark moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
 
 WARDROBE & PROPS:
 - Zhandos: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes — exactly as in reference image 1, unchanged.
-- Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs, plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged.
+- Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs (medium-light grey, not white, not cream), plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged; she carries no bag or backpack.
 
 LOCATION & ENVIRONMENT:
 A cosy living room at night: a soft grey sofa with a knitted blanket, a bowl of popcorn; the TV is off-frame in front of the sofa.
@@ -1801,7 +1801,7 @@ STORY CONTEXT:
 Montage: one of the many cafés they visit together.
 
 CHARACTER IDENTITY:
-- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
+- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; long oval face; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead (not swept back, not short and neat on top); straight thick dark eyebrows, narrow calm dark-brown eyes, straight nose, natural light skin with a few small dark moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
 
 WARDROBE & PROPS:
@@ -1846,7 +1846,7 @@ STORY CONTEXT:
 Montage: walking the city streets hand in hand.
 
 CHARACTER IDENTITY:
-- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
+- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; long oval face; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead (not swept back, not short and neat on top); straight thick dark eyebrows, narrow calm dark-brown eyes, straight nose, natural light skin with a few small dark moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
 
 WARDROBE & PROPS:
@@ -1893,7 +1893,7 @@ STORY CONTEXT:
 The proposal day: Zhandos has prepared a picnic on the seashore at sunset.
 
 CHARACTER IDENTITY:
-- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
+- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; long oval face; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead (not swept back, not short and neat on top); straight thick dark eyebrows, narrow calm dark-brown eyes, straight nose, natural light skin with a few small dark moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
 
 WARDROBE & PROPS:
@@ -1938,7 +1938,7 @@ STORY CONTEXT:
 Zhandos takes Qarakat's hand and begins to speak from the heart.
 
 CHARACTER IDENTITY:
-- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
+- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; long oval face; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead (not swept back, not short and neat on top); straight thick dark eyebrows, narrow calm dark-brown eyes, straight nose, natural light skin with a few small dark moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
 
 WARDROBE & PROPS:
@@ -1984,7 +1984,7 @@ Qarakat listens as Zhandos continues; she remembers how hard he tried.
 
 CHARACTER IDENTITY:
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
-- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
+- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; long oval face; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead (not swept back, not short and neat on top); straight thick dark eyebrows, narrow calm dark-brown eyes, straight nose, natural light skin with a few small dark moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 
 WARDROBE & PROPS:
 - Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs, plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged.
@@ -2028,7 +2028,7 @@ STORY CONTEXT:
 Zhandos takes out the ring and asks Qarakat to be his partner for life.
 
 CHARACTER IDENTITY:
-- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
+- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; long oval face; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead (not swept back, not short and neat on top); straight thick dark eyebrows, narrow calm dark-brown eyes, straight nose, natural light skin with a few small dark moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
 
 WARDROBE & PROPS:
@@ -2074,7 +2074,7 @@ Qarakat says yes with a nod, and Zhandos puts the ring on her finger.
 
 CHARACTER IDENTITY:
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
-- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
+- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; long oval face; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead (not swept back, not short and neat on top); straight thick dark eyebrows, narrow calm dark-brown eyes, straight nose, natural light skin with a few small dark moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 
 WARDROBE & PROPS:
 - Qarakat: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs, plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged.
@@ -2118,7 +2118,7 @@ STORY CONTEXT:
 They embrace; the camera pulls away to reveal the sea and the setting sun.
 
 CHARACTER IDENTITY:
-- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
+- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; long oval face; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead (not swept back, not short and neat on top); straight thick dark eyebrows, narrow calm dark-brown eyes, straight nose, natural light skin with a few small dark moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
 
 WARDROBE & PROPS:
@@ -2209,7 +2209,7 @@ STORY CONTEXT:
 Wedding preparations: Zhandos puts on his suit.
 
 CHARACTER IDENTITY:
-- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
+- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; long oval face; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead (not swept back, not short and neat on top); straight thick dark eyebrows, narrow calm dark-brown eyes, straight nose, natural light skin with a few small dark moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 
 WARDROBE & PROPS:
 - Zhandos: classic black two-piece suit, crisp white shirt, slim black tie, polished black leather shoes.
@@ -2405,7 +2405,7 @@ STORY CONTEXT:
 The final shot: Zhandos and Qarakat walk hand in hand toward the camera.
 
 CHARACTER IDENTITY:
-- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; thick jet-black straight hair, short and textured, slightly messy on top and falling loosely toward the forehead, shorter at the sides; straight dark eyebrows, calm dark-brown eyes, straight nose, natural light skin with a few small moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
+- ZHANDOS (CHARACTER_A): a young Kazakh man in his twenties with East Asian features; tall, lean build, upright relaxed posture; long oval face; thick, voluminous, slightly messy jet-black hair with loose strands falling forward over his forehead (not swept back, not short and neat on top); straight thick dark eyebrows, narrow calm dark-brown eyes, straight nose, natural light skin with a few small dark moles on his cheeks; clean-shaven. Use supplied reference image 1 (his character sheet) as the identity reference and preserve his exact face and features.
 - QARAKAT (CHARACTER_B): a young Kazakh woman in her twenties with East Asian features; slim build, a little shorter than Zhandos; jet-black hair pulled back smoothly from the face into a high round bun at the back of the crown; straight dark brows, almond-shaped dark-brown eyes, calm composed expression at rest, natural light skin, soft coral-pink lips. Signature details, keep in every frame: the high round bun and large thin silver hoop earrings. Use supplied reference image 2 (her character sheet) as the identity reference and preserve her exact face and features.
 
 WARDROBE & PROPS:
