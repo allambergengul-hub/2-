@@ -15,8 +15,8 @@ ID = {
 KK = {"ZH": "Жандос", "QA": "Қарақат", "AR": "Арай"}
 ORDER = ["ZH", "QA", "AR"]
 
-ZH_REF = "exactly as in @image1 — black adidas hoodie with three white sleeve stripes and a small white trefoil on the chest, black track pants with three white side stripes, white sneakers with three black stripes"
-QA_REF = "exactly as in @image2 — oversized plain dark-navy hoodie, a silver dog-tag pendant on a long chain over it, loose medium-grey joggers (clearly grey, never white or cream), plain white sneakers; no bag"
+ZH_REF = "exactly as in @image1 — black adidas hoodie with three white sleeve stripes and a small white trefoil on the chest, black track pants with three white side stripes, white sneakers with three black stripes; he wears no necklace or jewellery"
+QA_REF = "exactly as in @image2 — oversized plain dark-navy hoodie, a silver dog-tag pendant on a long chain over it (only she wears it), loose medium-grey joggers (clearly grey, never white or cream), plain white sneakers; no bag"
 AR_REF = "exactly as in @image3 — oversized cream hoodie with pale-pink drawstrings and a small pink heart on the chest, black track pants with two white side stripes, pink-and-white sneakers"
 WARD = {
     "ZH_SPORT": ZH_REF, "ZH_DATE": ZH_REF, "ZH_SEA": ZH_REF,
@@ -31,8 +31,8 @@ TEAM = "Qarakat's teammate — exactly ONE girl: white T-shirt, black leggings, 
 
 GYM = 'Indoor volleyball gym, evening; same layout in every shot. Honey-coloured wooden court. The NET stretches ACROSS the middle of the court between two padded poles at the sidelines — never in front of the bleachers. Wooden bench bleachers run along the RIGHT side wall. Grey double exit door with a green exit sign in the LEFT side wall. Background: beyond the net, five or six students in red, blue, green or yellow T-shirts pass their own ball; a few sit on the bleachers — small, blurred, never dressed like the main characters.'
 
-STYLE = "Photorealistic live-action romantic film; natural skin with visible pores; real-time motion; realistic hands and physics; motivated light; subtle film grain. Nobody looks into the lens. Instant hard cuts between shots. Each person appears once, never as a grid of the reference sheets."
-AVOID = "look-alike faces, changed hair or outfits, distorted hands or extra fingers, duplicate people, character-sheet grids, warped backgrounds, slow motion, dissolves or double exposures, eye contact with the camera, exaggerated acting, waxy skin, cartoon look, readable text, subtitles, watermarks, extra logos"
+STYLE = "Photorealistic live-action romantic film; natural skin with visible pores; real-time motion; realistic hands and physics; motivated light; subtle film grain. Nobody looks into the lens. Instant hard cuts between shots. Each person appears once."
+AVOID = "look-alike faces, changed hair or outfits, distorted hands or extra fingers, duplicate people, warped backgrounds, slow motion, dissolves or double exposures, eye contact with the camera, exaggerated acting, waxy skin, cartoon look, readable text, subtitles, watermarks, extra logos"
 
 CLIPS = []
 
@@ -53,11 +53,11 @@ G(n=1, scene=1, kk="Алғашқы көзқарас", en="The First Look",
       ("9–10.5 s", "SHOT 5 — extreme close-up of Zhandos's eyes following her; he bites his lower lip and smiles to himself, a little shy."),
       ("10.5–15 s", 'SHOT 6 — medium shot of the boys on the bench. Eyes still on her, Zhandos nudges Friend 1 with his elbow, glances at him, looks back toward her and asks, low and eager: "Анау қыз... кім өзі?" — then back at Friend 1, grinning. Friend 1 leans to look and answers casually: "Қайсы? Қарақат па? Ол біздің танысымыз ғой." Friend 2 shakes his head with a grin.')],
   perf="Natural, understated feeling — the quiet jolt of falling for someone: softened eyes, a small smile he cannot stop, a breath, a lip-bite, restless excitement. No wide-eyed shock, no open mouth, no theatrical gasp. The girls act natural and ignore the boys completely.",
-  cam="Energetic and fast: handheld action at the net → whip-fast floor insert → quick push-in → over-the-shoulder slow motion → extreme close-up → medium; quick hard cuts on movement; the camera always has some motion except in Shot 5.",
+  cam="Energetic and fast: handheld action → floor insert → quick push-in → over-the-shoulder slow motion → extreme close-up → medium; hard cuts on movement.",
   light="Overhead LED panels, warm floor bounce, natural skin; a soft catchlight in Zhandos's eyes.",
   sound="The hard SMACK of the spike, cheers, squeaking sneakers, the ball bouncing; when he sees her the noise drops away to a hush with one soft piano note; normal sound returns in Shot 6. Kazakh dialogue, exact words, slow and clear: \"Анау қыз кім өзі?\" is four separate words, never merged; \"...\" is a short pause.",
   mods=[("real-time motion", "real-time motion except the slow motion of Shot 4"), ("slow motion,", "slow motion outside Shot 4,")],
-  avoid="the girls looking back or laughing toward the boys, a fourth girl on Qarakat's side, shocked or frightened expressions, mouths hanging open, the boys standing up, necklaces on the friends, Qarakat behind Zhandos in his close-ups, static long shots",
+  avoid="the girls looking back or laughing toward the boys, a fourth girl on Qarakat's side, shocked or frightened expressions, the boys standing up, Qarakat behind Zhandos in his close-ups, static long shots",
   fb="01, 02, 03",
   seam="G02 сол скамейкадан, сол отыру ретімен басталады (Жандос сол шетте, 1-дос ортада) — монтажда тікелей кесу.")
 
@@ -293,7 +293,7 @@ def build_prompt(c):
     wedding = any(w in ("ZH_SUIT", "QA_BRIDE") for _, w in c["cast"])
     use = ("copy each person's face, hair and body exactly and keep them identical in every shot; in this wedding-day clip only, the outfits are the wedding outfits below"
            if wedding else "copy each person's face, hair, body and outfit exactly and keep them identical in every shot")
-    L += ["REFERENCES: @image1 = ZHANDOS, @image2 = QARAKAT, @image3 = ARAI — character sheets, several views of one person each; " + use + ".",
+    L += ["REFERENCES: @image1 = ZHANDOS, @image2 = QARAKAT, @image3 = ARAI — one clear photo of each person; " + use + ". The same face stays identical from wide shots to close-ups, and accessories never move from one person to another.",
           "IN THIS CLIP: " + inside + (" only. Not in this clip: " + ", ".join(absent) + "." if absent else "."), ""]
     L.append("CHARACTERS & WARDROBE:")
     for k, w in c["cast"]:
@@ -301,6 +301,16 @@ def build_prompt(c):
         if w:
             line += " Outfit: " + WARD[w] + "."
         L.append(line)
+    present = [k for k, _ in c["cast"]]
+    if len(present) >= 2:
+        cm = {"ZH": ("Zhandos", 178), "AR": ("Arai", 170), "QA": ("Qarakat", 165)}
+        line = "HEIGHTS: " + ", ".join(f"{cm[k][0]} {cm[k][1]} cm" for k in ("ZH", "AR", "QA") if k in present)
+        rel = []
+        if "ZH" in present and "QA" in present:
+            rel.append("Qarakat's head reaches about Zhandos's nose")
+        if "AR" in present and "QA" in present:
+            rel.append("Arai is slightly taller than Qarakat")
+        L.append("- " + line + (" — " + "; ".join(rel) if rel else "") + ".")
     for e in c["extra"]:
         L.append("- " + e)
     L += ["", "LOCATION: " + c["loc"]]
@@ -328,7 +338,7 @@ HEAD = """# «БІР НӨМІРДЕН БАСТАЛҒАН МАХАББАТ» — 
 
 Бұл файл `FILM.md` негізінде жасалған: сценарий, кейіпкерлер кітабы және кадр-кадрмен жазылған резерв промпттар сонда тұр. Мұнда әр клип 15 секундқа және үш бөлікке бөлінген (0–5, 5–10, 10–15 с). Оқиға мен диалогтар бұрынғыдай, сөзбе-сөз сақталған.
 
-> **Референстер — әр клипте үшеуін де, осы ретпен жүктеңіз:** **1** — Жандос (`1000098369.jpg`), **2** — Қарақат (`1000098361.jpg`), **3** — Арай (`1000098562.jpg`).
+> **Референстер — әр клипте үшеуін де, осы ретпен жүктеңіз:** **1** — Жандос, **2** — Қарақат, **3** — Арай. Әр кейіпкерге **бір анық фото**: бір адам, беті анық әрі алдынан; кейіпкер парағын (торды) жүктемеңіз. Бойлары: Жандос 178 см, Арай 170 см, Қарақат 165 см.
 > **Беттер мен киімдер барлық клипте референстегідей, өзгеріссіз.** Жалғыз ерекшелік — той (G15–G16): сценарий бойынша Қарақат ақ көйлек, Жандос костюм киеді.
 
 ---
