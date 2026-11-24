@@ -28,7 +28,7 @@
 
 | Клип | Тайм-код | Сцена | Не болады | Кадрда | Резерв (FILM.md) |
 |---|---|---|---|---|---|
-| G01 | 00:00–00:15 | 1 | Ойын бітті, Қарақат Арай және бір құрбысымен шығып барады; Жандос оны көріп қалады: «Анау қыз кім өзі?» | Жандос, Қарақат, Арай | 01, 02, 03 |
+| G01 | 00:00–00:15 | 1 | Ойын бітті, Қарақат Арай және бір құрбысымен шығып барады; Жандос оны көріп, бір көргеннен ғашық болады: «Анау қыз кім өзі?» | Жандос, Қарақат, Арай | 01, 02, 03 |
 | G02 | 00:15–00:30 | 1 | Достарында нөмір жоқ; Жандос сыртқа жүгіреді, бірақ Қарақат Араймен бірге таксиге отырып кетіп қалады. | Жандос, Қарақат, Арай | 03, 04 |
 | G03 | 00:30–00:45 | 2 | Келесі күні Қарақат кафеден кетеді, Арай жалғыз шығады; Жандос онымен танысып, Қарақатты сұрайды. | Жандос, Қарақат, Арай | 05, 06 |
 | G04 | 00:45–01:00 | 2 | Арай нөмірді рұқсатсыз бермейді; саябақта Қарақатқа айтады — Қарақат бас тартады. | Жандос, Қарақат, Арай | 07, 08 |
@@ -53,7 +53,7 @@
 ### 1-сцена · Алғашқы көзқарас
 
 **G01 — Алғашқы көзқарас · 00:00–00:15**  
-Ойын бітті, Қарақат Арай және бір құрбысымен шығып барады; Жандос оны көріп қалады: «Анау қыз кім өзі?»  
+Ойын бітті, Қарақат Арай және бір құрбысымен шығып барады; Жандос оны көріп, бір көргеннен ғашық болады: «Анау қыз кім өзі?»  
 Кадрда: Жандос, Қарақат, Арай · Жүктеу: 1 — Жандос, 2 — Қарақат, 3 — Арай
 
 ```text
@@ -69,21 +69,22 @@ CHARACTERS & WARDROBE:
 - Qarakat's teammate — exactly ONE girl: white T-shirt, black leggings, white sneakers, long straight black hair in a low ponytail; no hoodie, no bun, no curls, no hoop earrings.
 - Zhandos's two friends (never in close-up, no necklaces): FRIEND 1 — buzz-cut, plain grey hoodie, black joggers; FRIEND 2 — black cap, dark-green track jacket, black joggers.
 
-LOCATION: Indoor volleyball gym, evening; same layout in every shot. Honey-coloured wooden court. The NET stretches ACROSS the middle of the court between two padded poles at the sidelines — never in front of the bleachers. Wooden bench bleachers run along the RIGHT side wall. Grey double exit door with a green exit sign in the LEFT side wall. LED ceiling panels. Background: beyond the net, five or six students in red, blue, green or yellow T-shirts and shorts pass their own ball; three or four sit chatting on the bleachers — small, blurred, anonymous, never dressed like the main characters or the teammate.
-SPACE & EYELINES: Zhandos and his two friends SIT on the lowest bench of the bleachers on the RIGHT for the whole clip. The THREE girls — Qarakat, Arai, the teammate — start mid-court by the net, far from the boys, and walk to the exit on the LEFT; Zhandos always looks frame-LEFT, and in his close-up she is off-screen left, never behind him.
+LOCATION: Indoor volleyball gym, evening; same layout in every shot. Honey-coloured wooden court. The NET stretches ACROSS the middle of the court between two padded poles at the sidelines — never in front of the bleachers. Wooden bench bleachers run along the RIGHT side wall. Grey double exit door with a green exit sign in the LEFT side wall. Background: beyond the net, five or six students in red, blue, green or yellow T-shirts pass their own ball; a few sit on the bleachers — small, blurred, never dressed like the main characters.
+SPACE & EYELINES: The boys SIT on the lowest bench of the bleachers on the RIGHT all clip, from frame-left: ZHANDOS, FRIEND 1, FRIEND 2. The three girls start mid-court by the net, far from the boys, and walk to the exit on the LEFT — Qarakat is always to Zhandos's LEFT, Friend 1 to his RIGHT.
 
 TIMELINE:
-0–4 s: SHOT 1 — wide from behind the near end line: the net crosses the middle distance, students practising beyond it; Zhandos and his friends sit on the lowest bench (frame-right, background); exit door frame-left. One volleyball bounces twice, low, in the foreground and rolls left. The three girls set off from mid-court by the net and walk side-on toward the exit, laughing: QARAKAT nearest the camera, ARAI beside her, the teammate beyond.
-4–8 s: SHOT 2 — over-the-shoulder from directly behind ZHANDOS, seated on the bench: the back of his head and right shoulder soft in the right foreground; he slowly turns his head left. Sharp in the middle distance, the SAME three girls walk away toward the grey exit door — from behind, left to right: Qarakat (navy hoodie, bun), Arai (cream hoodie, curls), the teammate (white T-shirt). We see what he sees.
-8–11 s: SHOT 3 — close-up of ZHANDOS, seated on the bench, in three-quarter profile facing frame-LEFT; behind him, softly blurred, the bleachers with a few seated students — no girls from the story. His eyes stay fixed off-screen left, past the lens, following her; his smile fades, he blinks once and says quietly and slowly, every word separate: "Анау қыз... кім өзі?"
-11–15 s: SHOT 4 — medium three-shot of the three young men SITTING side by side on the lowest bench, a few blurred students on the rows behind them: FRIEND 1 (buzz-cut, grey hoodie) at frame-left, Zhandos centre, FRIEND 2 (black cap, green track jacket) at frame-right. Friend 1 glances left toward the exit and answers casually: "Қайсы? Қарақат па? Ол біздің танысымыз ғой." Zhandos turns his head left to him, interested; Friend 2 smiles, silent.
+0–3 s: SHOT 1 — wide from behind the near end line: net across the middle distance, students practising beyond it, the boys seated on the bench (frame-right), exit door frame-left. A volleyball bounces twice, low, in the foreground. The three girls set off from mid-court and walk side-on toward the exit, laughing: QARAKAT nearest the camera, ARAI beside her, the teammate beyond.
+3–6 s: SHOT 2 — THE MOMENT HE SEES HER. Over-the-shoulder from behind the seated ZHANDOS, his head and shoulder soft in the right foreground. Sharp in the middle distance, Qarakat walks toward the exit with Arai and the teammate; she laughs at something Arai says and tilts her head, the light catching her silver hoop earring. This shot alone plays in a gentle slow motion (about 70% speed) — time slows for him.
+6–9.5 s: SHOT 3 — close-up of ZHANDOS in three-quarter profile facing frame-LEFT, back to real time, no words. He is still half-laughing at his friend's joke when his eyes find her: the laugh stops mid-breath; a tiny double take — his eyes flick away and snap back; they widen a fraction and brighten, catching the light; brows lift, lips part, he forgets to breathe; then a slow, astonished, helpless smile spreads across his face and he swallows.
+9.5–15 s: SHOT 4 — medium shot of the boys on the bench, Zhandos at frame-left, Friend 1 beside him, Friend 2 at frame-right. Eyes still on her, Zhandos gropes for Friend 1's arm and taps it twice; glances at him, looks back toward her (frame-left) and asks in an excited half-whisper: "Анау қыз... кім өзі?" — then snaps his eyes back to Friend 1, eyebrows up, a grin he cannot hide. Friend 1 leans forward to look where he looks, smirks knowingly and answers casually: "Қайсы? Қарақат па? Ол біздің танысымыз ғой." Zhandos turns back toward her, smiling; Friend 2 shakes his head with a grin.
 
-CAMERA: 24mm wide from the end line → 50mm over-the-shoulder → 85mm close-up → 40mm three-shot; instant hard cuts; Zhandos always looks frame-left.
-LIGHTING: Even overhead LED panels, warm bounce from the wooden floor, natural skin tones.
-SOUND: Ball bounces, squeaking sneakers, distant calls from the background practice; the gym noise fades in Shot 2 and a soft piano note begins. Kazakh dialogue, exact words, slow and clear: "Анау қыз кім өзі?" is four separate words, never merged; "..." is a short pause.
+PERFORMANCE: Romantic-lead acting, readable, never exaggerated: love at first sight told through the eyes, then boyish excitement (tapping his friend, glancing friend–girl–friend). Natural blinking, active brows.
+CAMERA: 24mm wide → 50mm over-the-shoulder (slow motion) → 85mm close-up, slow push-in → 40mm medium; instant hard cuts.
+LIGHTING: Overhead LED panels, warm floor bounce, natural skin; a soft catchlight in Zhandos's eyes in Shot 3.
+SOUND: Ball bounces, squeaking sneakers, distant practice calls; in Shot 2 the sound fades to a hush and one soft piano note rings; normal sound returns in Shot 4. Kazakh dialogue, exact words, slow and clear: "Анау қыз кім өзі?" is four separate words, never merged; "..." is a short pause.
 
-STYLE: Photorealistic live-action romantic film; natural skin texture with visible pores; real-time motion; realistic hands and physics; motivated natural light; subtle film grain. Nobody looks into the lens. Shots are joined by instant hard cuts. Each person appears once, as a real person in a real place — never a grid or collage of the reference sheets.
-AVOID: look-alike faces, changed hair or outfits, distorted hands or extra fingers, duplicate people, character-sheet grids, warped backgrounds, slow motion, dissolves or double exposures, eye contact with the camera, exaggerated acting, waxy skin, cartoon look, readable text, subtitles, watermarks, extra logos, a net in front of the bleachers, a fourth girl in the group, a bob haircut, hair changing between shots, the girls passing next to the boys, the boys standing up, necklaces on the friends, Qarakat behind Zhandos in his close-up, Zhandos looking right.
+STYLE: Photorealistic live-action romantic film; natural skin with visible pores; real-time motion except the gentle slow motion of Shot 2; realistic hands and physics; motivated light; subtle film grain. Nobody looks into the lens. Instant hard cuts between shots. Each person appears once, never as a grid of the reference sheets.
+AVOID: look-alike faces, changed hair or outfits, distorted hands or extra fingers, duplicate people, character-sheet grids, warped backgrounds, slow motion outside Shot 2, dissolves or double exposures, eye contact with the camera, exaggerated acting, waxy skin, cartoon look, readable text, subtitles, watermarks, extra logos, a net in front of the bleachers, a fourth girl, hair changing between shots, the girls passing the boys, the boys standing up, necklaces on the friends, Qarakat behind Zhandos in his close-up, a blank expression on Zhandos.
 ```
 
 **G02 — Кешікті · 00:15–00:30**  
@@ -106,7 +107,7 @@ CHARACTERS & WARDROBE:
 LOCATION: Inside: the same evening volleyball gym — bleachers along the right side wall with a few students sitting on them, the net across the middle of the court with other students practising beyond it, grey exit door in the left wall. Outside: the sports complex at night — wide concrete steps, glass doors glowing at screen-right, a quiet street running left–right, warm street lamps.
 
 TIMELINE:
-0–5 s: Medium three-shot of the three young men SITTING side by side on the lowest bench of the bleachers. ZHANDOS turns to Friend 1 (buzz-cut, grey hoodie), eager: "Қарақат дейсің бе? Нөмірі бар ма?" FRIEND 2 shrugs: "Жоқ, нөмірі бізде жоқ." Zhandos jumps up from the bench and hurries out of frame screen-left toward the exit.
+0–5 s: Medium shot of the three young men SITTING on the lowest bench of the bleachers — Zhandos at frame-left, Friend 1 (buzz-cut, grey hoodie) beside him, Friend 2 at frame-right. ZHANDOS turns to Friend 1, eager: "Қарақат дейсің бе? Нөмірі бар ма?" FRIEND 2 shrugs: "Жоқ, нөмірі бізде жоқ." Zhandos jumps up from the bench and hurries out of frame screen-left toward the exit.
 5–10 s: CUT TO outside at night, wide shot from across the street: a white taxi waits at the curb; ARAI (cream hoodie, curly ponytail) and the teammate get in, QARAKAT (navy hoodie, high bun, silver hoops) gets in last and the door shuts; the taxi pulls away screen-left. The glass doors at screen-right swing open and Zhandos runs down the steps.
 10–15 s: Zhandos slows and stops at the curb, watching the red tail lights shrink into the distance; he exhales and gives a small rueful smile to himself. Final frame: Zhandos alone at the curb in a three-quarter back view under the street lamps.
 
@@ -114,7 +115,7 @@ CAMERA: Handheld 40mm three-shot, then a locked-off 35mm wide across the street,
 LIGHTING: Gym LED light inside; outside warm sodium street lamps, cool blue night, red tail lights.
 SOUND: Dialogue in Kazakh with the exact words above; the door pushed open; a car door shutting, the engine pulling away, a quiet night street; the piano phrase stops unresolved.
 
-STYLE: Photorealistic live-action romantic film; natural skin texture with visible pores; real-time motion; realistic hands and physics; motivated natural light; subtle film grain. Nobody looks into the lens. Shots are joined by instant hard cuts. Each person appears once, as a real person in a real place — never a grid or collage of the reference sheets.
+STYLE: Photorealistic live-action romantic film; natural skin with visible pores; real-time motion; realistic hands and physics; motivated light; subtle film grain. Nobody looks into the lens. Instant hard cuts between shots. Each person appears once, never as a grid of the reference sheets.
 AVOID: look-alike faces, changed hair or outfits, distorted hands or extra fingers, duplicate people, character-sheet grids, warped backgrounds, slow motion, dissolves or double exposures, eye contact with the camera, exaggerated acting, waxy skin, cartoon look, readable text, subtitles, watermarks, extra logos, readable licence plates or taxi branding.
 ```
 
@@ -147,7 +148,7 @@ CAMERA: 35mm wide-medium from across the sidewalk, then a 50mm medium two-shot i
 LIGHTING: Soft overcast daylight, neutral natural colours.
 SOUND: A small door chime, street ambience, footsteps, a light playful pizzicato tune; dialogue in Kazakh with the exact words above.
 
-STYLE: Photorealistic live-action romantic film; natural skin texture with visible pores; real-time motion; realistic hands and physics; motivated natural light; subtle film grain. Nobody looks into the lens. Shots are joined by instant hard cuts. Each person appears once, as a real person in a real place — never a grid or collage of the reference sheets.
+STYLE: Photorealistic live-action romantic film; natural skin with visible pores; real-time motion; realistic hands and physics; motivated light; subtle film grain. Nobody looks into the lens. Instant hard cuts between shots. Each person appears once, never as a grid of the reference sheets.
 AVOID: look-alike faces, changed hair or outfits, distorted hands or extra fingers, duplicate people, character-sheet grids, warped backgrounds, slow motion, dissolves or double exposures, eye contact with the camera, exaggerated acting, waxy skin, cartoon look, readable text, subtitles, watermarks, extra logos, readable café name or menu, the two women looking alike.
 ```
 
@@ -177,7 +178,7 @@ CAMERA: 50mm over-the-shoulder, static; then a 50mm medium two-shot at eye level
 LIGHTING: Overcast daylight at the café, then dappled sunlight through the park trees.
 SOUND: Dialogue in Kazakh with the exact words above; footsteps; birdsong and rustling leaves in the park; playful pizzicato.
 
-STYLE: Photorealistic live-action romantic film; natural skin texture with visible pores; real-time motion; realistic hands and physics; motivated natural light; subtle film grain. Nobody looks into the lens. Shots are joined by instant hard cuts. Each person appears once, as a real person in a real place — never a grid or collage of the reference sheets.
+STYLE: Photorealistic live-action romantic film; natural skin with visible pores; real-time motion; realistic hands and physics; motivated light; subtle film grain. Nobody looks into the lens. Instant hard cuts between shots. Each person appears once, never as a grid of the reference sheets.
 AVOID: look-alike faces, changed hair or outfits, distorted hands or extra fingers, duplicate people, character-sheet grids, warped backgrounds, slow motion, dissolves or double exposures, eye contact with the camera, exaggerated acting, waxy skin, cartoon look, readable text, subtitles, watermarks, extra logos, the two women looking alike.
 ```
 
@@ -209,7 +210,7 @@ CAMERA: Handheld 35mm follow on the steps, then a completely locked-off 40mm med
 LIGHTING: Low warm late-afternoon sun from screen-left, soft golden rim light.
 SOUND: Dialogue in Kazakh with the exact words above; footsteps on concrete; playful music that stops for the pause and comes back on "Үстінен қос!".
 
-STYLE: Photorealistic live-action romantic film; natural skin texture with visible pores; real-time motion; realistic hands and physics; motivated natural light; subtle film grain. Nobody looks into the lens. Shots are joined by instant hard cuts. Each person appears once, as a real person in a real place — never a grid or collage of the reference sheets.
+STYLE: Photorealistic live-action romantic film; natural skin with visible pores; real-time motion; realistic hands and physics; motivated light; subtle film grain. Nobody looks into the lens. Instant hard cuts between shots. Each person appears once, never as a grid of the reference sheets.
 AVOID: look-alike faces, changed hair or outfits, distorted hands or extra fingers, duplicate people, character-sheet grids, warped backgrounds, slow motion, dissolves or double exposures, eye contact with the camera, exaggerated acting, waxy skin, cartoon look, readable text, subtitles, watermarks, extra logos, close-up fake banknote designs.
 ```
 
@@ -238,7 +239,7 @@ CAMERA: 40mm two-shot with a very slow push-in, then an 85mm close-up with a smo
 LIGHTING: Low golden-hour sun from screen-left, warm rim light on his hair.
 SOUND: Dialogue in Kazakh with the exact words above; soft screen taps; the playful music lands on one bright final note.
 
-STYLE: Photorealistic live-action romantic film; natural skin texture with visible pores; real-time motion; realistic hands and physics; motivated natural light; subtle film grain. Nobody looks into the lens. Shots are joined by instant hard cuts. Each person appears once, as a real person in a real place — never a grid or collage of the reference sheets.
+STYLE: Photorealistic live-action romantic film; natural skin with visible pores; real-time motion; realistic hands and physics; motivated light; subtle film grain. Nobody looks into the lens. Instant hard cuts between shots. Each person appears once, never as a grid of the reference sheets.
 AVOID: look-alike faces, changed hair or outfits, distorted hands or extra fingers, duplicate people, character-sheet grids, warped backgrounds, slow motion, dissolves or double exposures, eye contact with the camera, exaggerated acting, waxy skin, cartoon look, readable text, subtitles, watermarks, extra logos, readable phone screens or numbers.
 ```
 
@@ -269,7 +270,7 @@ CAMERA: 50mm medium shots at eye level, static, shallow depth of field.
 LIGHTING: Night: warm lamps and the cool glow of phones on their faces. Day: soft flat window light — the colour of waiting.
 SOUND: Screen taps, message-sent sounds, a phone vibrating on the bedspread, quiet rooms, sparse piano notes. No dialogue.
 
-STYLE: Photorealistic live-action romantic film; natural skin texture with visible pores; real-time motion; realistic hands and physics; motivated natural light; subtle film grain. Nobody looks into the lens. Shots are joined by instant hard cuts. Each person appears once, as a real person in a real place — never a grid or collage of the reference sheets.
+STYLE: Photorealistic live-action romantic film; natural skin with visible pores; real-time motion; realistic hands and physics; motivated light; subtle film grain. Nobody looks into the lens. Instant hard cuts between shots. Each person appears once, never as a grid of the reference sheets.
 AVOID: look-alike faces, changed hair or outfits, distorted hands or extra fingers, duplicate people, character-sheet grids, warped backgrounds, slow motion, dissolves or double exposures, eye contact with the camera, exaggerated acting, waxy skin, cartoon look, readable text, subtitles, watermarks, extra logos, readable phone screens.
 ```
 > Монтажда хабарлама көпіршіктерін қосыңыз: 0–5 с — «Сәлем, Қарақат!», «Қалайсың?», «Таныссақ бола ма?»; 10–15 с — «Неге жауап бермейсің?»
@@ -300,7 +301,7 @@ CAMERA: 35mm leading track walking backward in the park; 85mm close-up on Qaraka
 LIGHTING: Dappled park sunlight; at night warm lamps and phone glow.
 SOUND: Dialogue in Kazakh with the exact words above; birdsong; a message-sent sound, then a vibration and message tone; a warm acoustic guitar begins at the end.
 
-STYLE: Photorealistic live-action romantic film; natural skin texture with visible pores; real-time motion; realistic hands and physics; motivated natural light; subtle film grain. Nobody looks into the lens. Shots are joined by instant hard cuts. Each person appears once, as a real person in a real place — never a grid or collage of the reference sheets.
+STYLE: Photorealistic live-action romantic film; natural skin with visible pores; real-time motion; realistic hands and physics; motivated light; subtle film grain. Nobody looks into the lens. Instant hard cuts between shots. Each person appears once, never as a grid of the reference sheets.
 AVOID: look-alike faces, changed hair or outfits, distorted hands or extra fingers, duplicate people, character-sheet grids, warped backgrounds, slow motion, dissolves or double exposures, eye contact with the camera, exaggerated acting, waxy skin, cartoon look, readable text, subtitles, watermarks, extra logos, readable phone screens, the two women looking alike.
 ```
 
@@ -331,7 +332,7 @@ CAMERA: 50mm over-the-shoulder into the mirror with a slow push-in; 50mm medium 
 LIGHTING: Warm window light in the bedroom; blue-hour sky mixed with warm street lamps and the cinema glow.
 SOUND: Fabric rustle, a hairpin click; city evening ambience; their soft laughter (no clear words); the warm acoustic guitar theme. No dialogue.
 
-STYLE: Photorealistic live-action romantic film; natural skin texture with visible pores; real-time motion; realistic hands and physics; motivated natural light; subtle film grain. Nobody looks into the lens. Shots are joined by instant hard cuts. Each person appears once, as a real person in a real place — never a grid or collage of the reference sheets.
+STYLE: Photorealistic live-action romantic film; natural skin with visible pores; real-time motion; realistic hands and physics; motivated light; subtle film grain. Nobody looks into the lens. Instant hard cuts between shots. Each person appears once, never as a grid of the reference sheets.
 AVOID: look-alike faces, changed hair or outfits, distorted hands or extra fingers, duplicate people, character-sheet grids, warped backgrounds, slow motion, dissolves or double exposures, eye contact with the camera, exaggerated acting, waxy skin, cartoon look, readable text, subtitles, watermarks, extra logos, mismatched mirror reflection, readable signs or posters.
 ```
 
@@ -361,7 +362,7 @@ CAMERA: 50mm two-shots for the cinema, café and bookstore; 35mm static medium-w
 LIGHTING: Projector flicker; warm café pendants; warm bookstore light; at night one street lamp and the warm glow of the entrance door.
 SOUND: Muffled indistinct film sound, café murmur, pages rustling, the door's soft click, his quiet laugh; the guitar theme throughout. No dialogue.
 
-STYLE: Photorealistic live-action romantic film; natural skin texture with visible pores; real-time motion; realistic hands and physics; motivated natural light; subtle film grain. Nobody looks into the lens. Shots are joined by instant hard cuts. Each person appears once, as a real person in a real place — never a grid or collage of the reference sheets.
+STYLE: Photorealistic live-action romantic film; natural skin with visible pores; real-time motion; realistic hands and physics; motivated light; subtle film grain. Nobody looks into the lens. Instant hard cuts between shots. Each person appears once, never as a grid of the reference sheets.
 AVOID: look-alike faces, changed hair or outfits, distorted hands or extra fingers, duplicate people, character-sheet grids, warped backgrounds, slow motion, dissolves or double exposures, eye contact with the camera, exaggerated acting, waxy skin, cartoon look, readable text, subtitles, watermarks, extra logos, the cinema screen or film footage in frame, readable book titles.
 ```
 
@@ -394,7 +395,7 @@ CAMERA: Each cut lands on the music beat: close-ups at pillow level, a side trac
 LIGHTING: Moonlight and lamp glow; bright warm sun on the steppe; TV glow; sunny window; warm street lamps.
 SOUND: One romantic song across the whole clip, every cut on a beat; hooves, popcorn, cups, footsteps under it. No dialogue.
 
-STYLE: Photorealistic live-action romantic film; natural skin texture with visible pores; real-time motion; realistic hands and physics; motivated natural light; subtle film grain. Nobody looks into the lens. Shots are joined by instant hard cuts. Each person appears once, as a real person in a real place — never a grid or collage of the reference sheets.
+STYLE: Photorealistic live-action romantic film; natural skin with visible pores; real-time motion; realistic hands and physics; motivated light; subtle film grain. Nobody looks into the lens. Instant hard cuts between shots. Each person appears once, never as a grid of the reference sheets.
 AVOID: look-alike faces, changed hair or outfits, distorted hands or extra fingers, duplicate people, character-sheet grids, warped backgrounds, slow motion, dissolves or double exposures, eye contact with the camera, exaggerated acting, waxy skin, cartoon look, readable text, subtitles, watermarks, extra logos, the TV screen or film footage in frame, recognisable film characters, unnatural horse legs.
 ```
 > Сценарийде кино кеші — «Гарри Поттер». Авторлық құқыққа байланысты фильмнің өзі кадрда көрсетілмейді.
@@ -425,7 +426,7 @@ CAMERA: 35mm wide from behind with a slow push-in, then an 85mm-feel over-the-sh
 LIGHTING: Warm low sun backlighting them, a golden rim on hair and shoulders, soft candle fill on faces, no lens flares.
 SOUND: Gentle waves, a light breeze, her soft laugh; slow strings that drop very low under his voice. Dialogue in Kazakh with the exact words above.
 
-STYLE: Photorealistic live-action romantic film; natural skin texture with visible pores; real-time motion; realistic hands and physics; motivated natural light; subtle film grain. Nobody looks into the lens. Shots are joined by instant hard cuts. Each person appears once, as a real person in a real place — never a grid or collage of the reference sheets.
+STYLE: Photorealistic live-action romantic film; natural skin with visible pores; real-time motion; realistic hands and physics; motivated light; subtle film grain. Nobody looks into the lens. Instant hard cuts between shots. Each person appears once, never as a grid of the reference sheets.
 AVOID: look-alike faces, changed hair or outfits, distorted hands or extra fingers, duplicate people, character-sheet grids, warped backgrounds, slow motion, dissolves or double exposures, eye contact with the camera, exaggerated acting, waxy skin, cartoon look, readable text, subtitles, watermarks, extra logos, other people on the beach, oversaturated sky.
 ```
 
@@ -453,7 +454,7 @@ CAMERA: 85mm-feel over-the-shoulder close-up on Qarakat, static; then a 50mm sta
 LIGHTING: Warm sunset light on her face, candle fill, golden backlight in the profile shot.
 SOUND: Waves; strings slowly rising, then near-silence before the question. Dialogue in Kazakh with the exact words above.
 
-STYLE: Photorealistic live-action romantic film; natural skin texture with visible pores; real-time motion; realistic hands and physics; motivated natural light; subtle film grain. Nobody looks into the lens. Shots are joined by instant hard cuts. Each person appears once, as a real person in a real place — never a grid or collage of the reference sheets.
+STYLE: Photorealistic live-action romantic film; natural skin with visible pores; real-time motion; realistic hands and physics; motivated light; subtle film grain. Nobody looks into the lens. Instant hard cuts between shots. Each person appears once, never as a grid of the reference sheets.
 AVOID: look-alike faces, changed hair or outfits, distorted hands or extra fingers, duplicate people, character-sheet grids, warped backgrounds, slow motion, dissolves or double exposures, eye contact with the camera, exaggerated acting, waxy skin, cartoon look, readable text, subtitles, watermarks, extra logos, an oversized or glowing ring, magical sparkles.
 ```
 
@@ -481,7 +482,7 @@ CAMERA: 85mm-feel close two-shot with a very slow push-in, then one smooth, slow
 LIGHTING: Golden sunset rim light, candles glowing warmer as the light fades, real tears, natural skin.
 SOUND: No words. Waves; the strings swell on her nod and resolve into a warm chord.
 
-STYLE: Photorealistic live-action romantic film; natural skin texture with visible pores; real-time motion; realistic hands and physics; motivated natural light; subtle film grain. Nobody looks into the lens. Shots are joined by instant hard cuts. Each person appears once, as a real person in a real place — never a grid or collage of the reference sheets.
+STYLE: Photorealistic live-action romantic film; natural skin with visible pores; real-time motion; realistic hands and physics; motivated light; subtle film grain. Nobody looks into the lens. Instant hard cuts between shots. Each person appears once, never as a grid of the reference sheets.
 AVOID: look-alike faces, changed hair or outfits, distorted hands or extra fingers, duplicate people, character-sheet grids, warped backgrounds, slow motion, dissolves or double exposures, eye contact with the camera, exaggerated acting, waxy skin, cartoon look, readable text, subtitles, watermarks, extra logos, distorted fingers, the ring changing shape, a drone circling them.
 ```
 
@@ -514,7 +515,7 @@ CAMERA: 50mm over-the-shoulder into mirrors; macro for the rings; 85mm close-up 
 LIGHTING: Bright soft window light, white and warm gold tones.
 SOUND: Celebratory wedding music; fabric rustle. No dialogue.
 
-STYLE: Photorealistic live-action romantic film; natural skin texture with visible pores; real-time motion; realistic hands and physics; motivated natural light; subtle film grain. Nobody looks into the lens. Shots are joined by instant hard cuts. Each person appears once, as a real person in a real place — never a grid or collage of the reference sheets.
+STYLE: Photorealistic live-action romantic film; natural skin with visible pores; real-time motion; realistic hands and physics; motivated light; subtle film grain. Nobody looks into the lens. Instant hard cuts between shots. Each person appears once, never as a grid of the reference sheets.
 AVOID: look-alike faces, changed hair, any outfit other than the wedding outfits, distorted hands or extra fingers, duplicate people, character-sheet grids, warped backgrounds, slow motion, dissolves or double exposures, eye contact with the camera, exaggerated acting, waxy skin, cartoon look, readable text, subtitles, watermarks, extra logos, mismatched mirror reflections, the helper's face, text on the ring box, Arai appearing.
 ```
 
@@ -544,7 +545,7 @@ CAMERA: 24–35mm rectilinear dolly forward; 50mm slow lateral drift past the gu
 LIGHTING: Warm chandelier light and a warm backlight from the doorway, white and gold, natural skin.
 SOUND: Wedding music building to its peak, applause, joyful voices (no clear words).
 
-STYLE: Photorealistic live-action romantic film; natural skin texture with visible pores; real-time motion; realistic hands and physics; motivated natural light; subtle film grain. Nobody looks into the lens. Shots are joined by instant hard cuts. Each person appears once, as a real person in a real place — never a grid or collage of the reference sheets.
+STYLE: Photorealistic live-action romantic film; natural skin with visible pores; real-time motion; realistic hands and physics; motivated light; subtle film grain. Nobody looks into the lens. Instant hard cuts between shots. Each person appears once, never as a grid of the reference sheets.
 AVOID: look-alike faces, changed hair, any outfit other than the wedding outfits, distorted hands or extra fingers, duplicate people, character-sheet grids, warped backgrounds, slow motion, dissolves or double exposures, eye contact with the camera, exaggerated acting, waxy skin, cartoon look, readable text, subtitles, watermarks, extra logos, an extra bride or groom, duplicate faces, fisheye distortion.
 ```
 > Финалдық жазу монтажда қосылады (қара экран, ~5 с): «ЖАНДОС ❤️ ҚАРАҚАТ / Бір кездейсоқ көзқарастан басталған махаббат... / Бүгін мәңгілікке жалғасты. / Енді олар бір-бірінің өмірлік серігі! / Бақытты болыңыздар!» Нағыз той болса, 4–8 с бөлігін шынайы туыстардың бейнежазбасымен ауыстырған жақсы.
@@ -553,7 +554,7 @@ AVOID: look-alike faces, changed hair, any outfit other than the wedding outfits
 
 ## Клиптердің жалғануы
 
-- **G01 → G02:** G02 сол үш адамдық кадрдан, сол позициялардан (скамейкада отырып) басталады — монтажда тікелей кесу.
+- **G01 → G02:** G02 сол скамейкадан, сол отыру ретімен басталады (Жандос сол шетте, 1-дос ортада) — монтажда тікелей кесу.
 - **G02 → G03:** Түннен күндізге тікелей кесу; кафе есігінің қоңырауы кесуден сәл бұрын естіледі (J-cut).
 - **G03 → G04:** Арайдың «Неге?» деген сөзінен кейінгі кідірісте Жандостың иығы үстінен түсірілген кадрға кесу.
 - **G04 → G05:** Есік арқылы өту: спорт кешенінің шыны есігі ашылып, Жандос шығады; ойнақы әуен екі клипке ортақ.
