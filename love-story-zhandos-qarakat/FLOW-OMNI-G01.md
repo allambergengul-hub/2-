@@ -2,7 +2,11 @@
 
 **Баптаулар:** Видео → Ингредиенты · 16:9 · Omni 1.2 Flash · 720p · 15 сек · x1
 
-**Референстер:**
+**Референстер — кейіпкер парағын (торды) ЕМЕС, бөлек кесінділерді жүктеңіз:** әр кейіпкерге 2 сурет, барлығы 6: `1-zhandos-face`, `1-zhandos-full`, `2-qarakat-face`, `2-qarakat-full`, `3-arai-face`, `3-arai-full`.
+
+> **Неге тор жарамайды:** бірінші Omni видеосында (2026-11-24) Жандостың беті кадрдан кадрға екі түрлі шықты, Қарақаттың дене бітімі өзгерді, ал Жандостың мойнында Қарақаттың жетон-кулоны пайда болды. Кейіпкер парағында 6–12 кішкентай бет бар, сондықтан әр беттің ажыратымдылығы төмен. Модель бірнеше бұрыштан түсірілген суреттерді «орташа» бетке айналдырады, ал бір парақтағы детальдар (кулон, сырға) басқа кейіпкерге ауысып кетеді.
+
+**Бұрынғы кеңестер:**
 - **Ең аз:** 3 сурет — Жандос, Қарақат, Арай.
 - **Ұсынылатыны (модель 7 суретке дейін қабылдаса):** әр кейіпкерге 2 сурет, барлығы 6. Біреуі беттің ірі планы (алдынан), екіншісі толық бой (алдынан). Әр парақтан кесіп алыңыз. Бір адамның екі түрлі көрінісі оның бетін жақсырақ ұстайды.
 - Промптта кейіпкерлер сурет нөмірімен емес, **киімі арқылы** анықталады: қара adidas худи — Жандос, қою көк худи мен түйілген шаш — Қарақат, ақшыл худи мен бұйра шаш — Арай. Сондықтан суреттердің ретінің маңызы жоқ.
@@ -10,9 +14,9 @@
 ```text
 A photorealistic live-action romantic film scene, 15 seconds, 16:9, natural real-time motion, cinematic handheld camera, subtle film grain. Fast, energetic editing with hard cuts — no dissolves.
 
-IDENTITY LOCK — most important: the three main characters must look exactly like the people in the reference images in every single shot: the same face shape, eyes, nose, lips, skin, moles, hairstyle and hair colour, the same body proportions and the same outfit. Do not beautify, age, slim or restyle them, and never replace them with look-alikes. Each person appears only once in the frame.
-- ZHANDOS — the young man in the black adidas hoodie with three white sleeve stripes: thick messy jet-black hair falling over his forehead, small dark moles on his cheeks, black track pants with white side stripes, white sneakers with black stripes.
-- QARAKAT — the young woman in the oversized dark-navy hoodie: black hair in a high round bun, large thin silver hoop earrings, a silver dog-tag pendant on a long chain, grey joggers, white sneakers.
+IDENTITY LOCK — most important: the three main characters must look exactly like the people in the reference images in every single shot: the same face shape, eyes, nose, lips, skin, moles, hairstyle and hair colour, the same body proportions and the same outfit. Do not beautify, age, slim or restyle them, and never replace them with look-alikes; the same face must stay identical from the wide shots to the close-ups. Accessories never move from one person to another. Each person appears only once in the frame.
+- ZHANDOS — the young man in the black adidas hoodie with three white sleeve stripes: long oval face, narrow calm eyes, thick messy jet-black hair falling over his forehead, a few small moles on his cheeks, black track pants with white side stripes, white sneakers with black stripes. He wears NO necklace or jewellery.
+- QARAKAT — the young woman in the oversized dark-navy hoodie: slim build, black hair in a high round bun, large thin silver hoop earrings, a silver dog-tag pendant on a long chain (only she wears it), grey joggers, white sneakers.
 - ARAI — the young woman in the cream hoodie with pink drawstrings and a small pink heart: long curly chestnut-brown hair in a high ponytail, light freckles, black track pants with two white side stripes, pink-and-white sneakers.
 Supporting: one teammate (white T-shirt, black leggings, long black ponytail); Zhandos's two friends (a buzz cut in a grey hoodie; a black cap and dark-green track jacket); a few blurred students in red, blue and yellow T-shirts in the background.
 
