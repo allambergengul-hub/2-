@@ -37,7 +37,7 @@ WARD = {
                 "Референстегі қара adidas худи мен шалбар (ақ үш жолақ), ақ кроссовка — өзгеріссіз"),
     "ZH_SUIT": ("Zhandos", '''classic black two-piece suit, crisp white shirt, slim black tie, polished black leather shoes.''',
                 "Қара костюм, ақ көйлек, қара галстук, қара туфли"),
-    "QA_SPORT": ("Qarakat", '''oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs (medium-light grey, not white, not cream), plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged; she carries no bag or backpack.''',
+    "QA_SPORT": ("Qarakat", '''oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose medium heather-grey jogger sweatpants with elastic cuffs — clearly grey, visibly darker than her white sneakers, not white, not cream, not beige, plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged; she carries no bag or backpack.''',
                 "Референстегі қою көк худи, күміс жетон-кулон, ашық сұр шалбар, ақ кроссовка, күміс сырға — өзгеріссіз"),
     "QA_DATE": ("Qarakat", '''oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs, plain white low-top sneakers, the large thin silver hoop earrings — exactly as in reference image 2, unchanged.''',
                 "Референстегі қою көк худи, күміс жетон-кулон, ашық сұр шалбар, ақ кроссовка, күміс сырға — өзгеріссіз"),
@@ -103,7 +103,7 @@ LOC = {
                '''Warm chandelier light mixed with daylight, a white and gold palette, natural skin tones.'''),
 }
 
-VISUAL = '''High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition.'''
+VISUAL = '''High-end photorealistic live-action cinema, natural human anatomy, realistic skin texture with visible pores, believable physics and weight, coherent natural real-time motion at 24fps, detailed environment, controlled depth of field, cinematic composition. Characters never look into the camera lens; their eyes go to the person or place the action describes.'''
 
 AVOID = '''Face identity drift, altered facial features, changed hairstyles, wardrobe changes, extra fingers or limbs, distorted hands, duplicate people, floating objects, warped backgrounds, unnatural body movement, slow motion, exaggerated acting, waxy or plastic skin, cartoon or 3D-render look, random text, subtitles, logos or brand marks beyond the reference outfits, watermarks, cuts within the shot, unrequested visual effects'''
 

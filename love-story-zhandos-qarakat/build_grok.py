@@ -16,7 +16,7 @@ KK = {"ZH": "Жандос", "QA": "Қарақат", "AR": "Арай"}
 ORDER = ["ZH", "QA", "AR"]
 
 ZH_REF = "exactly the outfit from @image1, unchanged: black adidas hoodie with three white stripes down each sleeve and a small white trefoil logo on the chest, black track pants with three white side stripes and a small white logo, white low-top sneakers with three black stripes"
-QA_REF = "exactly the outfit from @image2, unchanged: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose light heather-grey jogger sweatpants with elastic cuffs (medium-light grey, not white, not cream), plain white low-top sneakers; she carries no bag or backpack"
+QA_REF = "exactly the outfit from @image2, unchanged: oversized plain dark-navy hoodie with dark drawstrings, a silver dog-tag pendant on a long thin chain worn over the hoodie, loose medium heather-grey jogger sweatpants with elastic cuffs — clearly grey, visibly darker than her white sneakers, not white, not cream, not beige, plain white low-top sneakers; she carries no bag or backpack"
 AR_REF = "exactly the outfit from @image3, unchanged: oversized cream-ivory hoodie with pale-pink drawstrings and a small pale-pink heart on the left chest, black track pants with two white side stripes, pink-and-white low-top sneakers"
 WARD = {
     "ZH_SPORT": ZH_REF, "ZH_DATE": ZH_REF, "ZH_SEA": ZH_REF,
@@ -29,8 +29,8 @@ WARD = {
 FRIENDS = "Zhandos's two friends (supporting, never in close-up): one with buzz-cut hair in a grey hoodie, one in a black cap and dark-green track jacket."
 TEAM = "Qarakat's teammates (supporting, soft focus): young women in black leggings and white or grey T-shirts — none in a navy or cream hoodie, none with a high bun or hoop earrings."
 
-STYLE = "One continuous real scene, each person appears only once (the reference images are character sheets — never show a grid, collage or duplicate copies). Photorealistic live-action romantic film, natural skin texture with visible pores, natural real-time motion (no slow motion), realistic hands and physics, motivated natural light, subtle film grain, cinematic 16:9 composition."
-AVOID = "face changes or look-alike actors, changed hairstyles or outfits, distorted hands or extra fingers, duplicate people, warped backgrounds, slow motion, exaggerated acting, waxy skin, cartoon look, readable text on screens or signs, subtitles, watermarks, logos other than those on the reference outfits, character-sheet grids or split panels, duplicate copies of a person"
+STYLE = "Characters never look into the camera lens — their eyes go to the person or place the action describes. One continuous real scene, each person appears only once (the reference images are character sheets — never show a grid, collage or duplicate copies). Photorealistic live-action romantic film, natural skin texture with visible pores, natural real-time motion (no slow motion), realistic hands and physics, motivated natural light, subtle film grain, cinematic 16:9 composition."
+AVOID = "face changes or look-alike actors, changed hairstyles or outfits, distorted hands or extra fingers, duplicate people, warped backgrounds, slow motion, exaggerated acting, waxy skin, cartoon look, readable text on screens or signs, subtitles, watermarks, logos other than those on the reference outfits, character-sheet grids or split panels, duplicate copies of a person, eye contact with the camera"
 
 CLIPS = []
 
@@ -42,21 +42,23 @@ def G(**k):
 G(n=1, scene=1, kk="Алғашқы көзқарас", en="The First Look",
   cast=[("ZH", "ZH_SPORT"), ("QA", "QA_SPORT")], extra=[TEAM, FRIENDS],
   sum="Ойын бітті, Қарақат құрбыларымен шығып барады; Жандос оны көріп қалады: «Анау қыз кім өзі?»",
-  loc="An indoor volleyball gym in the evening: polished honey-coloured wooden floor with white court lines, a net, wooden bleachers along the right wall, exit doors on the left, dark windows high up.",
-  tl=[("0–5 s", "Wide shot from the edge of the court at floor level. A white-and-blue volleyball already lying on the floor in the foreground bounces twice, low, and rolls out of frame screen-left — nobody throws it. The women's game has just ended: QARAKAT and two teammates walk from screen-RIGHT to screen-LEFT across the frame, side-on to the camera, toward the exit double doors in the LEFT wall, laughing. Qarakat carries nothing. Far in the background at screen-right, ZHANDOS and his two friends stand still by the bleachers, small in frame — they stay there and do not walk onto the court."),
-      ("5–10 s", "CUT TO a medium shot of ZHANDOS standing by the bleachers, laughing with his two friends. His eyes drift screen-left and stop on Qarakat, who is soft in the background still walking left toward the exit; his laugh fades and he blinks once. The camera pushes in slowly to a close-up of his face as the gym noise fades."),
-      ("10–15 s", 'Close-up, eyes still on her, Zhandos says quietly and slowly, every word clear and separate: "Анау қыз... кім өзі?" CUT TO a medium three-shot: FRIEND 1 — the buzz-cut friend in the grey hoodie at screen-left — follows his gaze and answers casually: "Қайсы? Қарақат па? Ол біздің танысымыз ғой." FRIEND 2 (black cap, screen-right) stays silent and smiles. Final frame: Zhandos turning to Friend 1, interested.')],
-  cam="35mm wide tracking shot, then a slow 50→85mm push-in on Zhandos, then a 40mm three-shot with gentle handheld breathing; shallow depth of field.",
+  loc="An indoor volleyball gym in the evening: polished honey-coloured wooden floor, a net, wooden bleachers along the BACK wall, exit double doors in the LEFT wall.",
+  space="Zhandos and his friends stand at the RIGHT end of the bleachers. Qarakat walks from right to left toward the exit doors — away from him. Everything Zhandos looks at is to his LEFT, so he always looks screen-LEFT. When his face is on screen, Qarakat is OFF-SCREEN left, never in the background behind him.",
+  tl=[("0–4 s", "SHOT 1 — low wide from the near side of the court, facing the back wall: exit doors at screen-left, Zhandos and two friends small and still at the right end of the bleachers. A volleyball lying on the floor in the foreground bounces twice, low, and rolls out of frame left. QARAKAT and two teammates walk from screen-right to screen-left, side-on to the camera, toward the exit, laughing. Qarakat carries nothing."),
+      ("4–8 s", "SHOT 2 — over-the-shoulder from directly behind ZHANDOS: the back of his head and right shoulder soft in the right foreground; he slowly turns his head left. Sharp in the middle distance at screen-left, Qarakat walks away from him toward the exit doors. We see what he sees."),
+      ("8–11 s", 'SHOT 3 — close-up of ZHANDOS in three-quarter profile facing screen-LEFT; behind him only the bleachers, no girls. His eyes stay fixed off-screen left, past the lens, following her; his smile fades, he blinks once and says quietly and slowly, every word separate: "Анау қыз... кім өзі?"'),
+      ("11–15 s", 'SHOT 4 — eye-level three-shot: FRIEND 1 (buzz-cut, grey hoodie) at screen-left, Zhandos centre, FRIEND 2 (black cap, green track jacket) at screen-right. Friend 1 glances left toward the exit and answers casually: "Қайсы? Қарақат па? Ол біздің танысымыз ғой." Zhandos turns his head left to him, interested; Friend 2 smiles, silent.')],
+  cam="24mm low wide → 50mm over-the-shoulder with Qarakat in focus → 85mm close-up → 40mm three-shot; hard cuts; the 180-degree line is kept — Zhandos always looks screen-left.",
   light="Even overhead LED panels, warm bounce from the wooden floor, natural skin tones.",
-  sound="Two low hollow ball bounces echoing, sneakers squeaking, indistinct happy chatter (no clear words); the gym reverb fades as one soft piano note begins. Dialogue in Kazakh with the exact words above, slow and clearly articulated — \"Анау қыз кім өзі?\" is four separate words (Анау / қыз / кім / өзі), never merged; the \"...\" is only a short pause.",
-  avoid="extra players crowding the frame, a second woman with a high bun, Zhandos walking onto the court or beside the girls, the girls walking toward the camera or to the right, a ball thrown in the air, a bag or backpack on Qarakat, white or cream trousers on Qarakat, Zhandos with swept-back or short neat hair",
+  sound="Two low ball bounces, sneakers squeaking, indistinct happy chatter; the gym noise fades in Shot 2 and a soft piano note begins. Kazakh dialogue, exact words, slow and clear: \"Анау қыз кім өзі?\" is four separate words, never merged; \"...\" is a short pause.",
+  avoid="Qarakat or the exit doors behind Zhandos in his close-up, Zhandos looking right, Zhandos walking onto the court, the girls walking toward the camera, a bag on Qarakat, white or cream trousers on Qarakat, swept-back hair on Zhandos",
   fb="01, 02, 03",
   seam="G02 сол үш адамдық кадрдан, сол позициялардан басталады — монтажда тікелей кесу.")
 
 G(n=2, scene=1, kk="Кешікті", en="Too Late",
   cast=[("ZH", "ZH_SPORT"), ("QA", "QA_SPORT")], extra=[FRIENDS, TEAM],
   sum="Достарында нөмір жоқ; Жандос сыртқа жүгіреді, бірақ Қарақат таксиге отырып кетіп қалады.",
-  loc="Inside: the same evening volleyball gym by the bleachers. Outside: the sports complex at night — wide concrete steps, glass doors glowing at screen-right, a quiet street running left–right, warm street lamps.",
+  loc="Inside: the same evening volleyball gym — bleachers along the back wall, exit doors in the left wall. Outside: the sports complex at night — wide concrete steps, glass doors glowing at screen-right, a quiet street running left–right, warm street lamps.",
   tl=[("0–5 s", 'Medium three-shot by the bleachers. ZHANDOS turns to his friend, eager: "Қарақат дейсің бе? Нөмірі бар ма?" FRIEND 2 shrugs: "Жоқ, нөмірі бізде жоқ." Zhandos immediately hurries out of frame screen-left toward the exit.'),
       ("5–10 s", "CUT TO outside at night, wide shot from across the street: a white taxi waits at the curb; the teammates get in, QARAKAT (navy hoodie, high bun, silver hoops) gets in last and the door shuts; the taxi pulls away screen-left. The glass doors at screen-right swing open and Zhandos runs down the steps."),
       ("10–15 s", "Zhandos slows and stops at the curb, watching the red tail lights shrink into the distance; he exhales and gives a small rueful smile to himself. Final frame: Zhandos alone at the curb in a three-quarter back view under the street lamps.")],
@@ -295,7 +297,10 @@ def build_prompt(c):
         L.append(line)
     for e in c["extra"]:
         L.append("- " + e)
-    L += ["", "LOCATION: " + c["loc"], "", "TIMELINE:"]
+    L += ["", "LOCATION: " + c["loc"]]
+    if c.get("space"):
+        L += ["SPACE & EYELINES: " + c["space"]]
+    L += ["", "TIMELINE:"]
     for r, t in c["tl"]:
         L.append(f"{r}: {t}")
     avoid = AVOID.replace("changed hairstyles or outfits", "changed hairstyles, any outfit other than the wedding outfits described") if wedding else AVOID
