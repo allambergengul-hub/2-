@@ -35,10 +35,10 @@ def load(path):
 # w0/w1: first word start / last sound end in the source (s)
 CLIPS = [
     dict(src="096ca9cf-grok_video_2026-11-26-15-13-19.mp4", a=0.0, b=6.0, tempo=1.0, st=0, intro=True),
-    dict(src="650cb676-grok_video_2026-11-26-15-02-12.mp4", a=0.0, b=5.78, tempo=1.12, st=-0.71, pre=0.8, w0=0.08, w1=5.30),
-    dict(src="1f242d58-grok_video_2026-11-26-15-03-43.mp4", a=0.095, b=9.92, tempo=0.93, st=0.51, w0=0.30, w1=9.35),
-    dict(src="ce2e77e4-grok_video_2026-11-26-15-05-33.mp4", a=0.0, b=7.86, tempo=0.97, st=-0.95, w0=0.0, w1=7.45),
-    dict(src="df869b52-grok_video_2026-11-26-15-11-53.mp4", a=0.06, b=12.04, tempo=1.0, st=1.15, post=2.5, w0=0.27, w1=11.30),
+    dict(src="650cb676-grok_video_2026-11-26-15-02-12.mp4", a=0.0, b=5.77, tempo=0.99, st=-0.71, pre=0.8, w0=0.08, w1=5.30),
+    dict(src="1f242d58-grok_video_2026-11-26-15-03-43.mp4", a=0.15, b=9.845, tempo=0.811, st=0.51, w0=0.30, w1=9.35),
+    dict(src="ce2e77e4-grok_video_2026-11-26-15-05-33.mp4", a=0.0, b=7.85, tempo=0.847, st=-0.95, w0=0.0, w1=7.45),
+    dict(src="df869b52-grok_video_2026-11-26-15-11-53.mp4", a=0.12, b=12.04, tempo=0.874, st=1.15, post=2.5, w0=0.27, w1=11.30),
 ]
 # transitions between consecutive clips: (type, duration)
 TRANS = [("fadewhite", 0.8), ("circleopen", 0.5), ("hblur", 0.5), ("fade", 0.5)]
@@ -49,7 +49,7 @@ for i, c in enumerate(CLIPS):
     vf = [f"trim=start={c['a']}:end={c['b']}", "setpts=PTS-STARTPTS"]
     if c["tempo"] != 1.0:
         vf.append(f"setpts=PTS/{c['tempo']}")
-    vf.append(f"fps={FPS}")
+    vf.append(f"framerate=fps={FPS}" if c["tempo"] < 1.0 else f"fps={FPS}")  # blend frames when slowing
     if c.get("pre"):
         vf.append(f"tpad=start_duration={c['pre']}:start_mode=clone")
     if c.get("post"):
@@ -108,12 +108,13 @@ for i, db in ltas.items():
     CLIPS[i]["eq_dbg"] = [round(float(g), 1) for g in corr]
 
 # ---------------------------------------------------------------- stage 2: EQ + gentle compression, then loudness match
-SPEECH_LUFS = -16.0
+SPEECH_LUFS = -14.0
 for i, c in enumerate(CLIPS):
     if c.get("intro"):
         continue
     af = [f"firequalizer=gain_entry='{c['eq']}':gain='cubic_interpolate(f)'",
-          "acompressor=threshold=-22dB:ratio=2.5:attack=8:release=160:makeup=1"]
+          "acompressor=threshold=-22dB:ratio=2.5:attack=8:release=160:makeup=1",
+          "equalizer=f=3000:t=q:w=1:g=2.5"]  # presence lift for intelligibility over music
     run(["ffmpeg", "-y", "-i", f"{WD}/s1_{i}.wav", "-af", ",".join(af), "-c:a", "pcm_s16le", f"{WD}/s2_{i}.wav"])
     g = SPEECH_LUFS - lufs(f"{WD}/s2_{i}.wav")
     pre = c.get("pre", 0)
@@ -152,11 +153,28 @@ for s, e in speech[1:]:
         merged.append([s, e])
 
 # ---------------------------------------------------------------- music bed with ducking automation
-MUSIC_LUFS = -15.0   # music level when nobody speaks
-DUCK_DB = -16.0      # extra attenuation under speech
-mus_raw = f"{WD}/music_raw.wav"
+MUSIC_LUFS = -16.0   # music level when nobody speaks
+DUCK_DB = -21.0      # extra attenuation under speech
+mus_src = f"{WD}/music_src.wav"
 run(["ffmpeg", "-y", "-i", f"{U}/13389632-VID_20261126_113300_647.mp4", "-vn", "-ar", str(SR), "-ac", "2",
-     "-t", f"{total + 0.5:.3f}", "-c:a", "pcm_s16le", mus_raw])
+     "-c:a", "pcm_s16le", mus_src])
+# The song itself ends at ~43.7 s (rest of the clip is silent). If the video is longer, repeat one chorus
+# cycle ("Тәй-тәй басқан құлыным…", period 6.666 s) with a short equal-power crossfade at a point where
+# both copies line up (waveform correlation ~0.7), so the song keeps going in time.
+SONG_END, LOOP_P, SPLICE = 43.7, 6.666354, 18.21
+w = wave.open(mus_src)
+m = np.frombuffer(w.readframes(w.getnframes()), dtype=np.int16).reshape(-1, 2).astype(np.float32)
+m = m[:int(SONG_END * SR)]
+while len(m) / SR < total + 0.5:
+    i, p, xf = int(SPLICE * SR), int(LOOP_P * SR), int(0.06 * SR)
+    ramp = np.sin(np.linspace(0, np.pi / 2, xf))[:, None]
+    head, tail = m[:i], m[i - p:]
+    mid = head[-xf:] * ramp[::-1] + tail[:xf] * ramp
+    m = np.concatenate([head[:-xf], mid, tail[xf:]])
+mus_raw = f"{WD}/music_raw.wav"
+with wave.open(mus_raw, "w") as o:
+    o.setnchannels(2); o.setsampwidth(2); o.setframerate(SR)
+    o.writeframes(np.clip(m[:int((total + 0.5) * SR)], -32768, 32767).astype(np.int16).tobytes())
 mg = MUSIC_LUFS - lufs(mus_raw)
 att, rel = 0.35, 0.6
 terms = []
